@@ -1,24 +1,27 @@
 ---
-title: Call center functionality | Microsoft Docs
+title: Call center functionality
 description: This article provides an overview of the call center sales functionality in Microsoft Dynamics 365 for Operations.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:12:14
+ms.date: 2015-12-04 02 - 12 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16361
-ms.assetid: 1db5be10-35ec-4199-a4ae-0c2a43673326
-ms.region: global
-ms.industry: Retail
+ms.assetid: c8ed2ba4-8d06-4d99-9728-2a83e6d95ca9
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6aee4be3b98dbb19102779ede076da10699dff38
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 25ba45409d410c592d3a35f37542aebb5fe10296
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -42,10 +45,5 @@ After you enable these features in the call center settings, they are available 
 -   Sales clerks can sell continuity programs.
 -   Orders can be put on hold manually or automatically, to indicate that additional investigation is required before the order can be processed.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

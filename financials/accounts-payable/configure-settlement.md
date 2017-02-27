@@ -1,24 +1,27 @@
 ---
-title: Configure settlement | Microsoft Docs
+title: Configure settlement
 description: How and when transactions are settled can be complex subjects, so it&quot;s essential that you understand and correctly define the parameters to meet your business requirements. This article describes the parameters that are used for settlement for both Accounts payable and Accounts receivable.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:35:59
+ms.date: 2015-12-02 23 - 35 - 59
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, CustParameters, VendOpenTrans, VendParameters
+ms.search.form: CustOpenTrans, CustParameters, VendOpenTrans, VendParameters
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14601
-ms.assetid: 083fa9a6-33bf-477e-986d-369db8cefa92
-ms.region: Global
+ms.assetid: 6b61e08c-aa8b-40c0-b904-9bca4e8096e7
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 47ff2c2c8689dd789d462945bab6f1fa88de43e7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6c37c87152a609bfcd18eef28f1f588f60430ed7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -52,10 +55,5 @@ The following parameters affect how settlements are processed in Microsoft Dynam
 -   **Prioritize settlement (AR only)** – Set this option to **Yes** to enable the **Mark by priority** button on the **Enter customer payments** and **Settle transactions** pages. This button lets users assign the predetermined settlement order to transactions.  After the settlement order has been applied to a transaction, the order and the payment allocation can be modified before posting.
 -   **Use priority for automatic settlements** – Set this option to **Yes** to use the defined priority order when transactions are automatically settled. This field is available only if the **Prioritize settlement** and **Automatic settlement** options are set to **Yes**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Intrastat | Microsoft Docs
+title: Intrastat
 description: This article provides information about Intrastat reporting for the trade of goods and, in some cases, services among countries/regions of the European Union (EU). It provides an overview of the reporting process, and describes the required settings and prerequisites.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-21 16:12:11
+ms.date: 2015-12-21 16 - 12 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: Intrastat
+ms.search.form: Intrastat
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 28581
-ms.assetid: 5dd68aff-0a7c-4478-bdc6-e24a9eb3bbd6
-ms.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
+ms.assetid: 7d53a168-1827-48b8-99f8-b1e77efd3dff
+ms.search.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d3e3d0dccfdb855252ea2914c97ecccca5c1c45b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 23def6756e405bd7d976899db57b0fe01ba4bc6b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -233,10 +235,5 @@ Use the **Foreign trade parameters** page to set up the parameters in the follow
 </table>
 
  
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

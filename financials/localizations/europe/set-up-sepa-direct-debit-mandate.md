@@ -1,23 +1,25 @@
 ---
-title: Set up SEPA direct debit mandate | Microsoft Docs
+title: Set up SEPA direct debit mandate
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 21:16:37
+ms.date: 2016-03-07 21 - 16 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59491
-ms.assetid: ba45f59d-db66-409d-ae4f-51cd1fdc87f6
-ms.region: Global
+ms.assetid: 653a135f-c515-4ae3-9da2-82b5e1f103b5
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f509d3c197cfdcb1548e26219fa0960dc376c011
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 16292630c6da7e873b6ac075046cb38340894d26
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -48,10 +50,5 @@ You must set up a method of payment for direct debit mandates. You use this meth
 -   Optional: If you expect each of your customers to have multiple mandates, in the **Period** field, select **Invoice**. A separate payment will be created for each invoice, and each payment will use the mandate that is specified for the invoice.
 -   Select the **Require mandate** option to create payments by using direct debit mandates. The **Require mandate** option is available only if you select **Electronic payment** in the **Payment type** field.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

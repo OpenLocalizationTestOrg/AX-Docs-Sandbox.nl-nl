@@ -1,24 +1,27 @@
 ---
-title: Create a budget from transaction accounts and total accounts | Microsoft Docs
+title: Create a budget from transaction accounts and total accounts
 description: This article provides an overview of the process for creating budgets based on total accounts. It also explains how to turn on budget control for total accounts, if budget control is required.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-01 16:44:37
+ms.date: 2015-12-01 16 - 44 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BudgetControlConfiguration, BudgetPlanGenerate
+ms.search.form: BudgetControlConfiguration, BudgetPlanGenerate
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13051
-ms.assetid: 8e93ced2-1d8c-4630-8fe0-7eb635731d86
-ms.region: Global
+ms.assetid: fb1bb2d3-445c-402f-a9a3-aa6503eed78e
+ms.search.region: Global
 ms.author: sigitac
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: fdf82ae1c7b7a18c1e46473ef7a1ceb5714f39da
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cf53b1cae070f396134d8d5ba806db977069cb3b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -33,10 +36,5 @@ Both budget plan and budget register entry documents allow for budgeting on main
 -   The budget amount that is entered directly on the total account.
 
 Therefore, you can create separate budgets for the most significant transaction accounts in the interval of the total account, and then add the available budget amount to the total account.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

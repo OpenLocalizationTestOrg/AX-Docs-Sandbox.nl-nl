@@ -1,23 +1,25 @@
 ---
-title: Mobile invoice approvals | Microsoft Docs
+title: Mobile invoice approvals
 description: "Mobile capabilities in Microsoft Dynamics 365 for Operations let a business user design mobile experiences. For advanced scenarios, the platform also lets developers extend the capabilities as they desire. The most effective way to learn some of the new concepts on mobile is to go through the process of designing a few scenarios. This topic is intended to provide a practical approach to designing mobile scenarios by taking vendor invoice approvals for mobile as a use case. This topic should help you design other variations of the scenarios and can also be applied to other scenarios that aren’t related to vendor invoices."
 author: MargoC
 manager: AnnBe
-ms.date: 2016-12-09 19:58:42
+ms.date: 2016-12-09 19 - 58 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 2231
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 262034
-ms.assetid: 5e017cd2-7710-4501-a214-395e75a01868
-ms.region: Global
+ms.assetid: 9db38b3f-26b3-436e-8449-7ff243568a18
+ms.search.region: Global
 ms.author: sunilg
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3909cdd87858ce627f51e476d27a82be241a8a05
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 22369863ff948788a63bbf4f770560325872e1de
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -31,7 +33,7 @@ Mobile capabilities in Microsoft Dynamics 365 for Operations let a business user
 
 | Prerequisite                                                                                            | Description                                                                                                                                                          |
 |---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Mobile handbook pre-read                                                                                | <https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook>                                                                                                  |
+| Mobile handbook pre-read                                                                                | <mobile-platform.md>                                                                                                  |
 | Dynamics 365 for Operations                                                                             | An environment that has Microsoft Dynamics 365 for Operations version 1611 and Microsoft Dynamics for Operations platform update 3 (November 2016)                   |
 | Install hotfix KB 3204341.                                                                              | Task recorder can erroneously record two Close commands for dropdown dialogs this is included in Dynamics 365 for Operation platform update 3 (November 2016 update) |
 | Install hotfix KB 3207800.                                                                              | This hotfix enables attachments to be viewed on the mobile client this is included in Dynamics 365 for Operation platform update 3 (November 2016 update).           |
@@ -417,10 +419,5 @@ The following variations can be done for scenario 1, based on the requirements f
 
 ## <a name="conclusion"></a>Conclusion
 The mobile platform and the application capabilities let you design mobile scenarios that are optimized for a user base in an organization. Based on the examples that are provided in this topic, you can try other variations and create different experiences that meet a specific need.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,23 +1,25 @@
 ---
-title: Resolve discrepancies during invoice totals matching | Microsoft Docs
+title: Resolve discrepancies during invoice totals matching
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-08 22:51:03
+ms.date: 2016-03-08 22 - 51 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 63413
-ms.assetid: 52a4200e-368f-49e1-8e25-b828c533b6ea
-ms.region: Global
+ms.assetid: 9ac42457-95b2-4191-ad06-c7e323704466
+ms.search.region: Global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: fab1e5dbf2714130227e3fa8487424e1a264a9f1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f561c74e0d898773ffd3b502ed43eba6ec7c21c0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -32,10 +34,5 @@ One type of invoice matching validation is invoice totals matching. To specify t
 -   Revise the invoice amount to the expected amount, and post the invoice.
 -   Request a full credit and a new, corrected invoice from the vendor.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

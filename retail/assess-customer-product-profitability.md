@@ -1,24 +1,26 @@
 ---
-title: Assess customer and product profitability | Microsoft Docs
+title: Assess customer and product profitability
 description: This article explains how you can use the in-memory and real-time analytics to access, explore, and gain insight about customers and product profitability from your Microsoft Dynamics 365 for Operations data.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-02-24 15:00:32
+ms.date: 2016-02-24 15 - 00 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 52902
-ms.assetid: c2eda1fa-806a-4ca1-95a3-3dc27182da75
-ms.region: global
-ms.industry: Retail
+ms.assetid: 1a77d04b-2985-4bee-9138-c216fe0483de
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: asharchw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 022dfbc51c899863a17d6ebb42d85cc60bbb491a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: fde1304c0379364ce50e2c80c371d1128745048f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -52,11 +54,6 @@ For this assessment, you can use the out-of-box **Top products** report, which y
 -   **Category and product management** workspace Dynamics 365 for Operations &gt; **Retail and commerce** &gt; **Products and categories** &gt; **Retail store management** &gt; **Reports** &gt; **Top products report**
 -   **Inquiries and reports** section Dynamics 365 for Operations &gt; **Retail and commerce** &gt; **Inquiries and reports** &gt; **Sales reports** &gt; **Top products report**
 
-For more information, see [Creating next-generation reporting solutions](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/creating-nextgen-reporting-solutions).
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+For more information, see [Creating next-generation reporting solutions](create-nextgen-reporting-solutions.md).
 
 

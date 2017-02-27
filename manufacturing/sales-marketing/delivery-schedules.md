@@ -1,24 +1,27 @@
 ---
-title: Delivery schedules | Microsoft Docs
+title: Delivery schedules
 description: Delivery schedules allow you to track order line quantity when you are using multiple deliveries for a single sales order, sales quotation, or purchase order.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-19 17:32:15
+ms.date: 2016-10-19 17 - 32 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchDeliverySchedule, SalesDeliverySchedule, SalesQuotationDeliverySchedule
+ms.search.form: PurchDeliverySchedule, SalesDeliverySchedule, SalesQuotationDeliverySchedule
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 213984
-ms.assetid: 224b31d7-963d-4e65-ba34-965eb039644c
-ms.region: Global
+ms.assetid: 44cac104-c36c-4371-a992-9178b3fd65e9
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dd41e7d965413edd065818a8e1be5b5041b4d2c5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cdca5e144e6d1517e9ea68538ee5f9706a8c59ae
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -42,10 +45,5 @@ In this scenario, the customer requests delivery of 600 chairs in batches of 100
 -   Browse list pages and reports
 
 When you confirm sales quotations, the resulting sales orders show the whole delivery schedule, even the order lines that have multiple deliveries. In addition, the whole delivery schedule is shown on all the major pages, such as sales orders, sales quotations, and purchase orders.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

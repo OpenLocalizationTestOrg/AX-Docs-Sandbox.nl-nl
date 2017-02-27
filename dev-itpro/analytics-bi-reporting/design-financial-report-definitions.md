@@ -1,24 +1,27 @@
 ---
-title: Report definitions in financial report designer | Microsoft Docs
+title: Report definitions in financial report designer
 description: This article provides information about report definitions. A report definition is a report component (or building block) that uses a row definition, a column definition, and an optional reporting tree definition to create a report. A report definition also provides options and settings that for customizing a report.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-03-07 18:58:18
+ms.date: 2016-03-07 18 - 58 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FinancialReports
+ms.search.form: FinancialReports
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Management Reporter
+ms.search.scope: Management Reporter, Core
 ms.custom: 59131
-ms.assetid: 5a9525b6-7a71-4de9-8592-109f1997aaa6
-ms.region: Global
+ms.assetid: 966a3f1d-c59c-4a84-acd4-5bb7e65144c8
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 
+ms.dyn365.ops.version: 
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 487cbf610b2ad5a3a86c28566b7482e85a738f75
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e46e832e0b35c506560a24710be4858b833c78e9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -86,11 +89,6 @@ The following table describes the tabs in a report definition and how the inform
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting for Microsoft Dynamics AX](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Financial reporting for Microsoft Dynamics AX](financial-reporting-intro.md)
 
 

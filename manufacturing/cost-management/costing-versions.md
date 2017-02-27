@@ -1,25 +1,27 @@
 ---
-title: Costing versions | Microsoft Docs
+title: Costing versions
 description: This article provides information about costing versions, how to maintain them, and the types of data that you can include in them. The primary purpose of a costing version is to contain cost records about items, cost categories, and calculation formulas for indirect costs.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 17:58:56
+ms.date: 2016-02-24 17 - 58 - 56
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMCalcDialog, BOMCalcTable, CostingVersion
+ms.search.form: BOMCalcDialog, BOMCalcTable, CostingVersion
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 54532
-ms.assetid: 2049ec37-7b72-4c7d-8429-04b5d07c06c4
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: cd239da5-f434-4d1b-8196-5414c888d76d
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 004b33d9a16dd46e77e2678a1f823d2d3b983faf
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9cfda550026d02dbdb73b7d782354b3b2d59e5fa
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ The main reason for including data about sales prices is to retain a manufacture
 
 ## <a name="item-purchase-prices-for-bom-calculations"></a>Item purchase prices for BOM calculations
 The main reason for enabling purchase price data is to define purchase price records for component items, so that these records can be used to calculate the costs of manufactured items. The item purchase price records must be manually entered. To enable purchase price content, you first define a BOM calculation group that contains a cost price model for the item’s purchase price, and assign the BOM calculation group to purchased items. You then use a cost price model for the BOM calculation group when you perform BOM calculations that use planned costs to calculate the sales price of manufactured items. The purchase price records for items are also used as reference information. By changing the status of an item’s purchase price record from **Pending** to **Active**, you can update the item’s base purchase price. However, the base purchase price isn't site-specific and can be manually overridden. The item's base purchase price is used as a default purchase price on purchase orders.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

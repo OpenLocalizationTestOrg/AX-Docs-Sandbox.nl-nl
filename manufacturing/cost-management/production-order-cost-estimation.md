@@ -1,25 +1,27 @@
 ---
-title: Production order cost estimation | Microsoft Docs
+title: Production order cost estimation
 description: This article provides information about production cost estimation. Production cost estimation provides the projected material and capacity consumption costs of producing an item in the planned production order quantity.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-12 16:06:35
+ms.date: 2016-04-12 16 - 06 - 35
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMCalcTrans, InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
+ms.search.form: BOMCalcTrans, InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 80633
-ms.assetid: cd04ecc7-0c72-41ae-b191-11ed2fd5551b
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: b4625d10-c852-4fda-b718-79df458de0d4
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 66551027b702b703c7ab21f646ae732bc6e6d6f5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b27bbfa93f55626ea30274bdc77dd908d59702b9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -58,10 +60,5 @@ A cost estimate also provides the following information:
 -   Budget and forecasting information
 -   Estimates of the production size that is required in order to maintain a particular cost
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

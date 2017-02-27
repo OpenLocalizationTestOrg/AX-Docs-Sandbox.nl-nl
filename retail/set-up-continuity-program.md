@@ -1,24 +1,27 @@
 ---
-title: Set up a continuity program for a call center | Microsoft Docs
+title: Set up a continuity program for a call center
 description: This article describes how to set up a continuity program for a call center.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:12:11
+ms.date: 2015-12-03 22 - 12 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16081
-ms.assetid: 141cc3cd-276f-403c-bd6d-f0968e33b46e
-ms.region: global
-ms.industry: Retail
+ms.assetid: 426a9be7-a931-4780-b372-e06f6083dd60
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: df29b01feaacd33be856ccb5784ea7c58d79fba5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4e56ee606988fb7b918a31778ea36a98e4ea59ec
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,10 +48,5 @@ After you've set up a continuity program as described above, you can create a co
 -   **Perform a continuity update** (if required) – Synchronize changes between the continuity program and the continuity parent sales orders.
 -   **Close continuity parent lines and orders** – Close continuity orders.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

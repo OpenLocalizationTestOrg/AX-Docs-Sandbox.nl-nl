@@ -1,23 +1,25 @@
 ---
-title: Procurement and sourcing overview | Microsoft Docs
+title: Procurement and sourcing overview
 description: This article gives an overview of the functionality that&quot;s available in the Procurement and sourcing module.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-04 13:19:33
+ms.date: 2016-03-04 13 - 19 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 58021
-ms.assetid: 5564fc58-07b8-4a21-b50a-e189976437d0
-ms.region: Global
+ms.assetid: eea24e23-a803-4de0-a218-6485757cde1b
+ms.search.region: Global
 ms.author: fdahl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 85bf814db3d86bf3c68d5dab2f926ba1ded7e075
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: acceffff8074e1886ad7c92e57137e65a521395a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -62,10 +64,5 @@ Purchase orders that include physical products commonly require *arrival registr
 
 ## <a name="vendor-performance"></a>Vendor performance
 Performance and review of purchasing is supported through *procurement and account payable reports,* which include spend analysis and vendor performance analysis.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

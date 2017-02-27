@@ -1,24 +1,26 @@
 ---
-title: Project forecasts and budgets | Microsoft Docs
+title: Project forecasts and budgets
 description: 
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-11 23:24:54
+ms.date: 2015-12-11 23 - 24 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ForecastModel, ProjYearEndProcess
+ms.search.form: ForecastModel, ProjYearEndProcess
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23501
-ms.assetid: fe9ac705-9b48-41c4-a59d-3903c1efd9eb
-ms.region: Global
+ms.assetid: 4e6d1384-19a2-4232-b3f3-d2590c218bd7
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6c2ea7ef1b56c5bca171feb3a91fb9dbbb8e8bd4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c9b7b8640d20e93a90225cf230662272d9bccd3e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -53,10 +55,5 @@ Project budgeting is a simpler method than forecasting, although it does integra
 
 ## <a name="forecast-models"></a>Forecast models
 Forecast models have a single-layer hierarchy. This means that one project forecast must be associated with one forecast model. If you use project forecasting, you can identify models as submodels. You can then create forecasts by department, time period, or region. For example, you can create a forecast model for a year, and then create submodels for the Northeast, Southeast, Northwest, and Southwest regional forecasts that regional heads submit. By selecting different options in the available reports, you can view information by total forecast or by submodel.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

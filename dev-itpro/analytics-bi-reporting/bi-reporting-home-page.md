@@ -1,23 +1,25 @@
 ---
-title: BI &amp; reporting home page | Microsoft Docs
+title: BI &amp; reporting home page
 description: This topic lists BI &amp; reporting resources that are available in Microsoft Dynamics 365 for Operations.
 author: sericks007
 manager: AnnBe
-ms.date: 2015-12-14 17:14:21
+ms.date: 2015-12-14 17 - 14 - 21
 ms.topic: index-page
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 27681
-ms.assetid: d38bdb22-a4b1-4d99-8b24-46c4fe23e22b
-ms.region: Global
+ms.assetid: c4624bc8-3661-49e6-9cb4-87778acdc302
+ms.search.region: Global
 ms.author: sericks
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cdad1ca5955bcf3b54c636f9f2adf32efa4eb80d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0fce8a9da32b2c68e3d62bc565a085443ff52aab
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -29,44 +31,44 @@ This topic lists BI &amp; reporting resources that are available in Microsoft Dy
 <a name="working-with-aggregate-data"></a>Working with aggregate data
 ---------------------------
 
--   [Analytics](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/analytics)
--   [In-memory, real-time aggregate models replace SSAS cubes](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/transition-from-ssas-cubes-to-in-memory-real-time-aggregate-models-in-ax7)
--   [BIR 100: Modeling and Using Aggregate Data](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/modeling-and-using-aggregate-data)
--   [BIR 106: Migrate an upgraded Dynamics AX 2012 R3 sales cube to the entity store](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/bir106-migrate-an-upgraded-dynamics-ax-2012-r3-sales-cube-to-the-entity-store)
+-   [Analytics](analytics.md)
+-   [In-memory, real-time aggregate models replace SSAS cubes](in-memory-real-time-aggregate-models.md)
+-   [BIR 100: Modeling and Using Aggregate Data](model-aggregate-data.md)
+-   [BIR 106: Migrate an upgraded Dynamics AX 2012 R3 sales cube to the entity store](migrate-upgraded-cube-entity-store.md)
 
 ## <a name="selfservice-reporting"></a>Selfservice reporting
--   [Power BI integration](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/powerbi-integration-in-ax7)
--   [Configuring Power BI integration for workspaces](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-powerbi-integration)
--   [Create a Power BI report by using Microsoft Dynamics 365 for Operations data](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/how-to-create-a-powerbi-report-using-ax-data)
--   [BIR105: Create a Power BI report and dashboard](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/tutorial-create-a-power-bi-report-and-dashboard)
--   [Retail Channel Performance content pack for Power BI](https://docs.microsoft.com/en-us/dynamics365/operations/retail/retail-channel-performance-dashboard-in-power-bi-using-ax-data)
--   [Financial Performance content pack for Power BI](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/monitor-financial-performance-powerbi)
--   [Sales and profitability performance content pack for Power BI](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/sales-and-profitability-performance-content-pack-for-power-bi)
--   [Use an Electronic reporting configuration to provide Power BI with data from Dynamics 365 for Operations](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-how-to-use-report-configuration-to-get-data-for-power-bi)
+-   [Power BI integration](power-bi-integration.md)
+-   [Configuring Power BI integration for workspaces](configure-power-bi-integration.md)
+-   [Create a Power BI report by using Microsoft Dynamics 365 for Operations data](create-powerbi-report-data.md)
+-   [BIR105: Create a Power BI report and dashboard](create-powerbi-report-dashboard.md)
+-   [Retail Channel Performance content pack for Power BI](retail-channel-performance-dashboard-power-bi-data.md)
+-   [Financial Performance content pack for Power BI](financial-performance-power-bi-content-pack.md)
+-   [Sales and profitability performance content pack for Power BI](sales-profitability-performance-content-pack.md)
+-   [Use an Electronic reporting configuration to provide Power BI with data from Dynamics 365 for Operations](general-electronic-reporting-report-configuration-get-data-powerbi.md)
 
 ## <a name="building-embedded-analytical-experiences-in-the-dynamics-365-for-operations-client"></a>Building embedded analytical experiences in the Dynamics 365 for Operations client
--   [Embedded business intelligence](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/analytics#embedded-business-intelligence)
--   [KPI modeling and customization](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/analytics#kpi-modeling-and-customization)
--   [Adding BI to workspaces](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/adding-bi-to-workspaces)
--   [Adding contextual BI to forms](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/adding-contextual-bi-to-forms)
+-   [Embedded business intelligence](analytics.md#embedded-business-intelligence)
+-   [KPI modeling and customization](analytics.md#kpi-modeling-and-customization)
+-   [Adding BI to workspaces](add-bi-workspaces.md)
+-   [Adding contextual BI to forms](add-contextual-bi-forms.md)
 
 ## <a name="document-reporting-and-printing"></a>Document reporting and printing
--   [Document Reporting Services Overview](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/document-reporting-services)
--   [Printing in Dynamics 365 for Operations applications](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/printing-in-dynamics-ax-applications)
--   [Install the Document Routing Agent to enable network printer devices](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-the-document-routing-service-to-enable-network-printer-devices)
--   [Run the Document Routing agent as a Windows service](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/running-the-document-routing-agent-as-a-windows-service)
--   [Creating next-generation reporting solutions](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/creating-nextgen-reporting-solutions)
--   [Install the modern report design templates](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/installing-the-modern-report-design-templates)
--   [Tips to help prevent long-running reports from timing out](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/tips-to-help-prevent-long-running-reports-from-timing-out)
+-   [Document Reporting Services Overview](document-reporting-services.md)
+-   [Printing in Dynamics 365 for Operations applications](print-documents.md)
+-   [Install the Document Routing Agent to enable network printer devices](install-document-routing-agent.md)
+-   [Run the Document Routing agent as a Windows service](run-document-routing-agent-as-windows-service.md)
+-   [Creating next-generation reporting solutions](create-nextgen-reporting-solutions.md)
+-   [Install the modern report design templates](install-modern-report-design-templates.md)
+-   [Tips to help prevent long-running reports from timing out](prevent-long-running-reports-timing-out.md)
 
 ## <a name="electronic-reporting"></a>Electronic reporting
--   [Electronic reporting overview](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)
--   [Manage the Electronic reporting configuration lifecycle](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-how-to-manage-configuration-lifecycle)
--   [Extending the list of Electronic reporting functions](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-formulas-list-extension)
--   [Formula designer in Electronic reporting](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-formula-designer)
--   [Electronic reporting destinations](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/using-electronic-reporting-destinations)
--   [Download Electronic reporting configurations from Lifecycle Services](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/download-electronic-reporting-er-configuration-from-lifecycle-services)
--   [Use an Electronic reporting configuration to provide Power BI with data from Dynamics 365 for Operations](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-how-to-use-report-configuration-to-get-data-for-power-bi)
+-   [Electronic reporting overview](general-electronic-reporting.md)
+-   [Manage the Electronic reporting configuration lifecycle](general-electronic-reporting-manage-configuration-lifecycle.md)
+-   [Extending the list of Electronic reporting functions](general-electronic-reporting-formulas-list-extension.md)
+-   [Formula designer in Electronic reporting](general-electronic-reporting-formula-designer.md)
+-   [Electronic reporting destinations](electronic-reporting-destinations.md)
+-   [Download Electronic reporting configurations from Lifecycle Services](download-electronic-reporting-configuration-lcs.md)
+-   [Use an Electronic reporting configuration to provide Power BI with data from Dynamics 365 for Operations](general-electronic-reporting-report-configuration-get-data-powerbi.md)
 -   [ER Create a configuration provider and mark it as active](http://ax.help.dynamics.com/en/wiki/er-select-service-provider/) (Task guide)
 -   [ER Design domain specific data model](http://ax.help.dynamics.com/en/wiki/er-design-domain-specific-data-model/) (Task guide)
 -   [ER Define model mapping and select data sources](http://ax.help.dynamics.com/en/wiki/er-define-model-mapping-and-select-data-sources/) (Task guide)
@@ -98,10 +100,5 @@ This topic lists BI &amp; reporting resources that are available in Microsoft Dy
 -   Additional help is available as task guides inside Dynamics 365 for Operations. To access task guides, click the Help button on any page.
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbspartner.microsoft.com/AX/LearningPlans) (requires a CustomerSource account).
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

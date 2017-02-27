@@ -1,25 +1,28 @@
 ---
-title: BOM designer functionality | Microsoft Docs
+title: BOM designer functionality
 description: This article describes how you can use the BOM designer page to design and work with tree structures for bills of materials (BOMs). You can click Setup to select different configurations and specify what information appears on the lines of the tree.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-08 21:09:22
+ms.date: 2015-12-08 21 - 09 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMDesigner
+ms.search.form: BOMDesigner
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 20981
-ms.assetid: 89fe675a-d1f7-44d1-9cc3-bd1a4f875e5e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 2b92eec1-d28c-4965-9086-939c77b3c62b
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 63c07f110ba8715cc6ccae1b4fe77309796172a1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 438a0ed6e361234195d9d2c70b7cacb1d634b046
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -112,10 +115,5 @@ Click **Setup** to customize the information that is shown in the tree view of t
 | Route       | Use the check boxes to select the criteria that are shown for the routes.                                                                                    |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

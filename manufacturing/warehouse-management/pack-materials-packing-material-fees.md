@@ -1,25 +1,27 @@
 ---
-title: Packing materials and fees | Microsoft Docs
+title: Packing materials and fees
 description: Packing material fees are paid to a recycling company at certain intervals. An amount is paid, per unit of weight, for each material that a packing unit consists of. Packing material fees are calculated and reported, but no ledger transactions are posted because the fees are not regarded as taxes to be paid to an authority.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:12:45
+ms.date: 2015-09-10 08 - 12 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventPackagingGroup, InventPackagingMaterialCode, InventPackagingMaterialFee, InventPackagingMaterialTrans, InventPackagingMaterialTransPurch, InventPackagingUnit
+ms.search.form: InventPackagingGroup, InventPackagingMaterialCode, InventPackagingMaterialFee, InventPackagingMaterialTrans, InventPackagingMaterialTransPurch, InventPackagingUnit
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2194
-ms.assetid: b92f7a17-7f14-4b14-928e-9daa675f982b
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 040b65dc-43c9-4256-b69f-b2d6e736fbe9
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: mafoge
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f9d61a750211a5c42834c886a31dec6b6b5f3a25
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: dcc6137700e3b91cb852336accd30116bf4ee060
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -59,10 +61,5 @@ You can print the packaging material weights on the invoice, and indicate who pa
 -
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

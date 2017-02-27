@@ -1,25 +1,27 @@
 ---
-title: Inventory locations | Microsoft Docs
+title: Inventory locations
 description: Inventory locations are used with basic warehousing (WMS I) to determine where items are stored and where items are picked from in a WMS I warehouse.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:08:37
+ms.date: 2015-09-10 08 - 08 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WMSLocation
+ms.search.form: WMSLocation
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2134
-ms.assetid: ac338e30-e350-46ba-80b9-7464082f61f9
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 69bf6922-4151-447f-b678-4ba95637f54c
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aa9ce2980ae8939131fa152658dd59c4e8610816
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 969def3b8da139cef914dc2746197bab1b4a47cd
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -63,10 +65,5 @@ It is possible to copy locations from one warehouse to another and to create loc
 --------
 
 [Create a new warehouse layout](https://ax.help.dynamics.com/en/wiki/create-a-new-warehouse-layout/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

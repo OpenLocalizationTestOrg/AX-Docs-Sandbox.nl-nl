@@ -1,22 +1,25 @@
 ---
-title: List Page form pattern | Microsoft Docs
+title: List Page form pattern
 description: This article provides information about the List Page form pattern. A list page presents a set of data on a UI that is optimized for browsing records, so that you can find and work with a specific record.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-12-02 23:17:39
+ms.date: 2015-12-02 23 - 17 - 39
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14241
-ms.assetid: 6e2f73aa-d239-4ad3-9a8e-554897bb64c5
-ms.region: Global
+ms.assetid: c70933b1-3d6a-4e26-b9ef-d9fb1e1b29a3
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 010f2c095ac370dbad57a5db0bade970f199c64c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 173a589f06eee7dc019172530d9c854b34776a7e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -71,18 +74,18 @@ Grid (Grid)
 
 ### <a name="related-patterns"></a>Related patterns
 
--   [Details Master](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/details-master-form-pattern)
--   [Details Transaction](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/details-transaction-form-pattern)
--   [Simple List](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/simple-list-form-pattern)
+-   [Details Master](details-master-form-pattern.md)
+-   [Details Transaction](details-transaction-form-pattern.md)
+-   [Simple List](simple-list-form-pattern.md)
 
 ### <a name="commonly-used-subpatterns"></a>Commonly used subpatterns
 
--   [Custom Filter Group](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/custom-filter-group-subpattern)
+-   [Custom Filter Group](custom-filter-group-subpattern.md)
 
 ## <a name="ux-guidelines"></a>UX guidelines
 The verification checklist shows the steps for manually verifying that the form complies with UX guidelines. This checklist doesn't include any guidelines that will be enforced automatically through the development environment. Open the form in the browser, and walk through these steps. **Standard form guidelines:**
 
--   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/general-form-guidelines)document.
+-   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](general-form-guidelines.md)document.
 
 **List Page guidelines:**
 
@@ -99,8 +102,8 @@ The verification checklist shows the steps for manually verifying that the form 
 -   **Grid**:
     -   For transactional entities, the **ID** field should be the first column, followed by the master entity **ID** and **Name** fields.
     -   For master entities, the **Name** field should be the first column, followed by the **ID** field.
--   **ActionPane** guidelines have been consolidated into the Dynamics AX [General Form Guidelines ](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/general-form-guidelines)document in the ActionPane guidelines section.
--   **FactBox** guidelines have been consolidated into the [FactBox Form Patterns](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/factbox-form-patterns)document.
+-   **ActionPane** guidelines have been consolidated into the Dynamics AX [General Form Guidelines ](general-form-guidelines.md)document in the ActionPane guidelines section.
+-   **FactBox** guidelines have been consolidated into the [FactBox Form Patterns](factbox-form-patterns.md)document.
 
 ## <a name="examples"></a>Examples
 Form: **SalesTableListPage** [![List Page example](./media/listpage2-1024x510.png)](./media/listpage2.png)
@@ -133,10 +136,5 @@ This section will have answers to frequently asked questions that are related to
 #### <a name="ax-2012-example"></a>AX 2012 example
 
 [![AX 2012 example](./media/listpage3-1024x671.png)](./media/listpage3.png)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

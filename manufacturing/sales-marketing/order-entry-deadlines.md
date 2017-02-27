@@ -1,24 +1,27 @@
 ---
-title: Order entry deadlines | Microsoft Docs
+title: Order entry deadlines
 description: This article provides information about order entry deadlines. An order entry deadline is a cut-off time that determines whether a customer order is treated (and fulfilled) as if it was received on the current day or the next day.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-15 14:57:58
+ms.date: 2015-09-15 14 - 57 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventOrderEntryDeadlineGroup, InventOrderEntryDeadlineParameters, InventOrderEntryDeadlineTable
+ms.search.form: InventOrderEntryDeadlineGroup, InventOrderEntryDeadlineParameters, InventOrderEntryDeadlineTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7151
-ms.assetid: 3ab3a73d-571b-42a5-8b1a-dc3245d81a7e
-ms.region: Global
+ms.assetid: bbc4f9a2-df4b-4d92-9f18-25282a85541f
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 53786545e411548f2de11dafc64619124ebfe5e3
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f43d50eb381714a002c089bf4fa8caff3d74eb00
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -163,11 +166,6 @@ MST
 <a name="see-also"></a>See also
 --------
 
-[Delivery schedules](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-schedules)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Delivery schedules](delivery-schedules.md)
 
 

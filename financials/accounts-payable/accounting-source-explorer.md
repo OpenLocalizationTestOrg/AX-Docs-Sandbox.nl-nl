@@ -1,23 +1,26 @@
 ---
-title: Accounting source explorer | Microsoft Docs
+title: Accounting source explorer
 description: This article provides information about Accounting source explorer, which you can use for detailed analysis of the source information behind general ledger accounting entries.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:15:14
+ms.date: 2015-12-03 20 - 15 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15391
-ms.assetid: 85d3f116-12f4-4547-a2cc-b7e11237dbfb
-ms.region: Global
+ms.assetid: 57b95899-7298-43c0-8034-45b5d993cbf2
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7dce34c98780b8c6f3385f127608705f277a4af7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: bc613388c0fef455bceabd6f8cf776f987283789
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -37,10 +40,5 @@ For source documents that use the source document reference identities concept, 
 -   Discounts per vendor, product, department
 
 For these documents, you can also navigate to the actual source document from Accounting source explorer.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

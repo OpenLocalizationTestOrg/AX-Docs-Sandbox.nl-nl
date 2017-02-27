@@ -1,24 +1,26 @@
 ---
-title: Purchase requisition overview | Microsoft Docs
+title: Purchase requisition overview
 description: This article describes the purchase requisition workflow and the different statuses that a purchase requisition can have.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:10:49
+ms.date: 2015-09-10 08 - 10 - 49
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchReqConsolidation, PurchReqCreate, PurchReqCreatePurchDetails, PurchReqCreatePurchListPage, PurchReqTable, PurchReqTableListPage
+ms.search.form: PurchReqConsolidation, PurchReqCreate, PurchReqCreatePurchDetails, PurchReqCreatePurchListPage, PurchReqTable, PurchReqTableListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2174
-ms.assetid: 9c5782f9-5da0-4558-97d6-7710d8617d73
-ms.region: Global
+ms.assetid: 77d07119-4d9f-4c0e-acbe-d319203571ab
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 58c41adfc45ee79c681c90364d1987ade9bb8597
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 381881ea694d64553e5a469583022c3f5d9cc6f0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -165,11 +167,6 @@ The process for demand consolidation starts when a purchase requisition is appro
 
 [Create a requisition for consumption](https://ax.help.dynamics.com/en/wiki/create-a-requisition-for-consumption/)
 
-[Purchase requisition workflow](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-requisition-workflow)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Purchase requisition workflow](purchase-requisitions-workflow.md)
 
 

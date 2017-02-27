@@ -1,23 +1,26 @@
 ---
-title: Customer payments for a partial amount | Microsoft Docs
+title: Customer payments for a partial amount
 description: Sometimes, customers make a payment that is less than the amount of an invoice. This article describes the various options for handling this situation. The options that are available to you depend on your business requirements and configuration.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-01 16:39:03
+ms.date: 2015-12-01 16 - 39 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13011
-ms.assetid: b07f8643-4a43-4066-bc06-ce34c16346b4
-ms.region: Global
+ms.assetid: 20423a2d-6997-4e1c-a596-a77016600071
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7bb2f6b8d0f5deec14cc0ca5b8e92587498e07b9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a31e997416f2ceff4c48f945a49bc71b7118afb7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,10 +48,5 @@ When customers make a payment, there might be a very small amount that must stil
 
 ## <a name="full-settlement"></a>Full settlement
 Customers might make a partial payment where the remaining amount won't be paid but is greater than the underpayment amount that is specified on the **Account payable parameters** page. If you want to mark the invoice as fully settled, you can use the **Full settlement** option on the **Settle transaction** page. (You can enable the full settlement functionality by using a configuration key.) For example, an invoice is posted for 1,000.00, and the customer makes a payment of 990.00. You've agreed that the customer doesn't have to pay the remaining 10.00. After you mark the invoice for settlement, you can also mark select **Full settlement**. The invoice will then be considered fully settled. The 10.00 difference is posted to a cash discount account as an additional cash discount amount.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

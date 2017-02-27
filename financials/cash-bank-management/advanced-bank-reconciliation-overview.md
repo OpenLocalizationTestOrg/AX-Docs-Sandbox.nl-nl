@@ -1,24 +1,27 @@
 ---
-title: Advanced bank reconciliation overview | Microsoft Docs
+title: Advanced bank reconciliation overview
 description: This article describes the flow for the advanced bank reconciliation process. The advanced bank reconciliation feature lets you import bank statements that can be automatically reconciled from within bank transactions.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-11 21:23:46
+ms.date: 2015-12-11 21 - 23 - 46
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankReconciliationMatchRule
+ms.search.form: BankReconciliationMatchRule
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 22104
-ms.assetid: 7ef18920-240d-4f70-a2c8-fe1b40c2f9fa
-ms.region: Global
+ms.assetid: b0705653-1fa6-4d94-9728-bcf9fb387ad1
+ms.search.region: Global
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b6044cdb54e78107ddb7326c76bcdca8d03fc35f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 26b626af83b7fc1ed174a3db271b1a308bf92cbe
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -44,10 +47,5 @@ The advanced bank reconciliation feature lets you import bank statements. The im
     -   Generate a reconciliation statement.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

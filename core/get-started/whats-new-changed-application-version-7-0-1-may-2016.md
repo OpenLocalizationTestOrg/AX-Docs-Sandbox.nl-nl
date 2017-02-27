@@ -1,23 +1,25 @@
 ---
-title: What&quot;s new or changed in Dynamics AX application version 7.0.1 (May 2016) | Microsoft Docs
+title: What&quot;s new or changed in Dynamics AX application version 7.0.1 (May 2016)
 description: This article describes features that are either new or changed in Microsoft Dynamics AX application version 7.0.1. This version was released in May 2016 and has a build number of 7.0.1265.23014.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-06-10 19:54:44
+ms.date: 2016-06-10 19 - 54 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, Developer, IT Pro
-ms.reviewer: sericks007
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 91213
-ms.assetid: 0e7d9a9d-4453-44a1-96b0-4f73d75b9376
-ms.region: Global
+ms.assetid: f0bbc78f-87fc-40e9-b46a-6655893f69be
+ms.search.region: Global
 ms.author: sericks
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 61bd1d41e193f1a0e473ce136e895ba8af5771c8
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 92036fc3fb350cf2cecf687a175809abc0a7ce7a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -71,13 +73,8 @@ This article describes features that are either new or changed in Microsoft Dyna
 <a name="see-also"></a>See also
 --------
 
-[What's new or changed](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7)
+[What's new or changed](whats-new-changed.md)
 
-[New or updated task guides available (May 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[New or updated task guides (May 2016)](new-updated-task-guides-available-may-2016.md)
 
 

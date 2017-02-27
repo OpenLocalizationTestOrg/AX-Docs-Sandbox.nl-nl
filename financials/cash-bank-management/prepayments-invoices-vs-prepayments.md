@@ -1,24 +1,27 @@
 ---
-title: Prepayment invoices vs. prepayments | Microsoft Docs
+title: Prepayment invoices vs. prepayments
 description: This article provides describes and contrasts the two methods that organizations can use for advance payments (prepayments). In one method, you create a prepayment invoice that is associated with a purchase order. In the other method, you create prepayment journal vouchers by creating journal entries and marking them as prepayment journal vouchers.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 21:02:10
+ms.date: 2015-12-03 21 - 02 - 10
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, PurchTable
+ms.search.form: LedgerJournalTransVendPaym, PurchTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15871
-ms.assetid: ca9deb33-1baf-4d1f-85f8-c4f15dcc30fe
-ms.region: Global
+ms.assetid: a0bb5220-73d4-48ae-84d0-46a171c224fa
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 846dc229245be99f065b7b29d951f168f226731e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6168868e5252523273f0f5266ac12a858ac102e2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -58,10 +61,5 @@ Prepayment invoices are a common business practice. A vendor issues prepayment i
 4.  After the vendor delivers the goods or services, and the related vendor invoices have been received, the Accounts payable coordinator applies the prepayment amount that was already paid against the invoice.
 5.  The Accounts payable coordinator pays and settles the remaining amount of the invoice.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

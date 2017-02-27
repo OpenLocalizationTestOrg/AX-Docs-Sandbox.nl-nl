@@ -1,23 +1,25 @@
 ---
-title: Financial Performance content pack for Power BI | Microsoft Docs
+title: Financial Performance content pack for Power BI
 description: This topic describes the Microsoft Dynamics 365 for Operations Financial Performance content pack for Microsoft Power BI. It describes the dashboard and reports that are included in the content pack, and provides information about the data model and entities that were used to build the content pack.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-08-04 18:53:36
+ms.date: 2016-08-04 18 - 53 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 106233
-ms.assetid: a684188b-a6ea-4062-a23f-3d5bfdedb99e
-ms.region: Global
+ms.assetid: 517e6a88-e7a1-4398-9971-b22fa83306ba
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1e3762c713c755acd65141622f4e32b61c2e311e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ec9d2f4c167f56fd69e6678b9296aee836e73dd3
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -31,8 +33,8 @@ This topic describes the Microsoft Dynamics 365 for Operations Financial Perform
 
 Two versions of the Financial Performance content pack are available. One version is available from Microsoft Dynamics Lifecycle Services (LCS), and the other is available from PowerBI.com.
 
--   **Version that is available from LCS:** The Financial Performance content pack that is available from LCS supports Microsoft Dynamics 365 for Operations version 1611. You can find the content pack in the Shared asset library in LCS. For more information about how to download the content pack and connect it to your Microsoft Dynamics 365 for Operations data, see [Power BI content in LCS from Microsoft and your partners](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/power-bi-content-microsoft-partners).
--   **Version that is available from PowerBI.com:** The Financial Performance content pack that is available from PowerBI.com supports Microsoft Dynamics AX versions 7.0 and 7.0.1. For more information about how to connect and load your Dynamics 365 for Operations data, see [Access Power BI content from PowerBI.com](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/power-bi-home-page#access-power-bi-content-from-powerbi-com).
+-   **Version that is available from LCS:** The Financial Performance content pack that is available from LCS supports Microsoft Dynamics 365 for Operations version 1611. You can find the content pack in the Shared asset library in LCS. For more information about how to download the content pack and connect it to your Microsoft Dynamics 365 for Operations data, see [Power BI content in LCS from Microsoft and your partners](power-bi-content-microsoft-partners.md).
+-   **Version that is available from PowerBI.com:** The Financial Performance content pack that is available from PowerBI.com supports Microsoft Dynamics AX versions 7.0 and 7.0.1. For more information about how to connect and load your Dynamics 365 for Operations data, see [Access Power BI content from PowerBI.com](power-bi-home-page.md#access-power-bi-content-from-powerbi-com).
 
 ## <a name="main-account-setup"></a>Main account setup
 Because organizations want liabilities and revenue amounts to appear as positive amounts on reports, the setup of the main accounts in Dynamics 365 for Operations is important. For these main accounts to appear as positive amounts, the main account type must be set to **Liability** or **Revenue**. When these account types are used, reporting through Microsoft Power BI will reverse the signs and show the amounts as positive.
@@ -92,15 +94,10 @@ These entities were used to create calculated measures in the data model. The ca
 ## <a name="additional-resources"></a>Additional resources
 Here are some helpful links that are related to entities and building Power BI content:
 
--   [Data entities](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/data-entities/data-entities)
+-   [Data entities](data-entities.md)
 -   [Creating organizational content packs](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-organizational-content-packs-introduction/)
 -   [Data modeling using Power BI](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-2-1-intro-modeling-data)
--   [Adding Power BI tiles to workspaces](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-powerbi-integration)
+-   [Adding Power BI tiles to workspaces](configure-power-bi-integration.md)
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

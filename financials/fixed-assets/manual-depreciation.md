@@ -1,24 +1,26 @@
 ---
-title: Manual depreciation | Microsoft Docs
+title: Manual depreciation
 description: This article gives an overview of the manual depreciation method.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:55:46
+ms.date: 2015-12-02 22 - 55 - 46
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13811
-ms.assetid: 272b63c5-be73-4e0a-9a12-21b13c2b2d8c
-ms.region: Global
+ms.assetid: b0e837c9-515a-4aed-9060-5ec94f37edeb
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 13961df12a4fd0be5dacd9e398ac0908651c08b4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2f0b6accbff6e90ace421677526ca1459026bf5f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -69,10 +71,5 @@ If you select **Half-Yearly** in the ****Period frequency** field**, you set up 
 | December 31 | (11,000 – 1,000) × 50% = 5,000 |
 
 The total of percentages for all intervals doesn't have to be 100. However, you receive a message if the value in the **Cumulative percentage** field on the **Fixed asset depreciation profile schedules** page isn't **100**.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

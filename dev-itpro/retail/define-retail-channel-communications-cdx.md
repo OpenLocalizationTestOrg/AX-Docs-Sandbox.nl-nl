@@ -1,24 +1,26 @@
 ---
-title: Define retail channel communications (Commerce Data Exchange) | Microsoft Docs
+title: Define retail channel communications (Commerce Data Exchange)
 description: This article provides an overview of Commerce Data Exchange and its components. It explains the part that each component plays in the transfer of data between Microsoft Dynamics 365 for Operations and retail channels.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-13 04:13:38
+ms.date: 2015-12-13 04 - 13 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 27021
-ms.assetid: 22137d6f-185a-473e-a72b-de76880120de
-ms.region: global
-ms.industry: Retail
+ms.assetid: 179b1629-ac90-4cfb-b46a-5bda56c4f451
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9a91e6c9dc45eb58f360c0672559ae714868e8db
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3ef18488c04f7ee9ee06830bd1ec6862b37e853a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -57,10 +59,5 @@ Commerce Data Exchange: Real-time Service is an integrated service that provides
 -   Retrieving sales transactions across stores and completing return transactions.
 
 [![Real-time Service](./media/rts-300x63.png)](./media/rts.png) A predefined Real-time Service profile is created.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,28 @@
 ---
-title: Resource capabilities | Microsoft Docs
+title: Resource capabilities
 description: This article provides information about resource capabilities. A capability is the ability of an operations resource to perform a particular activity. The article explains how capabilities and related concepts, such as proficiency level and priority, are used to select appropriate resources for an activity.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-22 12:28:10
+ms.date: 2016-01-22 12 - 28 - 10
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WrkCtrCapability, WrkCtrTable
+ms.search.form: WrkCtrCapability, WrkCtrTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 29961
-ms.assetid: 5a7a88a5-4027-456d-8147-903d163b6aa9
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 30e38233-2a64-4070-911f-8ffd78dd8281
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: sorenand
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f26e37518f5ff8be80dc9ec67610cb3b99a2e534
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4d30508a76615d331ab395ff563d91d95d42ce11
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -51,10 +54,5 @@ In this example, both machines can be selected by the scheduling engine, because
 
 ## <a name="competencies-for-human-resources"></a>Competencies for human resources
 When you have operations resources of the **Human resources** type that are linked to workers in Human resources, you can also take advantage of the competencies of workers when you define the resource requirements for a production route. In other words, you can also specify requirements for specific skills, courses, certificates, or titles. The scheduling engine can then select resources that are linked to workers, and the selection will be based on the competencies of those workers. The competencies are set up in Human resources, not on the **Resource capabilities** page. When you define skills, courses, certificates, or titles as resource requirements, you must use the Human resources functionality and link each resource of the **Human resources** type to a corresponding worker. If you aren't using the Human resources functionality, you can define capabilities on the **Resource capabilities** page that resemble or duplicate the competencies from Human resources. However, the **Resource capabilities** page doesn't contain the functionality that is required in order to maintain skills, courses, certifications, or titles.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

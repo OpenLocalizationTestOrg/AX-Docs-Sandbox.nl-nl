@@ -1,24 +1,26 @@
 ---
-title: 175 percent reducing balance depreciation | Microsoft Docs
+title: 175 percent reducing balance depreciation
 description: This article gives an overview of the 175 percent reducing balance method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:00:33
+ms.date: 2015-12-02 23 - 00 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13911
-ms.assetid: aa5a4243-5673-4dd6-85ce-f0b5507d7558
-ms.region: Global
+ms.assetid: cc5d001f-bcfe-4602-9ec1-9e265e9fd188
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3f31781a0468f1bb87e48464bd4ee60ac8b14ea6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0a6e4fd1ad1fdd60399e73a38a931635ef189515
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -67,10 +69,5 @@ The 175% reducing balance depreciation method divides 175 percent by the service
 | Year 3 | 4,225 × 35% = 1,478.75                        | 5,225 – 1,478.75 = 3,746.25 | 4,225 – 1,478.75 = 2,746.25           |
 
 **Note:** Typically, when the amount that is calculated by using the 175% reducing balance depreciation method becomes less than the amount that would be calculated by using the straight line method, there is a conversion to the straight line method for the remaining life.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Electronic reporting overview | Microsoft Docs
+title: Electronic reporting overview
 description: This article provides an overview of the Electronic reporting (ER) tool. It includes information about key concepts, the scenarios that ER supports, and a list of formats that have been designed and released as part of the solution.
 author: kfend
 manager: AnnBe
-ms.date: 2016-03-07 16:23:00
+ms.date: 2016-03-07 16 - 23 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ERWorkspace
+ms.search.form: ERWorkspace
 audience: Application User, Developer, IT Pro
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 58941
-ms.assetid: d36aac03-4f5c-4c96-8a92-dd69cc647da0
-ms.region: global
+ms.assetid: 5d51b6a6-ad12-4af9-a66d-a1eb820ae57f
+ms.search.region: global
 ms.author: nselin
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 13c0be27e4af0aa2f49fed7574ebd0921297a185
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 34f10d1f9510e886557edf3975ec0189705ee03c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -59,7 +62,7 @@ Note that business entities (such as Company and Payment transactions) are desig
 
 -   It can use different Dynamics 365 for Operations data types as data sources for a data model. For example, it can use tables, data entities, methods, or enums.
 -   It supports user input parameters that can be defined as data sources for a data model when some data must be specified at run time.
--   It supports the transformation of Dynamics 365 for Operations data into required groups, filtering, sorting, and summing data, and also appending with logical calculated fields that are designed through Microsoft Excel–like formulas (for more details, see [Formula designer in Electronic reporting](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-formula-designer)).
+-   It supports the transformation of Dynamics 365 for Operations data into required groups, filtering, sorting, and summing data, and also appending with logical calculated fields that are designed through Microsoft Excel–like formulas (for more details, see [Formula designer in Electronic reporting](general-electronic-reporting-formula-designer.md)).
 
 [![Excel-like formula editor](./media/pic-formula-1024x615.png)](./media/pic-formula.png) A data model component is designed for each business domain that should be used as a unified data source for reporting that isolates reporting from the physical implementation of Dynamics 365 for Operations data sources, and represents domain-specific business concepts and functionalities in a form that makes a reporting format's initial design and further maintenance more efficient.
 
@@ -257,13 +260,8 @@ ER lets you automatically adopt changes of the latest version of the base compon
 <a name="see-also"></a>See also
 --------
 
-[Localization requirements – Create an Electronic reporting configuration](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/localization-requirements-create-ger-configuration)
+[Localization requirements – Create an Electronic reporting configuration](localization-requirements-electronic-reporting-configuration.md)
 
-[Manage the Electronic reporting configuration lifecycle](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger-how-to-manage-configuration-lifecycle)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Manage the Electronic reporting configuration lifecycle](general-electronic-reporting-manage-configuration-lifecycle.md)
 
 

@@ -1,23 +1,25 @@
 ---
-title: Sales and marketing | Microsoft Docs
+title: Sales and marketing
 description: You can use Sales and marketing to obtain, store, and use various types of data in the sales flow. This data includes the original sales initiative, future follow-up action, and additional sales.
 author: kfend
 manager: AnnBe
-ms.date: 2016-06-15 15:07:32
+ms.date: 2016-06-15 15 - 07 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 92303
-ms.assetid: 9b9911bf-7b0d-42a4-81a0-f712b9ce85ed
-ms.region: Global
+ms.assetid: 65ca9992-bbfa-4224-bf0e-067a25c7e6a4
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4f61bbd635f0fc26e133950ad0834393b115b792
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 62759882a6605e96601f308e578d58d3fdaf4029
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -107,10 +109,5 @@ A free text invoice is an invoice that isn't related to a sales order. It contai
 #### <a name="pro-forma-invoice"></a>Pro forma invoice
 
 A pro forma invoice is an invoice that is prepared as an estimate of the actual invoice amount before the invoice is posted. You can print a pro forma invoice for either a customer invoice or a free text invoice.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

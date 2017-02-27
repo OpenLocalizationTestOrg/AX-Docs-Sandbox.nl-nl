@@ -1,24 +1,26 @@
 ---
-title: Set up RFM analysis | Microsoft Docs
+title: Set up RFM analysis
 description: This topic explains how to set up a Recency, Frequency, and Monetary (RFM) analysis of your customers.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-04-07 15:11:25
+ms.date: 2016-04-07 15 - 11 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78943
-ms.assetid: 934d60df-7d55-41a2-bcea-9e2729d9d906
-ms.region: global
-ms.industry: Retail
+ms.assetid: 8ff9aac3-5ada-4150-85fd-18901c926d53
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0953ca6790f87d785df3908ceae41cba42834497
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 25b4dc4c70201fea04ccb0c287d356995f7206cf
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -34,10 +36,5 @@ Recency, frequency, and monetary (RFM) analysis is a marketing tool that your or
 -   **Monetary rating of 5** – When the customer makes a purchase, he or she spends a significant amount of money.
 
 If your organization uses an aggregate number for the score, the individual ratings are added together. For the same example, the customer has a rating of 13 (5 + 3 + 5).
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

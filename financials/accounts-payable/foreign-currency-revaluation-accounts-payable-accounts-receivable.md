@@ -1,24 +1,27 @@
 ---
-title: Foreign currency revaluation for Accounts payable and Accounts receivable | Microsoft Docs
+title: Foreign currency revaluation for Accounts payable and Accounts receivable
 description: Fluctuations in exchange rates cause the theoretical value (book value) of open transactions in foreign currencies to vary over time. This article provides information about the foreign currency revaluation process that you run to update the value of open transactions in Accounts payable and Accounts receivable.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:15:07
+ms.date: 2015-12-02 23 - 15 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustExchRateAdjustment, VendExchRateAdjustment
+ms.search.form: CustExchRateAdjustment, VendExchRateAdjustment
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14211
-ms.assetid: 9b53dacb-84df-4fa0-a162-a8b263554d10
-ms.region: Global
+ms.assetid: defb1ea5-1f3e-4859-87d8-3f9954d3f388
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6791101fc3c4a67ee65221322bc9a53426bd754d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2cbce6ea75b891cb0992725eea920cdd76f39743
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -59,10 +62,5 @@ A record is kept every time that you run a foreign currency revaluation. From th
     -   **Table** – The financial dimensions of the customer account or vendor account are posted on the foreign currency revaluation transactions.
     -   **Posting** – The financial dimensions of the transaction that is being revalued are posted on the foreign currency revaluation transactions. By default, the financial dimensions from the original transaction's AR/AP ledger account will be used for the revaluation transaction's AR/AP main account, and the financial dimensions from the original transaction's expense/asset/revenue ledger account will be used for the revaluation transaction's unrealized gain/loss main account.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

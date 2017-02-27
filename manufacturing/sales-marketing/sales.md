@@ -1,23 +1,25 @@
 ---
-title: Sales home page | Microsoft Docs
+title: Sales home page
 description: This topic includes a list of the help topics and other resources that are available for Sales.
 author: kfend
 manager: AnnBe
-ms.date: 2016-02-18 09:58:14
+ms.date: 2016-02-18 09 - 58 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50591
-ms.assetid: 1b38d715-4620-4d81-bf4a-bccfe00aec6a
-ms.region: Global
+ms.assetid: ceb26d3f-679d-4d75-9f57-c73b2316f14b
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4578884209bce4666e3f35b4cc7227b4ff49f11e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 72410f1254f092f1fdfe32be8485f3440264e371
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -29,24 +31,24 @@ This topic includes a list of the help topics and other resources that are avail
 The Sales functionality within the Sales and marketing module allows you to manage sales orders, pricing management, sales quotations, promotions, sales commissions, partner and alliance commissions, and sales returns.
 
 ## <a name="sales-order-management"></a>Sales order management
--   [Sales agreements](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/sales-agreements)
+-   [Sales agreements](sales-agreements.md)
 -   [Enter sales agreements](http://ax.help.dynamics.com/en/wiki/enter-sales-agreements/) (Task guide)
 -   [Fulfill sales agreements](http://ax.help.dynamics.com/en/wiki/fulfill-sales-agreements/) (Task guide)
 -   [Create sales orders](http://ax.help.dynamics.com/en/wiki/create-sales-orders/) (Task guide)
 -   [Enter orders for configurable products](http://ax.help.dynamics.com/en/wiki/enter-orders-for-configurable-products/) (Task guide)
--   [Order promising](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-dates-and-available-to-promise-calculations)
+-   [Order promising](delivery-dates-available-promise-calculations.md)
 -   [Determine sales order line availability](http://ax.help.dynamics.com/en/wiki/determine-sales-order-line-availability/) (Task guide)
--   [Order entry deadlines](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/order-entry-deadlines)
--   [Direct deliveries](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/direct-deliveries)
--   [Delivery schedules](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/delivery-schedules)
+-   [Order entry deadlines](order-entry-deadlines.md)
+-   [Direct deliveries](direct-deliveries.md)
+-   [Delivery schedules](delivery-schedules.md)
 -   [Create a delivery schedule](http://ax.help.dynamics.com/en/wiki/create-a-delivery-schedule/) (Task guide)
--   [Registering serial numbers in the sales process](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/registering-serial-numbers-in-the-sales-process)
--   [Reserving the same batch for a sales order](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/reserving-the-same-batch-for-a-sales-order)
+-   [Registering serial numbers in the sales process](register-serial-numbers-sales-process.md)
+-   [Reserving the same batch for a sales order](reserve-same-batch-sales-order.md)
 -   [Confirm sales orders](http://ax.help.dynamics.com/en/wiki/confirm-sales-orders/) (Task guide)
 -   [Ship sales orders without warehousing](http://ax.help.dynamics.com/en/wiki/ship-sales-orders-without-warehousing/) (Task guide)
 -   [Ship orders as direct deliveries](http://ax.help.dynamics.com/en/wiki/ship-orders-as-direct-deliveries/) (Task guide)
 -   [Create a purchase order from a sales order](http://ax.help.dynamics.com/en/wiki/create-a-purchase-order-from-a-sales-order/) (Task guide)
--   [Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/sales-orders-mobile-workspace)
+-   [Sales orders mobile workspace for Microsoft Dynamics 365 for Operations app](sales-orders-mobile-workspace.md)
 
 ## <a name="pricing-management"></a>Pricing management
 -   [Trade Agreements](https://mbs.microsoft.com/customersource/global/AX/learning/documentation/white-papers/msdaxtradeagmtwp) (demo script, previous version of Dynamics)
@@ -62,7 +64,7 @@ The Sales functionality within the Sales and marketing module allows you to mana
 ## <a name="sales-quotations"></a>Sales quotations
 -   [Create and edit sales quotations](http://ax.help.dynamics.com/en/wiki/create-and-edit-sales-quotations/) (Task guide)
 -   [Mass create sales quotations](http://ax.help.dynamics.com/en/wiki/mass-create-sales-quotations/) (Task guide)
--   [Price simulation](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/sales-marketing/price-simulation)
+-   [Price simulation](price-simulation.md)
 
 ## <a name="sales-commissions"></a>Sales commissions
 -   [Set up sales commission rules](http://ax.help.dynamics.com/en/wiki/set-up-sales-commission-rules/) (Task guide)
@@ -73,10 +75,5 @@ The Sales functionality within the Sales and marketing module allows you to mana
 -   Additional help is available as task guides inside Dynamics 365 for Operations. To access task guides, click the Help button on any page.
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbspartner.microsoft.com/AX/LearningPlans) (requires a CustomerSource account).
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

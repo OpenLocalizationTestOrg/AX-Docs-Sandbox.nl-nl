@@ -1,23 +1,25 @@
 ---
-title: Enter account and dimension combinations (segmented entry control) | Microsoft Docs
+title: Enter account and dimension combinations (segmented entry control)
 description: This article describes how to enter account and dimension combinations or ledger accounts. The entry experience is often referred to as segmented entry control.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-02 23:05:38
+ms.date: 2015-12-02 23 - 05 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14071
-ms.assetid: 27a8189b-7229-4ad2-98da-bd4057c2d048
-ms.region: Global
+ms.assetid: e6fce826-c403-4d91-a78b-e9a58c44ac03
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 68401b9344e87e1a1f27615f48fe7849f8d2638b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3ecab0911ded7921a2e093a1255598e7b5aaf444
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -102,10 +104,5 @@ The following table describes the keyboard shortcuts that can be used when the l
 </table>
 
  
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

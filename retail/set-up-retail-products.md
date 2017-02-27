@@ -1,24 +1,26 @@
 ---
-title: Set up retail products | Microsoft Docs
+title: Set up retail products
 description: This article describes how to set up retail products in Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:19:34
+ms.date: 2015-12-03 22 - 19 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16181
-ms.assetid: a29d885d-b59b-4dea-b158-3908468c809f
-ms.region: global
-ms.industry: Retail
+ms.assetid: b1b57734-1406-4ed6-8e28-21c705ee17e2
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f4aab402ac2496c4568aedf243d5ddc224299ce5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3b37c4eb95ec52ad2ad96312789c18914778c916
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -36,10 +38,5 @@ Before you can offer products for resale in your retail channels, you must creat
 5.  Add products to navigation hierarchies. Before products can be browsed online or in point of sale (POS), they must be categorized in a Retail navigation hierarchy.
 6.  Add products to catalogs. Although this step is optional for POS, online stores require that products be included in at least one catalog.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

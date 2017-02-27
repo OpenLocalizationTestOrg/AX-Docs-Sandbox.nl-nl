@@ -1,24 +1,26 @@
 ---
-title: Set up and maintain PRODCOM | Microsoft Docs
+title: Set up and maintain PRODCOM
 description: This topic explains how to set up and maintain PRODCOM in Microsoft Dynamics 365 for Operations.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 20:32:08
+ms.date: 2016-12-19 20 - 32 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: IntrastatToProdcom, InventProdComLineDetail, InventProdComLineWithCode, InventProdComParameters, InventProdComTable
+ms.search.form: IntrastatToProdcom, InventProdComLineDetail, InventProdComLineWithCode, InventProdComParameters, InventProdComTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations, Core
 ms.custom: 264804
-ms.assetid: b60c566d-bf6b-4da5-a220-8cbb31d6e9b9
-ms.region: Belgium
+ms.assetid: b9c3b605-13fd-4764-9f7a-8d4a797297e0
+ms.search.region: Belgium
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 98272634100492b6f9db3d7b47c4f92242008ab6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e346889ee6afbb3cf94820496b2d115e3cdfbb86
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,7 +43,7 @@ Before you can generate the PRODCOM report, you must set up the following on the
 
 4.  Specify an automatic recalculation preference.
 5.  Set up number sequences.
-6.  Specify the branch ID for Legal entity or Warehouses. For more information about the branch ID of Legal entity processing, including required prerequisites, see [Registration IDs](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/registration-ids).
+6.  Specify the branch ID for Legal entity or Warehouses. For more information about the branch ID of Legal entity processing, including required prerequisites, see [Registration IDs](registration-ids.md).
 
 ## <a name="assign-prodcom-properties-to-an-item"></a>Assign PRODCOM properties to an item
 Assign PRODCOM properties to an item (**Product information management &gt; Products &gt; Released products**). Open the **Released product details** page, in the **Foreign trade** section, open the PRODCOM dialog box and provide the following details.
@@ -57,10 +59,5 @@ Use the **Intrastat to PRODCOM conversion** page to assign PRODCOM codes to Intr
 
 ## <a name="use-prodcom"></a>Use PRODCOM
 Use the **PRODCOM** page to create PRODCOM periods and transfer sales lines to the PRODCOM report. After you enter the dates for the declaration period and then enter the section codes, you can transfer the sales lines to the PRODCOM report. After you transfer the sales lines to the report, you can review and edit the products on the PRODCOM list, and then you can print the report.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

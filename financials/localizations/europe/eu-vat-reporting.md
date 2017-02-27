@@ -1,24 +1,26 @@
 ---
-title: VAT reporting for Europe | Microsoft Docs
+title: VAT reporting for Europe
 description: This topic provides general information about setting up and generating the value-added tax (VAT) statement for some European countries.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2017-01-11 13:48:01
+ms.date: 2017-01-11 13 - 48 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxAuthority, TaxReportCollection, TaxTable
+ms.search.form: TaxAuthority, TaxReportCollection, TaxTable
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 266844
-ms.assetid: 302044ed-e8b0-4859-9275-afed8f2dee7a
-ms.region: Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden
+ms.assetid: 06798e29-6140-489e-9b4e-66b45b26be2b
+ms.search.region: Austria, Belgium, Czech Republic, Estonia, Finland, Germany, Latvia, Lithuania, Netherlands, Sweden
 ms.author: v-elgolu
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: d331960307ba214de4382feac7941aa5065c523d
-ms.openlocfilehash: bbd28483640b6372f2f95330df4640cb32df70b3
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a32d492e0080070abc310aeb69c1abcd574cedfc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -244,9 +246,9 @@ For general information about setting up sales tax codes, see [Set up sales tax 
 
 You can use Electronic Reporting (ER) to configure statements and report, and to export data different electronic formats without changing X++ code. For additional information:
 
--   [Electronic reporting overview](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)
--   [Download Electronic reporting configurations from Lifecycle Services](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/download-electronic-reporting-er-configuration-from-lifecycle-services)
--   [Localization requirements – Create a GER configuration](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/localization-requirements-create-ger-configuration)
+-   [Electronic reporting overview](general-electronic-reporting.md)
+-   [Download Electronic reporting configurations from Lifecycle Services](download-electronic-reporting-configuration-lcs.md)
+-   [Localization requirements – Create a GER configuration](localization-requirements-electronic-reporting-configuration.md)
 
 ## <a name="countryspecific-resources-for-vat-statements"></a>Countryspecific resources for VAT statements
 The VAT statement for each country must meet the requirements of the country’s legislation. There are predefined general models and formats of VAT statements for the countries listed in the following table.
@@ -254,22 +256,17 @@ The VAT statement for each country must meet the requirements of the country’s
 |                |                                                                                                                               |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------|
 | **Country**    | **Additional information**                                                                                                    |
-| Austria        |  [VAT statement details for Austria](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/aut-vat-statement-details-austria)              |
+| Austria        |  [VAT statement details for Austria](aut-vat-statement-details-austria.md)              |
 | Belgium        |                                                                                                                               |
-| Czech Republic |  [VAT statement details for Czech Republic](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/cz-vat-statement-details-for-czech-republic) |
-| Estonia        |  [VAT statement details for Estonia](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/est-vat-statement-details-estonia)              |
+| Czech Republic |  [VAT statement details for Czech Republic](cz-vat-statement-details-for-czech-republic.md) |
+| Estonia        |  [VAT statement details for Estonia](est-vat-statement-details-estonia.md)              |
 | Finland        |                                                                                                                               |
 | Germany        |                                                                                                                               |
-| Latvia         | [VAT statement details for Latvia](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/lv-vat-statement-details)                             |
-| Lithuania      | [VAT statement details for Lithuania](https://docs.microsoft.com/en-us/dynamics365/operations/financials/localizations/europe/lt-vat-statement-details)                          |
+| Latvia         | [VAT statement details for Latvia](lv-vat-statement-details.md)                             |
+| Lithuania      | [VAT statement details for Lithuania](lt-vat-statement-details.md)                          |
 | Netherlands    |                                                                                                                               |
 | Sweden         |                                                                                                                               |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: View and evaluate the results of a questionnaire | Microsoft Docs
+title: View and evaluate the results of a questionnaire
 description: This article explains how you can view and evaluate the results of questionnaires that respondents complete.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 18:36:29
+ms.date: 2015-12-04 18 - 36 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KMCollection, KMKnowledgeCollectorCollection, KMKnowledgeCollectorUserResults
+ms.search.form: KMCollection, KMKnowledgeCollectorCollection, KMKnowledgeCollectorUserResults
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 17444
-ms.assetid: 9150ed48-e3b8-4944-b9ad-8b751933f250
-ms.region: Global
+ms.assetid: 6570206a-b2c4-4025-8715-432fe6652b78
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c8a2eeb3ab7ef0f4729f7a5297f28cc28e116fd4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d09f60e3b2bf5bb4db3bad1264a1e0ac3fdcbca2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -71,15 +74,10 @@ The settings that you define are saved and can be used to periodically recalcula
 <a name="see-also"></a>See also
 --------
 
-[Designing questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/designing-questionnaires)
+[Designing questionnaires](design-questionnaires.md)
 
-[Using questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/using-questionnaires)
+[Using questionnaires](questionnaires.md)
 
-[Distributing and completing questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/distributing-questionnaires)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Distributing and completing questionnaires](distribute-questionnaires.md)
 
 

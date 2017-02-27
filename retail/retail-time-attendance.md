@@ -1,24 +1,26 @@
 ---
-title: Retail time and attendance | Microsoft Docs
+title: Retail time and attendance
 description: This topic describes the scenarios that are supported for time and attendance management in Microsoft Dynamics 365 for Operations - Retail.
 author: MargoC
 manager: AnnBe
-ms.date: 2016-03-08 22:09:37
+ms.date: 2016-03-08 22 - 09 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 62813
-ms.assetid: 94e02fb1-07e1-468d-9255-c5b989a6891a
-ms.region: global
-ms.industry: Retail
+ms.assetid: 821994a6-cd29-45a3-a526-ce204064f080
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: aamiral
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: db3dc577f03a5d281eba56cf6b6fd9be86c415a1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c3715c108f731bd82f396086579fdc7c9ee688d3
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -130,10 +132,5 @@ A Dynamics 365 for Operations - Retail user follows the workflow to calculate, a
 -   Register Absence
 
 For more information about how to process time and attendance registrations, see <https://technet.microsoft.com/en-us/library/aa573180.aspx>.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Warehouse configuration | Microsoft Docs
+title: Warehouse configuration
 description: This article explains how to configure a warehouse. It includes information about how to enable a warehouse layout and warehouse processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:52:43
+ms.date: 2015-10-30 12 - 52 - 43
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventLocation, WHSLocation, WHSLocationBuild, WHSLocationProfile, WHSLocationType, WHSLocDirTable, WHSParameters, WHSWaveTemplateTable, WHSWorkPool, WHSWorkTemplateTable, WHSZone, WHSZoneGroup
+ms.search.form: InventLocation, WHSLocation, WHSLocationBuild, WHSLocationProfile, WHSLocationType, WHSLocDirTable, WHSParameters, WHSWaveTemplateTable, WHSWorkPool, WHSWorkTemplateTable, WHSZone, WHSZoneGroup
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11554
-ms.assetid: 0523980a-602f-45b4-aa0e-cb18b2c0ce58
-ms.region: Global
+ms.assetid: 262b7b88-2cce-44f7-9a5b-77c12af1be20
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c5577383521a23391bb9ef842999c108f9a05bf
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4401717bf99a2347da794658d74259ab60719ed8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -90,10 +92,5 @@ As the name suggests, location directives are used to direct the work transactio
 --------
 
 [Configure locations in a WMS-enabled warehouse](https://ax.help.dynamics.com/en/wiki/configure-locations-in-a-wms-enabled-warehouse/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

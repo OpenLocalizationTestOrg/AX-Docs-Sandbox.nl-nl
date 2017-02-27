@@ -1,25 +1,27 @@
 ---
-title: Common sources of production variances | Microsoft Docs
+title: Common sources of production variances
 description: This article explains various typical sources of each type of production variance.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:26:41
+ms.date: 2016-04-11 13 - 26 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventCostTrans
+ms.search.form: InventCostTrans
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79753
-ms.assetid: 5b45a48e-c0e2-4287-ad65-f6e9e593e661
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 14ac7db4-fb40-43c1-bb0d-1d51fc91d24f
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 75803b16061a937d135394aa18a67a92b6994a01
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d9e19d1755f33597e54de6ea67c426b5172240fa
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -56,10 +58,5 @@ Here are some typical sources of a **production substitution** variance:
 -   When you create the production order, you select a BOM version that differs from the BOM version that is used in the standard cost calculation.
 -   When you create the production order, you select a route version that differs from the route version that is used in the standard cost calculation.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

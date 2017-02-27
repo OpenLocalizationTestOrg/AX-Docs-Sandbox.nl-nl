@@ -1,24 +1,27 @@
 ---
-title: Retail hierarchies | Microsoft Docs
+title: Retail hierarchies
 description: This article describes retail hierarchies in Microsoft Dynamics AX.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 20:54:28
+ms.date: 2015-12-03 20 - 54 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15851
-ms.assetid: f823e81a-2e18-4824-9403-3c256639def9
-ms.region: global
-ms.industry: Retail
+ms.assetid: dfa11d41-2a0c-4cde-99b6-058c49176c94
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2a21785b8e93a90e71ce2c8875cdaa5e99f02b41
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 03aaddd2b924e6a4c9939f641fe1b92065f715f2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -39,10 +42,5 @@ The following table lists the types of retail category hierarchies that are avai
 | Retail navigation hierarchy   | Use this hierarchy type to group and organize products into categories so that the products can be browsed online or in POS.                                                                                                                                                                                       |
 
 By using a retail category hierarchy to structure your products, you can set up and maintain product attributes and properties at the category level. These attributes and properties include settings for product dimensions and POS settings. Any products that you assign to the categories automatically inherit the attributes and properties that you define. You can also copy the property settings for any product to multiple products in a selected category at the same time.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

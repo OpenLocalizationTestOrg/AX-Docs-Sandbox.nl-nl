@@ -1,24 +1,26 @@
 ---
-title: Set up order processing options | Microsoft Docs
+title: Set up order processing options
 description: This topic provides information about how to process orders for call centers using Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-04-07 15:11:36
+ms.date: 2016-04-07 15 - 11 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78973
-ms.assetid: 0419a1c0-8c18-42cf-90db-ae03bf438b0c
-ms.region: global
-ms.industry: Retail
+ms.assetid: 09fca083-ac0d-4f30-baf2-bb00a626be12
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 87be50f75d62b76fb68a56b82476296dcd48ceed
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 34f7f779059987ce9609a02ca931337e614fc11a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -39,10 +41,5 @@ When you enable these features in the call center settings, they are available o
 3.  **Final cancellation notice** – The system cancels the order, and the customer is informed of the cancellation.
 
 You can exempt individual customers and products from the automatic notification and cancellation process. A margin alert is triggered when you add an item to an order. The alert contains important information about the item, such as the price margin and item profitability. You can use this information to decide whether a price override is appropriate when you add an item to the sales order. For example, you set up thresholds for the trade margins, to specify that a threshold of 40 percent or more above cost is acceptable for an item, but a threshold of 20 to 39 percent above cost is questionable. In this case, any item that has a threshold between 20 and 39 percent triggers a warning. Any item that has a threshold of less than 20 percent above cost can’t be sold, and the item price can’t be adjusted. You can configure margin alerts at **Accounts receivable** &gt; **Setup** &gt; **Accounts receivable parameters** &gt; **Margin alerts**. When you set up the sales tax assignment based on default rules, you can determine a matching priority for address elements. For example, you can specify that matching a sales tax group by ZIP Code or postal code has a higher priority than matching a sales tax group by state. As you enter new customer address records, the sales tax group is automatically assigned, based on how the customer’s address matches with the default rules and priority matching that you defined. You can configure this functionality on the **General ledger parameters** page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

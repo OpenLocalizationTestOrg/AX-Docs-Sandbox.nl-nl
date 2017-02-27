@@ -1,23 +1,25 @@
 ---
-title: Payment slip report for Europe | Microsoft Docs
+title: Payment slip report for Europe
 description: This topic provides information about payment slip reports for Europe.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 17:07:55
+ms.date: 2016-12-19 17 - 07 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264604
-ms.assetid: dcc7a1c8-d4d8-46c0-ad7c-ae1443cbed11
-ms.region: Belgium, Denmark, Finland, Norway, Switzerland
+ms.assetid: 551e047b-4581-4a77-b470-c4f8d395c375
+ms.search.region: Belgium, Denmark, Finland, Norway, Switzerland
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2c6fe375eac8426cf10fe35205cef1db42fdb56a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 26894322b55ba8658a81d00ae8df293d5926f7c0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -56,10 +58,5 @@ After you set up the payment slip attachment format for sales invoices, free tex
 3.  On the **Invoice and delivery** FastTab, in the **On a customer invoice**, **On a free text invoice**, **On an interest note**, **On a collection letter**, **On a project invoice**, and **On an account statement** fields, select the format for payment slip attachments that will accompany documents of each type that are sent to the selected customer.
 4.  Close the form to save your changes.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

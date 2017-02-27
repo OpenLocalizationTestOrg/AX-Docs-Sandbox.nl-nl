@@ -1,24 +1,27 @@
 ---
-title: Create a call center catalog | Microsoft Docs
+title: Create a call center catalog
 description: This article provides an overview of the process for creating a catalog for a call center.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:20:12
+ms.date: 2015-12-03 22 - 20 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16212
-ms.assetid: d1042887-f27e-4e53-a4bb-9a3c1185fc7e
-ms.region: global
-ms.industry: Retail
+ms.assetid: c9d1b9df-82e8-4b3a-a13c-166df8b9718e
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c19d18ad976e129c8a488f72d14f58aa8dc6da30
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f29f2e08d580a4cbd7e5ec5849bf1e3f319c133c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -65,10 +68,5 @@ You can also add the following items to a call center catalog. These items are o
 
 ## <a name="publish-the-catalog"></a>Publish the catalog
 By publishing a catalog for a call center, you finalize the product information in the catalog. Publication also indicates that the catalog is ready for any additional actions that you want to perform. For example, you can create a printed catalog. You can publish your catalogs manually, or you can use a batch process to publish according to a schedule. Before you can publish a catalog, the catalog must be validated and approved. To change the catalog after it's published, you can retract the catalog and then republish it.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

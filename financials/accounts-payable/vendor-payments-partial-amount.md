@@ -1,24 +1,27 @@
 ---
-title: Vendor payments for a partial amount | Microsoft Docs
+title: Vendor payments for a partial amount
 description: Sometimes, you might make a payment to a vendor that is less than the amount of an invoice. This article describes the various options for handling this situation. The options that are available to you depend on your business requirements and configuration.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:22:17
+ms.date: 2015-12-02 23 - 22 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14321
-ms.assetid: 13f782b6-c487-4646-8d93-db769bf59131
-ms.region: Global
+ms.assetid: 9a17075e-5325-4d55-a1e5-1791b8c460a0
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: be51b468ea98764340973439b9b4f466ee506236
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d5288434b93327e1ab5a417ffc69ca8fea165f21
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +43,5 @@ You might return some of the items on an invoice and receive a credit note. If a
 
 ## <a name="overpaymentunderpayment-amounts"></a>Overpayment/underpayment amounts
 You might make a partial payment where the amount that must still be settled is very small. For example, the vendor invoice is for 1,000.00, and you pay 999.90. If the remaining amount is less than the amount that is specified for overpayments or underpayments on the **Accounts payable parameters** page, the difference is automatically posted to an overpayment/underpayment ledger account.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

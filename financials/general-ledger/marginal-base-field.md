@@ -1,24 +1,27 @@
 ---
-title: Sales tax rates based on the Marginal base and Calculation methods | Microsoft Docs
+title: Sales tax rates based on the Marginal base and Calculation methods
 description: This article explains how the values in the fields Marginal base and Calculation method determine the tax rate(s) in sales and purchase transactions.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-15 15:06:40
+ms.date: 2015-09-15 15 - 06 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxTable
+ms.search.form: TaxTable
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7171
-ms.assetid: 93ab2a29-8750-4560-a02f-c2a4015849b8
-ms.region: Global
+ms.assetid: 381fc309-b32a-4927-b5b8-fa1c31b0bd72
+ms.search.region: Global
 ms.author: vstehman
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8d8de74e3b687dd43d92ac573154d36979f3bb45
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 54fca551bd2899816a35baa3af84693b32622906
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -137,13 +140,8 @@ Marginal base: **Invoice total incl. other sales tax amounts** Calculation metho
 <a name="see-also"></a>See also
 --------
 
-[Whole amount and Interval calculation options for sales tax codes](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/whole-amount-and-interval-options-for-sales-tax-codes)
+[Whole amount and Interval calculation options for sales tax codes](whole-amount-interval-options-sales-tax-codes.md)
 
-[Sales tax calculation methods in the Origin field](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/sales-tax-calculation-methods-in-the-origin-field)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Sales tax calculation methods in the Origin field](sales-tax-calculation-methods-origin-field.md)
 
 

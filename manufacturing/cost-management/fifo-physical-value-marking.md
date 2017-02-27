@@ -1,25 +1,27 @@
 ---
-title: FIFO with physical value and marking | Microsoft Docs
+title: FIFO with physical value and marking
 description: First in, First out (FIFO) is an inventory model in which the first acquired receipts are issued first. Financially updated issues from inventory are settled against the first financially updated receipts into inventory, based on the financial date of the inventory transaction.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 18:57:00
+ms.date: 2016-02-24 18 - 57 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
+ms.search.form: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 54682
-ms.assetid: f2562ece-c5b9-4d59-bdff-2c4bf029d6d7
-ms.region: Global
-ms.industry: Retail
+ms.assetid: dc0e2855-83a0-41a7-a398-3c7852597d1a
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 71cb75cdac432723806049c691884fbb4f6fa480
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 59a49b64ef63a2e908fc84bc24f7aab50966388d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -117,10 +119,5 @@ The new running average cost price reflects the average of the financially and p
 -   Inventory closings are represented by a red vertical dashed line and the label *Inventory Close*.
 -   Settlements that are performed by inventory close are represented by red diagonal dashed arrows that go from a receipt to an issue.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

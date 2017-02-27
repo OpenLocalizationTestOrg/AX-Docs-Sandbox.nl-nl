@@ -1,24 +1,26 @@
 ---
-title: Unit of measure and stocking policies | Microsoft Docs
+title: Unit of measure and stocking policies
 description: This article describes how default units, unit sequences, and unit conversions are used in warehouse processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-18 12:49:12
+ms.date: 2016-01-18 12 - 49 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResProductDetails, EcoResProductDetailsExtended, EcoResStorageDimensionGroup, InventItemOrderSetup, UnitOfMeasureConversion, WHSRFMenuItem, WHSUOMSeqGroupTable
+ms.search.form: EcoResProductDetails, EcoResProductDetailsExtended, EcoResStorageDimensionGroup, InventItemOrderSetup, UnitOfMeasureConversion, WHSRFMenuItem, WHSUOMSeqGroupTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 29611
-ms.assetid: b4970d85-88c5-4fd7-b3ab-fc741fa61d8a
-ms.region: Global
+ms.assetid: 4b5ca875-9a06-416d-9ac0-cc3ab8f7338e
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 04f815cc154c3ae0a473b98017dbaa75db0cdc6f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2900640fce9aa9bb11013ab55225678fbab24069
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -43,10 +45,5 @@ To set the default units that should be used for receiving processes on mobile d
 
 ## <a name="default-order-settings"></a>Default order settings
 As part of the creation of released products, you must select default units for purchases, sales, and inventory to process the various orders. You can set the default units and quantities for the various source documents by using the **Default order settings** and **Site specific order settings** pages. You can access these pages from the **Released products** page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

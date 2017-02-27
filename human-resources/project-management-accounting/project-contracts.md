@@ -1,24 +1,26 @@
 ---
-title: Project contracts | Microsoft Docs
+title: Project contracts
 description: This article describes and provides examples of the project contracts that you can create for various types of projects and funding sources, and how you can manage contracts and invoice project customers in Microsoft Dynamics 365 for Operations.
 author: kfend
 manager: AnnBe
-ms.date: 2016-11-21 23:22:06
+ms.date: 2016-11-21 23 - 22 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjProjectContractsListPage, ProjProjectsListPage
+ms.search.form: ProjProjectContractsListPage, ProjProjectsListPage
 audience: Application User, IT Pro
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23561
-ms.assetid: 53983c8d-530b-483d-8249-e260f5e4ba0b
-ms.region: Global
+ms.assetid: bfd18d9b-d9a6-4e21-bc95-bf4af45f617f
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3ac6fa46f599b14131267a98c90f190bf7fd620a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a2c651955aa65ee22bdbb1ac0a1c6c7fac179a75
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -301,10 +303,5 @@ Your organization, a software consulting firm, agrees to provide five technical 
 -   You create a customer invoice at the end of each calendar month during the project.
 
 During the first month, a total of 800 hours are recorded by the consultants on the project. The cost of office supplies that are charged to the project is 2,000. Therefore, at the end of the month, you create an invoice for 122,000, which is calculated as 800 hours at 150 per hour, plus 2,000 for office supplies.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

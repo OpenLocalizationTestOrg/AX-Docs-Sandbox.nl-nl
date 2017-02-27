@@ -1,23 +1,25 @@
 ---
-title: Single voucher with multiple customer or vendor records | Microsoft Docs
+title: Single voucher with multiple customer or vendor records
 description: This topic provides an overview of what happens when you post a single voucher with multiple customer or vendor records. This functionality will be discontinued in future versions of Microsoft Dynamics 365 for Operations, as a result, we do not recommend using this method of posting because of the accounting impact to settlement processing.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-10-31 18:43:45
+ms.date: 2016-10-31 18 - 43 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2231
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 222534
-ms.assetid: 4b4fd20d-d0b1-4d5b-83a4-c1192e932281
-ms.region: global
+ms.assetid: d4df11ce-4d36-4c66-8230-f5fc58e021bc
+ms.search.region: global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 87a67e99bc201fe925b24faadb2d5034b4157fc7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3d692242d8caf8836882a94b91f0835dc4cd9035
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -232,10 +234,5 @@ To avoid unwanted issues with future settlements for this transaction, instead o
 | 002         | Vendor           | 1001        |                 |  75.00    |            | Ledger          | 999999---          |
 
  
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,27 @@
 ---
-title: Authorize an adjusted forecast | Microsoft Docs
+title: Authorize an adjusted forecast
 description: Not all forecast data must be authorized immediately. This article explains how you can specify the period that a forecast is authorized for. It also explains how you can authorize the forecast for specific companies and forecast models.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 12:35:48
+ms.date: 2016-03-30 12 - 35 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqDemPlanImportForecastDialog
+ms.search.form: ReqDemPlanImportForecastDialog
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72734
-ms.assetid: 98bae996-7c21-4643-be11-fd72b05d9b01
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: cb8fd809-605a-4a8b-a390-636edfec21f9
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6701ef48350272e43629ba134480186317097194
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 7528782dd55fe2cea4e0253c08fee978b75f28b1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -33,13 +35,8 @@ Not all forecast data must be authorized immediately. You can specify the start 
 <a name="see-also"></a>See also
 --------
 
-[Making manual adjustments to the baseline forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/making-manual-adjustments-to-the-baseline-forecast)
+[Making manual adjustments to the baseline forecast](manual-adjustments-baseline-forecast.md)
 
-[Monitoring forecast accuracy](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Monitoring forecast accuracy](monitor-forecast-accuracy.md)
 
 

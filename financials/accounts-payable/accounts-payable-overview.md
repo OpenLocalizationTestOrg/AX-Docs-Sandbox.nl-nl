@@ -1,24 +1,27 @@
 ---
-title: Configure Accounts payable | Microsoft Docs
+title: Configure Accounts payable
 description: This article describes the pages that you use to set up basic and optional functionality for Accounts payable in Microsoft Dynamics AX. It also describes setup steps that you must complete before you start to set up Accounts payable.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-12 19:13:45
+ms.date: 2015-12-12 19 - 13 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankAccountTable, DeliveryMode, PaymTerm, VendGroup, VendParameters, VendPaymMode, VendTable
+ms.search.form: BankAccountTable, DeliveryMode, PaymTerm, VendGroup, VendParameters, VendPaymMode, VendTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 24671
-ms.assetid: 12dd117c-513c-4ad5-a03a-0d3d548917e1
-ms.region: Global
+ms.assetid: 82561fe7-b2d6-464c-9347-79d0ce0f9743
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a3e03ccaba85e8775b5ebc057a5356e04f26cf08
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 52410ba3eafdb50dc445f36a9d3ac7e2385b95a6
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -139,10 +142,5 @@ The additional setup pages are organized by functionality.
 -   On the Payment purpose codes page, set up the Central Bank purpose code.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

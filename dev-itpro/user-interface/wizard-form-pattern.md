@@ -1,22 +1,25 @@
 ---
-title: Wizard form pattern | Microsoft Docs
+title: Wizard form pattern
 description: This article provides information about the Wizard form pattern. A wizard is a special form of user assistance that takes the user through a task by using an ordered series of tab pages.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-12-03 00:02:08
+ms.date: 2015-12-03 00 - 02 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14671
-ms.assetid: 95e3abf2-21c0-4443-8610-65c462b0d9c4
-ms.region: Global
+ms.assetid: 564b88d7-85f5-488a-bbbe-19eff7194321
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 983d90b35f97ab4e9ce8eb9d8c54b5a2d57d107e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 7be9fc293960bd6b10976cb829cdf661658ec228
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -62,15 +65,15 @@ Body (Group)
 
 ### <a name="commonly-used-subpatterns"></a>Commonly used subpatterns
 
--   [Fields and Field Groups](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/fields-and-field-groups-subpattern)
--   [Toolbar and List](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/toolbar-and-list-subpattern)
--   [Toolbar and Fields](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/toolbar-and-fields-subpattern)
--   [List Panel](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/list-panel-subpattern)
+-   [Fields and Field Groups](fields-field-groups-subpattern.md)
+-   [Toolbar and List](toolbar-list-subpattern.md)
+-   [Toolbar and Fields](toolbar-fields-subpattern.md)
+-   [List Panel](list-panel-subpattern.md)
 
 ## <a name="ux-guidelines"></a>UX guidelines
 The verification checklist shows the steps for manually verifying that the form complies with UX guidelines. This checklist doesn't include any guidelines that will be enforced automatically through the development environment. Open the form in the browser, and walk through these steps. **Standard form guidelines:**
 
--   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/general-form-guidelines)document.
+-   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](general-form-guidelines.md)document.
 
 **Wizard** **guidelines:**
 
@@ -107,10 +110,5 @@ This section will have answers to frequently asked questions that are related to
 #### <a name="ax-2012-example"></a>AX 2012 example
 
 [![AX 2012 example](./media/wizard3.png)](./media/wizard3.png)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

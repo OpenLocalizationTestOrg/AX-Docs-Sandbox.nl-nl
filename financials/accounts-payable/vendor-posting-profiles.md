@@ -1,24 +1,27 @@
 ---
-title: Vendor posting profiles | Microsoft Docs
+title: Vendor posting profiles
 description: Vendor posting profiles control the posting of vendor transactions to the general ledger.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-12 19:14:01
+ms.date: 2015-12-12 19 - 14 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: VendPosting
+ms.search.form: VendPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 24691
-ms.assetid: 7c319b67-383a-471f-af50-49b2d5644772
-ms.region: Global
+ms.assetid: 18def866-7655-4f0b-b299-eec83098d23a
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f8efd35ff70afdcbe13779945da8502a1f9c7a30
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8b5405a7f1cc41261e8995ad1d17084bced7f3e1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -146,10 +149,5 @@ Specify the following values to set up your posting profile:
 | **Close**      | Select a posting profile to change to when transactions that have this posting profile are closed. A transaction is regarded as closed when it has been settled in full.                                       |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

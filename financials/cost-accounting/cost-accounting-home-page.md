@@ -1,23 +1,25 @@
 ---
-title: Cost accounting home page | Microsoft Docs
+title: Cost accounting home page
 description: This topic provides a list of the help topics and other resources that are available for Cost accounting.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-16 13:57:32
+ms.date: 2016-11-16 13 - 57 - 32
 ms.topic: 
 ms.prod: 
 ms.service: 
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 256254
-ms.assetid: f0475e93-13da-45c5-a625-5bcca1fc8bfe
-ms.region: Global
+ms.assetid: e1b0a6e3-0c72-4a7d-90e1-20f870c6dbad
+ms.search.region: Global
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 55970859836334e41db9d3ae67c5287e9aed6701
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ad981fd0acdfd1f74db53bbd0c7ce4b4abed9df2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,11 +47,11 @@ The Cost accounting module allows you to do the following:
 ## <a name="cost-accounting-daily-tasks"></a>Cost accounting daily tasks
 To understand how you can use Cost accounting for your daily work, you must understand these concepts.
 
--   [Key terms in Cost accounting](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/key-terms-in-cost-accounting)
--   [Cost elements and cost element dimensions](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cost-accounting/cost-elements)
--   [Map different cost element dimension members to a common set of cost element dimension members](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cost-accounting/mapping-cost-elements-dimension-members)
+-   [Key terms in Cost accounting](terms-cost-accounting.md)
+-   [Cost elements and cost element dimensions](cost-elements.md)
+-   [Map different cost element dimension members to a common set of cost element dimension members](map-cost-elements-dimension-members.md)
 -   [Create cost elements](http://ax.help.dynamics.com/en/wiki/create-cost-elements/) (Task guide)
--   [Cost object dimensions](https://docs.microsoft.com/en-us/dynamics365/operations/financials/cost-accounting/cost-objects)
+-   [Cost object dimensions](cost-objects.md)
 -   [Create cost objects](http://ax.help.dynamics.com/en/wiki/create-cost-objects/) (Task guide)
 
 ## <a name="get-started"></a>Get started
@@ -62,10 +64,5 @@ The "Get started with Cost Accounting" white paper provides the basic steps to c
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbspartner.microsoft.com/AX/LearningPlans) (requires CustomerSource account).
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

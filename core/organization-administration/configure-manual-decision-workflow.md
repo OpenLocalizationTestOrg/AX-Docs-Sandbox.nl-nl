@@ -1,23 +1,25 @@
 ---
-title: Configure a manual decision in a workflow | Microsoft Docs
+title: Configure a manual decision in a workflow
 description: This topic explains how to configure the properties of a manual decision.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-16 19:48:55
+ms.date: 2016-09-16 19 - 48 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 192101
-ms.assetid: fe580564-7f74-4351-9ef9-874cbf674fef
-ms.region: Global
+ms.assetid: 0bccad77-1a44-4f08-967b-12c62c02afc7
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6128480ebedf1079df21dff68e33e4957010a785
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 98371b2c533ca94469e65730a3f24a1153ef0c24
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -334,10 +336,5 @@ Follow these steps if the decision must be made in a specific time. **Note:** Th
 
 4.  If the time limit is exceeded, the system makes the decision. In the **Action** list, select the option that the system should select.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

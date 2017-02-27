@@ -1,25 +1,27 @@
 ---
-title: Production posting | Microsoft Docs
+title: Production posting
 description: This article provides information about different types of postings in the production process.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 18:31:53
+ms.date: 2016-02-24 18 - 31 - 53
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventItemGroup, ProjCategory, WrkCtrResourceGroup, WrkCtrTable
+ms.search.form: InventItemGroup, ProjCategory, WrkCtrResourceGroup, WrkCtrTable
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 54591
-ms.assetid: 1d582ca3-b586-4f03-9c79-afacf13f42b8
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 0917fe64-f643-46ae-98ff-5013b266a067
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: af675ef5f2bb11f881604e8fdc752d644554d4b7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 558d99b1dc6ec7c33a0b86739c108b7d11646c4f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,10 +52,5 @@ In the **Production control parameters**, you can use the **Ledger posting** fie
 -   **Production groups** – Use the ledger accounts that are set up on the production groups for both material and time consumption. The production groups are associated with the released products and copied to the production orders when those orders are created. The posting on the production orders will then follow the production groups that are associated with the production order.
 
 **Note:** If the standard method for calculating the cost of the finished item was used, the final transactions reflect this fact. If actual costs and the costs that are calculated by using the standard method differ, the difference is posted to the account that shows profit or loss.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

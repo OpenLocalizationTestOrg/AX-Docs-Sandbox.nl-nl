@@ -1,25 +1,28 @@
 ---
-title: Production process overview | Microsoft Docs
+title: Production process overview
 description: This article gives an overview of the production processes. It describes the various stages of production orders, batch orders, and kanbans, from order creation to closing of the financial period.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 17:53:41
+ms.date: 2015-12-07 17 - 53 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JmgProdStatusListPage, JmgShopSupervisorWorkspace, Kanban, ProdTable, ProdTableOverview
+ms.search.form: JmgProdStatusListPage, JmgShopSupervisorWorkspace, Kanban, ProdTable, ProdTableOverview
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19832
-ms.assetid: 63174d53-9f0e-4ab5-92d6-d3deb06ff348
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 0e83c7ea-feba-4ed6-8717-8b48a3b8804a
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 58b446dbe47e89f105e5ebe9db7a6dc83a0a22c1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e5db0000da883530f96ce2037fffddf297ea5368
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -72,13 +75,8 @@ The following steps in the production life cycle can occur for all order types o
 
 [Production feedback](https://ax.help.dynamics.com/en/?p=5911)
 
-[Product configuration models](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/key-concepts-in-product-configuration-models)
+[Product configuration models](product-configuration-models.md)
 
 [Lean manufacturing](https://ax.help.dynamics.com/en/?p=1521)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

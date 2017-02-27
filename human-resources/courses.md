@@ -1,24 +1,27 @@
 ---
-title: Set up training courses | Microsoft Docs
+title: Set up training courses
 description: Human resources administrators and managers can use the courses features to maintain information about the training that&quot;s offered to workers.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-15 18:13:01
+ms.date: 2015-09-15 18 - 13 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmCourseType, HcmCourseTypeGroup, HRMCourseTable
+ms.search.form: HcmCourseType, HcmCourseTypeGroup, HRMCourseTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7532
-ms.assetid: c118631e-1626-41cb-a9fb-aed41dce8b22
-ms.region: Global
+ms.assetid: a6950c29-8b3e-45b2-9084-ddfb1317ffaa
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a7f56542fe8bf99ca849d9dcec59744b2cc8dd11
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a5f501cc10cf191048c88dd9b2ba74285e888f80
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -141,10 +144,5 @@ Workflow
 Employees who register for a course through the **Employee self service** page can have their registration routed through workflow for approval.  A workflow can be assigned to a course on the **General** FastTab on the **Courses** page.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

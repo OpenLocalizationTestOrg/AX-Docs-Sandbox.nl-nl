@@ -1,25 +1,27 @@
 ---
-title: Activity-based subcontracting | Microsoft Docs
+title: Activity-based subcontracting
 description: This topic describes, in detail, how to use subcontracted activities in a production flow for lean manufacturing.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2017-01-12 09:24:08
+ms.date: 2017-01-12 09 - 24 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KanbanJobSchedulingListPage, LeanRuleReassignmentWizard, PlanActivity, ReqSupplyDemandSchedule
+ms.search.form: KanbanJobSchedulingListPage, LeanRuleReassignmentWizard, PlanActivity, ReqSupplyDemandSchedule
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 267034
-ms.assetid: c2891107-09e0-4c11-9f0c-66aa25376193
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 15c76a51-fa6d-42d2-994a-c67df6bae6a9
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 61bd97407c9b6be8bd4e0d64851308976390c646
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ba8041b46401ab1e5329717d4408b6aacafe11f6
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -34,7 +36,7 @@ In Microsoft Dynamics 365 for Operations, there are two approaches for subcontra
 The basic principle of a production flow doesn't change when activities are subcontracted. Material still flows between locations, process activities convert material to products, and transfer activities move material or products from one location to another. You can model locations and work cells as vendor-managed by assigning the vendor account to a warehouse or to a resource of a resource group. Based on these capabilities, lean manufacturing doesn't require any specific features in order to support the flow of material and products. All possible scenarios that involve vendors as providers of production or transport services can be modeled based on the architecture of production flow and activities. For example, a subcontractor works out of a supermarket that is located at the subcontractor. When handling units are emptied at the subcontractor, the kanban cards are returned to the assembly cell together with the next shipment. The supermarket at the subcontractor is then replenished. The transfers to and from the subcontractor can be modeled as explicit transfer activities to support a picking and shipment process. If an explicit registration isn't required in order to support the physical transport, the transfer activities can be omitted. A subcontractor can be used to load balance the overall capacity of the production flow. For example, a production flow is modeled by using scheduled kanban rules. The planner uses the kanban scheduling board to schedule and load level both work cells on demand. The planner also monitors the consolidated supply schedule for the supermarket on the **Supply schedule** page. Multiple subcontractors can be modeled in one or multiple production flows, and there might be multiple kanban rules that can be used to supply the same product to the same location through different activities. The planner can convert kanbans to an alternative kanban rule to reschedule a kanban that was originally created for internal production to an alternative process. In fact, the subcontracted nature of the work cell has no impact on the production flow. The same working principle applies for two parallel internal work cells or for two subcontracted cells. Like any other activity in a production flow, subcontracted activities can consume and supply inventoried, non-inventoried (work in process \[WIP\]), and semi-finished material and products. In all cases, the processes for scheduling and executing subcontracted activities are the same. Additionally, these process the same as the processes for internal work.
 
 ## <a name="purchase-process-for-subcontracted-activities-services"></a>Purchase process for subcontracted activities (services)
-The purchase process for subcontracted activities is based on the physical material flow that is required for the scheduling and execution registration of the kanban jobs. At the same time, the purchase process is an independent process that allows for manual adjustment of the purchase documents at every step. Here is the purchase process for subcontracted activities:
+The purchase process for subcontracted activities is based on the physical material flow that is registered by kanban job progress, for example, Start or Complete. The financial flow, for example, cost of subcontracted work, is a secondary flow that follows the physical flow. At the same time, the purchase process is an independent process that allows for manual adjustment of the purchase documents at every step. Here is the purchase process for subcontracted activities:
 
 1.  Create a purchase agreement. The purchase agreement is created for the service and connected to the activity of the production flow.
 2.  Create a purchase order. A release purchase order can be created for the service, based on the scheduled kanban jobs. Jobs for the same service can be grouped to purchase order lines by day, week, or month. The purchase order lines can be created at any time after the kanban jobs are created. Purchase order lines can even be created after the fact. This option is usually selected if a subcontractor provides services without additional notice, based on the kanbans or kanban cards that the subcontractor receives. In this case, deviations between the purchase order and the invoice can be minimized.
@@ -85,10 +87,5 @@ When the receipt advisory or a vendor packing slip on a purchase order that was 
 
 ## <a name="modeling-transfers-as-subcontracted-activities"></a>Modeling transfers as subcontracted activities
 People often consider transport nonproductive and think that it adds no value. However, when the cost of subcontracting is compared to the cost of internal production, the cost of additional transport activities must be considered. A production flow that spans multiple locations and requires transport services should model the transport cost as part of the cost of supplying the products to the customer. Activity-based subcontracting in lean manufacturing lets you integrate carriers and transport vendors that move material and products between the locations of a production flow. By modeling a transfer activity, you can assign a carrier or vendor. The transfer activities/job is based on a service and purchase agreement, and you can create purchase orders and receipt advisories, based on the actual transfer jobs. This functionality is the same as the functionality for subcontracted process activities. Therefore, Dynamics 365 for Operations now supports BOM calculation that includes transport services, the creation of related purchase orders, integrated receipt registration, and the integration of transport service costs into the production flow costing.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

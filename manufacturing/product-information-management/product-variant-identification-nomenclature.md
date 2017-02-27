@@ -1,32 +1,34 @@
 ---
-title: Product number nomenclature | Microsoft Docs
-description: This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number:Configuration:Size:Color:Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
+title: Product number nomenclature
+description: This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number - Configuration - Size - Color - Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-31 12:44:47
+ms.date: 2016-10-31 12 - 44 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResNomenclature, EcoResProductDimensionGroup, EcoResProductVariantMaintainWorkspace, PCProductConfigurationModelDetails
+ms.search.form: EcoResNomenclature, EcoResProductDimensionGroup, EcoResProductVariantMaintainWorkspace, PCProductConfigurationModelDetails
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 220104
-ms.assetid: 0c2f64ca-b164-4a9c-85b4-009ccc0a12f7
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 31c9efb4-b5f6-4af3-b884-8f1e128469bd
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e536b8e5c7f54d159fa7ea006dce357ec69a9bab
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8fc6dc1d3053e2173a0a2a286363c8815a05a136
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="product-number-nomenclature"></a>Product number nomenclature
 
-This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number:Configuration:Size:Color:Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
+This topic describes how you can set up a product number nomenclature to replace the fixed format, [Product master number - Configuration - Size - Color - Style], with a targeted format that includes the product master number, active product dimensions, and text delimiters of your choice. You can also build a nomenclature to identify configurations that are created by the constraint-based product configurator. These nomenclatures can contain attributes of your choice.
 
 The new product variant number nomenclature lets you include segments in your product variant identifiers. These segments can include the product master number, product dimensions, number sequences, text constants, and attributes. This functionality lets you quickly find a specific product variant when you create a sales order or purchase order.
 
@@ -192,10 +194,5 @@ The configuration process includes a step in which the system will suggest a con
 [Create a product number nomenclature for predefined product variants](http://ax.help.dynamics.com/en/wiki/create-a-product-number-nomenclature-for-predefined-product-variants/)
 
 [Create a product number nomenclature for configured product variants](http://ax.help.dynamics.com/en/wiki/create-a-product-number-nomenclature-for-configured-product-variants/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

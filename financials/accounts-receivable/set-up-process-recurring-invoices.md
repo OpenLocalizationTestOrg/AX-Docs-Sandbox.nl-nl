@@ -1,24 +1,27 @@
 ---
-title: Set up and process recurring invoices | Microsoft Docs
+title: Set up and process recurring invoices
 description: This article explains how to set up and process recurring invoices. You can use recurring invoices if you must invoice customers for the same amount on a regular basis.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:03:29
+ms.date: 2015-12-02 23 - 03 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustInvoiceTemplate
+ms.search.form: CustInvoiceTemplate
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14011
-ms.assetid: bf098b9b-0f5f-4602-9d0a-66cb7043cccf
-ms.region: Global
+ms.assetid: 9cc37003-adf1-413d-b2b2-2badcf512e3b
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a3bbd1771c37a16e693768bd4c5d82cd239f7246
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 24c823d9d8551084243b2d057feb639caa72aec2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -58,10 +61,5 @@ Print recurring free text invoices
 ----------------------------------
 
 After recurring invoices are posted, you can print the invoices from the free text invoice list page. You can print the invoices that are selected, or you can select a range of invoices to print.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

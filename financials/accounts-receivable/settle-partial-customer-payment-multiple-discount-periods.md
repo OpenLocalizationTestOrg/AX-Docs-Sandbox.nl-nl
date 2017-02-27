@@ -1,24 +1,27 @@
 ---
-title: Settle a partial customer payment that has multiple discount periods | Microsoft Docs
+title: Settle a partial customer payment that has multiple discount periods
 description: This article shows how partial customer payments are settled when there are multiple discount periods.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:29:40
+ms.date: 2015-12-02 23 - 29 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, LedgerJournalTransCustPaym
+ms.search.form: CustOpenTrans, LedgerJournalTransCustPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14471
-ms.assetid: 1714e2f0-3202-448d-9567-ca93942f0c46
-ms.region: Global
+ms.assetid: b633a7c4-c18d-42e7-91cc-adcdc8a3ba98
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2de38752fbef79763b11acdf729b97211cb413e0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5d6a318f0069ef56cd5cfad63b72ed56ba913e0c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -91,10 +94,5 @@ The invoice balance is now 0.00. Arnie views the information on the **Customer t
 | DISC-1031  |  Cash discount   | 7/8/2015  |         |                                      | 7.00                                  | 0.00    | USD      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

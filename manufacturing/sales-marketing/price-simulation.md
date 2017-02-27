@@ -1,24 +1,27 @@
 ---
-title: Price simulation | Microsoft Docs
+title: Price simulation
 description: This article provides information about price simulation for quotations. Price simulation helps you to evaluate the effect of deductions on the future sales price during the quotation process, before you commit to a specific price.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-11-04 19:10:14
+ms.date: 2015-11-04 19 - 10 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SalesQuotationPriceSimulation
+ms.search.form: SalesQuotationPriceSimulation
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12254
-ms.assetid: e4792d61-e225-4966-aad3-badfa31958f9
-ms.region: Global
+ms.assetid: 92be7c85-73cf-4f77-833c-d37ce779a031
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 74f9954559363706f2c82542234e01aae35e4f4b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: afed93a220093355be4d7a2714be6c65ab65f0b8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -128,10 +131,5 @@ You run a price simulation and apply a 10-percent total discount to the BR-12 un
 | New total contribution ratio                      | \[(302.88 – 184.96) ÷ 302.88\] × 100    | 38.93%   |
 
 The price simulation affects only the line that it's applied to and reduces the total for that line.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

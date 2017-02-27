@@ -1,23 +1,25 @@
 ---
-title: Configure and filter workspaces | Microsoft Docs
+title: Configure and filter workspaces
 description: This article provides an overview about how to configure and filter workspaces.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-12-04 19:04:02
+ms.date: 2015-12-04 19 - 04 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 17491
-ms.assetid: fd7bf531-0d87-46f0-8495-253589bbbffc
-ms.region: Global
+ms.assetid: 541e6012-4680-4684-8494-e9b5ca4684ee
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7ba2cfa13299f58705ab30b22b6d4669c622f3dd
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b35cdbd8dd600b49062dad915ea9076f91da5187
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +43,5 @@ You can filter the whole workspace by using a workspace-wide filter. A workspace
 ### <a name="workspace-section-filters"></a>Workspace section filters
 
 If individual sections of the workspace have filters, you can filter each section separately. In the following illustration, the filter (the field that contains the text "Filter") is an example of a free-form text field filter. [![workspace-section-filters](./media/workspace-section-filters.png)](./media/workspace-section-filters.png) As with a workspace-wide filter, select or enter a value in the field to filter the contents of the section.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

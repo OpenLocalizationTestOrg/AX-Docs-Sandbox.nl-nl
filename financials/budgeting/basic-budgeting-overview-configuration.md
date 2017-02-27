@@ -1,23 +1,25 @@
 ---
-title: Budgeting overview | Microsoft Docs
+title: Budgeting overview
 description: Almost every company that uses Financials functionality in Microsoft Dynamics 365 for Operations will have to be able to create reports of budget vs. actuals. This article explains the minimum configuration that is required in order to create budgets in Dynamics 365 for Operations or load them from a third-party program.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-08 00:34:27
+ms.date: 2016-03-08 00 - 34 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 60113
-ms.assetid: 130a8008-f5e7-4b47-b6e8-0a8be79e88e8
-ms.region: global
+ms.assetid: 28a9793e-d376-47af-a345-69046bad17df
+ms.search.region: global
 ms.author: sigitac
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 765e2e4be0445f4b23360f45e370f19ba51169cb
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ac2fb0dd09000e7fdebedbccb06c5511a3c79f9a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -52,10 +54,5 @@ Budget codes let you have an audit trail of approved budget modifications throug
 
 ## <a name="using-workspaces-and-inquiry-pages-to-track-budget-vs-actuals"></a>Using workspaces and inquiry pages to track budget vs. actuals
 The budget manager can review the current state of a budget in the **Ledger budgets and forecasts** workspace. The **Expense over budget** and **Revenue under budget** tabs provide a quick view of the financial dimension combinations where budget targets aren't being met or are approaching the threshold. You can personalize the budget threshold percentage and financial dimension sets that are used on those tabs by clicking **Configure my workspace**. You can click **Unit managers** to see the workers who are responsible for specific financial dimension combinations that are selected on those tabs. For example, if you see that the expense budget of the Operations department is going over the budget threshold, you can easily find and contact the Operations department manager to discuss the issue. **Note:** The **Department manager** field on the **Organization Units** page determines which managers support specific financial dimension combinations. Click **See more** at the bottom of the tab to open the **Budget vs actuals** inquiry page for more details about budget amounts versus actual amounts. The **Actual vs budget** inquiry page lets you drill into the details of the budget versus actual amounts. Select a line on the inquiry page, and then click **Period balances** to see budget and actual amounts spread across fiscal periods. The **Budget account entries** page provides drill-through to the details of the budget amount in budget register entries. The **General journal entries **page opens the ledger transactions that are included in the calculated **Actuals** amount. A company that is using Budget planning functionality can create and use *budget forecasts* in the **Ledger budgets and forecasts** workspace.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

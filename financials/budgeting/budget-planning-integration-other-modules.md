@@ -1,23 +1,26 @@
 ---
-title: Budget planning integration with other modules | Microsoft Docs
+title: Budget planning integration with other modules
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-10 10:09:48
+ms.date: 2016-03-10 10 - 09 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 64443
-ms.assetid: 82c7b874-416a-4c4d-b577-ee0be43b3f10
-ms.region: Global
+ms.assetid: f9a94db5-906c-404a-9ca5-91528d67c490
+ms.search.region: Global
 ms.author: sigitac
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f6987e0a80e1b6c913eee32eb5da1ec951e9f09a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cc3874074cdacfdf0734b045b9a28f6900e0226b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -99,10 +102,5 @@ For the **Generate budget plan from budget plan** process, an additional set of 
 ### <a name="budget-plans-by-dimension-set-inquiry"></a>Budget plans by dimension set inquiry
 
 The **Budget plans by dimension set** inquiry includes several options that let you run a query to help identify the source of the budget plan data. Select a line and click the **Budget plan lines** button to run the **Budget plan lines** query. The results are filtered for the dimension values of the selected line. You can then apply additional parameters. Use the **Supply forecast** and **Demand forecast** buttons run these queries. In both cases, the query searches for forecast lines that could have created the budget plan lines. Additional reports that are available include the **Forecast positions by budget plan** report. This report is especially useful when you want to determine whether a position has been correctly allocated to budget plans.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: User preferences in financial report designer | Microsoft Docs
+title: User preferences in financial report designer
 description: This article explains how to set user preferences to customize your user interactions in financial report designer and control the initial sign-in experience. You can also control how individual reports, the report library, and the default file locations are displayed.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-02-04 19:44:33
+ms.date: 2016-02-04 19 - 44 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FinancialReports
+ms.search.form: FinancialReports
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 31161
-ms.assetid: 82ddbfd6-da85-4443-98a0-bef0b70255d1
-ms.region: Global
+ms.assetid: 59da4854-0f8c-4021-acd1-b303c06f4a34
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f4a0d713ac1c457beb5ec7eeaedbae07ab1c7f9b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 06d6a87f7115edbbd38d55a0497644d82fbd9468
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -76,11 +79,6 @@ This article explains how to set user preferences to customize your user interac
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting for Microsoft Dynamics ERP](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Financial reporting for Microsoft Dynamics ERP](financial-reporting-intro.md)
 
 

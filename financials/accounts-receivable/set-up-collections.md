@@ -1,24 +1,26 @@
 ---
-title: Set up Credit and collections | Microsoft Docs
+title: Set up Credit and collections
 description: This article explains how to set up the collections functionality.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:04:01
+ms.date: 2015-12-02 23 - 04 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustCollectionsActivitiesListPage
+ms.search.form: CustCollectionsActivitiesListPage
 audience: Application User
-ms.reviewer: 2231
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14031
-ms.assetid: 74851390-96e2-4876-be84-9d58fb628238
-ms.region: Global
+ms.assetid: dcc6da2f-9af5-4f1d-abaa-b72967b66979
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 89f8b66426d524030ee3b4040b7ae4fa6f38ca41
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cbcfbba24b8d8ca560369e57670fe0b6c41f0661
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -79,10 +81,5 @@ Set up email addresses for customer contacts if you want to send email messages 
 
 ## <a name="set-up-email-settings-for-salespeople"></a>Set up email settings for salespeople
 Set up email addresses for salespeople if you want to send email messages to salespeople from the **Collections** page. Set up an email address for each sales representative in each commission sales group. The sales representative who has the **Contact** option selected is the default salesperson that email messages are sent to. If a sales representative isn't specified, the primary salesperson for the customer organization is used. If a primary salesperson isn't specified, email messages are sent to the first salesperson who is listed on the page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

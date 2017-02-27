@@ -1,24 +1,26 @@
 ---
-title: Monitor forecast accuracy | Microsoft Docs
+title: Monitor forecast accuracy
 description: This article describes the types of forecast accuracy that Microsoft Dynamics 365 for Operations calculates, and explains how you can view the accuracy values.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 12:36:55
+ms.date: 2016-03-30 12 - 36 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72863
-ms.assetid: f6ab5e66-020e-4286-9a5a-59dd47476b30
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 810a0d63-f4c6-4167-b2b3-a178b74ead89
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cee8ac74699f7005f24105b80694be36c7085bff
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 16b6bcc802836620d49f82f284f0256c2d199438
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -36,13 +38,8 @@ Dynamics 365 for Operations calculates the following types of forecast accuracy:
 <a name="see-also"></a>See also
 --------
 
-[Authorizing the adjusted forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/authorizing-the-adjusted-forecast)
+[Authorizing the adjusted forecast](authorize-adjusted-forecast.md)
 
-[Remove outliers from historical transaction data when calculating a demand forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Remove outliers from historical transaction data when calculating a demand forecast](remove-historical-outliers-calculating-demand-forecast.md)
 
 

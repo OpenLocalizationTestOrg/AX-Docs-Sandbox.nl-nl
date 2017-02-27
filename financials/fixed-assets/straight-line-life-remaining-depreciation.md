@@ -1,24 +1,26 @@
 ---
-title: Straight line life remaining depreciation | Microsoft Docs
+title: Straight line life remaining depreciation
 description: This article gives an overview of the Straight line life remaining method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:58:08
+ms.date: 2015-12-02 22 - 58 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13851
-ms.assetid: f01a1cb7-078c-4d52-929a-f9ab28ba55be
-ms.region: Global
+ms.assetid: 0fa2f71a-596c-414c-a6e6-8f7405a0bf81
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 59317e7897f2b83004033c994d890b7cfab75e31
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 02cfacc7df1b88e4bbd1c3abd226b5434422ca86
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -73,10 +75,5 @@ The depreciation amount is the same every year: (Acquisition cost – Salvage va
 | Year 5 | (3,000 – 1,000) ÷ 1 = 2,000                   | 1,000                                 |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

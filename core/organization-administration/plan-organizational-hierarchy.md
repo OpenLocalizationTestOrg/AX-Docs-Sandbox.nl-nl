@@ -1,23 +1,25 @@
 ---
-title: Configure organizational hierarchy | Microsoft Docs
+title: Configure organizational hierarchy
 description: Before you set up organizations and organization hierarchies in Microsoft Dynamics 365 for Operations, make sure that you plan how your business will be modeled. The organization model has a significant effect on the implementation of Dynamics 365 for Operations and on business processes.
 author: sericks007
 manager: AnnBe
-ms.date: 2015-12-04 18:35:22
+ms.date: 2015-12-04 18 - 35 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 17404
-ms.assetid: 0e46b81b-a80f-4007-a9fb-803f5f7dcb2b
-ms.region: Global
+ms.assetid: babde0c6-bb5d-45ae-95ca-2af75a0ea292
+ms.search.region: Global
 ms.author: sericks
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 665c422fe7d0bc091a825ad8402c195f42db970d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cad2b955d2250c1dc58af09f9aa5ff5dfbce1a3c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -64,10 +66,5 @@ Consider the following best practices when you implement an organization hierarc
 -   Limit the number of people who have permissions to add or remove organizations from a hierarchy in a production environment. A smaller number reduces the chance that costly mistakes can occur and corrections must be made.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

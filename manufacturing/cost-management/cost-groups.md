@@ -1,25 +1,27 @@
 ---
-title: Cost groups | Microsoft Docs
+title: Cost groups
 description: "Cost groups provide the basis for segmenting and analyzing cost contributions in a manufactured item’s calculated cost, such as the cost contributions for material, labor, and overhead. Cost group segmentation has several synonyms within manufacturing environments, such as cost breakdown, cost decomposition, or cost classification."
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-18 19:04:05
+ms.date: 2016-02-18 19 - 04 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMCostGroup
+ms.search.form: BOMCostGroup
 audience: Application User
-ms.reviewer: a:2:{s:4:"name";s:23:"Yuyu Charlotte Scheller";s:2:"id";s:0:"";}
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50871
-ms.assetid: 373fb148-1c6e-4268-ba69-dad369bf7376
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 1855f744-f73f-4fa8-8290-a7ee126d368b
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c41180f515ef49f908489f7e490cd081e7ba8fb4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3e3979ae07f5dce093c20032971a0e1d975086f7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +43,5 @@ Cost group segmentation applies to a manufactured item’s calculated cost, rega
 -   **Cost group type** − Each cost group must be assigned a cost group type to indicate that the cost group applies to direct material, direct manufacturing, or direct outsourcing, or to designate it as indirect or undefined. A cost group that is designated as direct material can be assigned to items. A direct manufacturing cost group can be assigned to cost categories. A direct outsourcing cost group can be assigned to a product type of service, so that you can classify costs that are associated with the service purchase to subcontracting activities. An indirect cost group can be assigned to indirect costs for surcharges or rates. A cost group that is designated as undefined can be assigned to items, cost categories, or indirect costs. The assignment of a cost group type serves several purposes. First, it constrains the ability to assign a cost group and to view a list of applicable cost groups. Second, it provides supplemental segmentation for reporting purposes. Third, it can be used to assign ledger accounts for variances.
 -   **Behavior** − Each cost group can optionally be assigned a behavior to indicate that the cost group applies to fixed costs or variable costs. A cost group that has a null value for behavior is treated as a variable cost. The assignment of a behavior serves only a reporting purpose. For example, costs can be displayed with segmentation of fixed and variable costs on the costing sheet and on the **Cost rollup by cost group** page. If you assign a profit setting percentage to each cost group, the bill of materials (BOM) calculation provides a suggested sales price, based on a cost-plus-markup approach.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

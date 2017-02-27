@@ -1,25 +1,28 @@
 ---
-title: Job scheduling | Microsoft Docs
+title: Job scheduling
 description: This article provides information about job scheduling, which is a more detailed form of scheduling than operations scheduling. You can use job scheduling to schedule individual jobs or shop orders, and to control the manufacturing environment.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:22:08
+ms.date: 2015-12-07 09 - 22 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdSchedule
+ms.search.form: ProdSchedule
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19431
-ms.assetid: f4b66613-ca3f-44d5-bbed-98ac3f3b6692
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: aef37341-91d8-4263-80eb-35d9584be156
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: crytt
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 16c34dbb0ac3aacee63817d68d431029784e8f81
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 924fdac108afda976c22690913a4708a399e364e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -70,10 +73,5 @@ Resources are assigned to jobs through job scheduling. You can establish maximum
 
 ## <a name="resource-efficiency"></a>Resource efficiency
 Job scheduling considers the efficiency percentages that are specified for the resources. Efficiency percentages reduce or increase the time that is reserved for the resource. Therefore, lead time is also increased or decreased. The following formula is used for the calculation: Scheduling time = Time × 100 ÷ Efficiency percentage In this formula, *Time* includes both the run time and the setup time.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

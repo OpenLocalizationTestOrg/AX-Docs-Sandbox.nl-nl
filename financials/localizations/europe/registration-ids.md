@@ -1,24 +1,26 @@
 ---
-title: Registration IDs | Microsoft Docs
+title: Registration IDs
 description: This topic provides information about setting up and using registration IDs.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-19 20:32:15
+ms.date: 2016-12-19 20 - 32 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: DirPartTaxRegistrationSearch, LogisticsPostalAddress, TaxRegistrationLegislationTypes, TaxRegistrationType
+ms.search.form: DirPartTaxRegistrationSearch, LogisticsPostalAddress, TaxRegistrationLegislationTypes, TaxRegistrationType
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 264824
-ms.assetid: 862cca6c-2372-455d-b7d1-b79e25faa300
-ms.region: Global
+ms.assetid: e86f0a35-be58-4ef5-b5ab-bcfc495eaa13
+ms.search.region: Global
 ms.author: vlru
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a26d9bea4bd96767871a2535ff8b49e9bab21138
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 11648d9d1c45a22784c8157d4723d42c5eac6941
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -101,10 +103,5 @@ For more information about registration IDs processing, including required prere
 -   VAT ID registration of vendor
 -   Party search using VAT ID
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

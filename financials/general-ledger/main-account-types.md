@@ -1,24 +1,27 @@
 ---
-title: Main account types | Microsoft Docs
+title: Main account types
 description: The main account types determine how a main account is used in the chart of accounts.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-09-10 20:48:58
+ms.date: 2015-09-10 20 - 48 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: MainAccount
+ms.search.form: MainAccount
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3381
-ms.assetid: ca9e3c95-1ce6-4a29-bae4-f1d4b595da22
-ms.region: Global
+ms.assetid: e55b9c0e-597b-46d4-b453-81c780939b6d
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: be0ee5104ab7a451348f83e0867fb60a16a08c2e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: bd1ca4c4c42bd7e4057b5e48d9a8fc5d43d470ed
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -34,10 +37,5 @@ You must select a main account type when you create a main account in the Main a
 -   Reporting – These main accounts are used for financial statement reporting for Brazil only.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

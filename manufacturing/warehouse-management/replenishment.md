@@ -1,25 +1,27 @@
 ---
-title: Replenishment | Microsoft Docs
+title: Replenishment
 description: This article describes the replenishment strategies that are available for warehouses that use the functionality that is available in Warehouse management.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-09 11:18:31
+ms.date: 2016-06-09 11 - 18 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WHSReplenishmentTemplates
+ms.search.form: WHSReplenishmentTemplates
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 90043
-ms.assetid: 19446763-955a-4be9-9216-b35695c9141c
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: 49fa97eb-8e10-49a5-9261-1e393159f178
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: mirzaab
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 39f0402e509a95afc89545a23a7106c92d2db432
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 92e831d635003339a77d2b2c1a84b1ad732508bc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -57,10 +59,5 @@ Load demand replenishment sums the demand for several loads and creates the repl
 | Work templates          | Work templates of the **Replenishment** type are required in order to create replenishment work so that inventory can be moved to the desired locations.                                                                                           |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

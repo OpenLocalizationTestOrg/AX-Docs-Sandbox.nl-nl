@@ -1,24 +1,27 @@
 ---
-title: Posting definitions | Microsoft Docs
+title: Posting definitions
 description: This article provides information about posting definitions, and how to define and link them. For supported posting types and documents, you can use posting definitions instead of posting profiles to classify main accounts and financial dimensions on accounting entries.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:43:23
+ms.date: 2015-12-03 20 - 43 - 23
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JournalizingDefinition, JournalizingDefinitionTrans, LedgerParameters
+ms.search.form: JournalizingDefinition, JournalizingDefinitionTrans, LedgerParameters
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15741
-ms.assetid: 6bc98a68-f79a-4646-9fff-c8bde5c545a3
-ms.region: Global
+ms.assetid: 1495e7e0-2e39-464c-8da9-f55b1ca1c6bb
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9fa4d7a0389dd2ee7dfc68b8b2c992a33df930e6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 73d3222781a3d1f5a5299ecd09782e93b830b2e3
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -44,10 +47,5 @@ You can link from one posting definition to another when you create posting defi
 --------
 
 [Examples: Posting definitions](https://ax.help.dynamics.com/en/?post_type=incsub_wiki&p=74871)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

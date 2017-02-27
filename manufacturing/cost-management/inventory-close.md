@@ -1,25 +1,27 @@
 ---
-title: Inventory close | Microsoft Docs
+title: Inventory close
 description: As part of the process to settle issue transactions with receipt transactions, you can also choose to have the general ledger updated to reflect the adjustments that have been made.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-08 15:56:00
+ms.date: 2016-03-08 15 - 56 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventClosing
+ms.search.form: InventClosing
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 61973
-ms.assetid: e36603c1-d881-4ed3-84a9-7388fe99dbfa
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: c210c882-6849-4704-b78c-a777dd6cfdb6
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2b582a6307378aaff3a9717649cf2c15c7f283c2
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 1649ebb0cba28c8207a83ac7cb5146507f80c2b2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -54,10 +56,5 @@ In some circumstances, you might not be able to do anything about the warnings. 
 
 ## <a name="reversing-a-completed-inventory-close"></a>Reversing a completed inventory close
 Occasionally, you might have to reverse a completed inventory close to return settlements to the state that they had before adjustments were made. When you reverse a completed inventory close, inventory is reopened to enable posting in the period that the inventory close covers. Related changes might also be made in the general ledger. After you've finished making adjustments, you can run inventory close again for the period that you're working with. **Note:** Only the last inventory period that was closed can be reopened. To reverse an earlier inventory close, you must reverse each subsequent inventory close one at a time, starting with the most recent close.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

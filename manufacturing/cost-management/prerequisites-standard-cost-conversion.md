@@ -1,25 +1,27 @@
 ---
-title: Prerequisites for a standard cost conversion | Microsoft Docs
+title: Prerequisites for a standard cost conversion
 description: This topic discusses tasks to perform before you run a standard cost conversion.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-18 19:05:30
+ms.date: 2016-02-18 19 - 05 - 30
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventStdCostConv
+ms.search.form: InventStdCostConv
 audience: Application User
-ms.reviewer: a:2:{s:4:"name";s:23:"Yuyu Charlotte Scheller";s:2:"id";s:0:"";}
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50891
-ms.assetid: 8090c036-683e-4faa-a213-65b153b2e529
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 73af66cf-c924-45be-837a-a648dbd05a31
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 722ad3051bd1cc383606d99f28e60c9e6cfad74c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c8a93961e1542f66f5bc8f4ae80a565a282b6071
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ Before you run a standard cost conversion, follow these steps:
     -   Use the **Variances to standard** field to select summarized or per cost group. The selection of per cost group enables you to identify purchase price variances and production variances by cost group. This also enables you to identify the four types of production variances (the lot size, quantity, price, and substitution variances). If you select summarized, you cannot identify variances by cost group, and you cannot identify the four types of production variances. You can only view a summarized production variance. The policy about variance to standard is independent of the cost breakdown policy. That is, you can select a cost breakdown policy of none, and select variances per cost group, so that production variances by cost group will still be captured.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

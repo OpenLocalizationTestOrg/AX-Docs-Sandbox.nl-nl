@@ -1,23 +1,26 @@
 ---
-title: Project resourcing | Microsoft Docs
+title: Project resourcing
 description: This topic provides information about project resourcing.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-04-13 17:38:35
+ms.date: 2016-04-13 17 - 38 - 35
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 82022
-ms.assetid: 851bbd9e-390d-4944-9d7a-19c3c11ec325
-ms.region: Global
+ms.assetid: bd2fb375-84c6-428a-8e54-f0f719045898
+ms.search.region: Global
 ms.author: cmercado
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 644c37cc751157ff101c65a2221337735281cd6d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 09f480134d62890024ce84fd9b80d3eb19c3558f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -319,10 +322,5 @@ After you have either verified or completed the tasks above, you can complete th
 2.  In the list of projects, click the **Project ID** link for the **XYZ Upgrade Phase 2** project.
 3.  On the **Project team and scheduling** FastTab, verify that the project resources that are listed are correct.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

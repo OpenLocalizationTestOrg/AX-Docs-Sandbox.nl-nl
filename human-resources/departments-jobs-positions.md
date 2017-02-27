@@ -1,24 +1,27 @@
 ---
-title: Organize your workforce using departments, jobs, and positions | Microsoft Docs
+title: Organize your workforce using departments, jobs, and positions
 description: Departments, jobs, and positions are organizational elements that are maintained within Human resources. This topic describes conceptual information about these elements.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-05-20 15:44:04
+ms.date: 2016-05-20 15 - 44 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmJob, HcmPosition, OMOperatingUnit
+ms.search.form: HcmJob, HcmPosition, OMOperatingUnit
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 87933
-ms.assetid: 225a1e98-52a6-4f9d-8928-96af1c0b878f
-ms.region: Global
+ms.assetid: eb5dcacb-a5fe-451d-b30a-7ef14da65d81
+ms.search.region: Global
 ms.author: dkrame
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5bdce16b46a583d193c7c0c7cf620fa436c1491a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8a07426a9c541fa667ec5ced3481fd1f0c208128
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -155,10 +158,5 @@ For some records, you can specify future changes to the record. The following in
 You can modify the information mentioned in the previous table for a position or a job and specify a date when the modifications to the position or job should take effect. For example, a position can only be assigned to one worker, but Sanjay Patel, who is assigned to the position Accountant-A, will be leaving in two weeks. Joe Healy will replace Sanjay Patel when he leaves. Even though Sanjay is still assigned to his position, you can assign Joe Healy to the same position so that the assignment is effective only after Sanjay’s last day.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

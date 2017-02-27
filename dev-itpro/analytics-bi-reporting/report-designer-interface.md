@@ -1,24 +1,27 @@
 ---
-title: Report Designer interface | Microsoft Docs
+title: Report Designer interface
 description: This article explains how to navigate through Report Designer and how to use the various options to meet your specific requirements.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-03-07 18:50:10
+ms.date: 2016-03-07 18 - 50 - 10
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FinancialReports
+ms.search.form: FinancialReports
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 59041
-ms.assetid: a67b4c9d-28c6-442b-b0c1-bd5a88999f8f
-ms.region: Global
+ms.assetid: 054de5b0-8618-4195-be12-f031b4bb4d74
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6fae541a5fe28747eb1943fc42a97b8aafabc5fe
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4564def7f5509e7ab77a5a63922c4fdf175d4425
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -222,13 +225,8 @@ The report designer toolbar provides quick access to commands for navigating wit
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting for Microsoft Dynamics ERP](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
+[Financial reporting for Microsoft Dynamics ERP](financial-reporting-intro.md)
 
-[Generate a financial report](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/generate-a-financial-report)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Generate a financial report](generate-financial-report.md)
 
 

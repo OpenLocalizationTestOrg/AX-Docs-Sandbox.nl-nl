@@ -1,24 +1,27 @@
 ---
-title: Settlement overview | Microsoft Docs
+title: Settlement overview
 description: This article provides general information about the settlement process. It describes the types of transactions that can be settled, when and how transactions can be settled, and the results of the settlement process.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:32:42
+ms.date: 2015-12-02 23 - 32 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, LedgerJournalTransCustPaym, LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: CustOpenTrans, LedgerJournalTransCustPaym, LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14551
-ms.assetid: 34ca575b-f1e8-49b2-8e24-fc53e393eb8e
-ms.region: Global
+ms.assetid: 0968fa71-5984-415b-8689-759a0136d5d1
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9bbaef24f3b09a5b1fa26e4a97f7dfaff03a0a47
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9ff27a1f2b680104ef1319193f29f713945c33bb
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,11 +48,6 @@ As transactions are settled, the outstanding balance of each transaction is incr
 -   If the payment amount is less than the invoice amount, the payment balance is reduced to 0.00, and the payment is closed. The invoice remains open, and the balance is the amount by which the payment underpaid the invoice.
 -   If the payment amount equals the invoice amount, both the payment and the invoice are closed, and the balance of both is 0.00.
 
-If a [payment is less than the invoice amount](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-payments-for-a-partial-amount) because of a cash discount, write-off, or underpayment, the invoice and payment might still be closed, depending on the setup of settlement in Accounts payable parameters and Accounts receivable parameters. Settlement can also generate transactions. For example, the settlement of an invoice and payment might produce a cash discount, realized gain or loss, sales tax adjustments, write-offs, or penny differences.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+If a [payment is less than the invoice amount](vendor-payments-partial-amount.md) because of a cash discount, write-off, or underpayment, the invoice and payment might still be closed, depending on the setup of settlement in Accounts payable parameters and Accounts receivable parameters. Settlement can also generate transactions. For example, the settlement of an invoice and payment might produce a cash discount, realized gain or loss, sales tax adjustments, write-offs, or penny differences.
 
 

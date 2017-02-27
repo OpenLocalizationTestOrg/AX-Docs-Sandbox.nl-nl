@@ -1,24 +1,26 @@
 ---
-title: Electronic signature overview | Microsoft Docs
+title: Electronic signature overview
 description: This article provides an overview of electronic signatures and describes how they can be used in Microsoft Dynamics 365 for Operations.
 author: maertenm
 manager: AnnBe
-ms.date: 2015-12-02 21:19:12
+ms.date: 2015-12-02 21 - 19 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SIGParameters, SIGProcSetup, SIGReasonCode
+ms.search.form: SIGParameters, SIGProcSetup, SIGReasonCode
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 13611
-ms.assetid: 39bac4ce-dc40-4a15-a290-74b9a3458377
-ms.region: Global
+ms.assetid: 98dc6b79-1895-45d8-9dd1-2c8a351b58af
+ms.search.region: Global
 ms.author: maertenm
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c5e0d4d4688b07a0f36be89221949d5e409a726b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 31905da33ce0a752032ffeb186fad139b372a084
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -77,10 +79,5 @@ Occasionally, you might want a user to sign for another user's changes. For exam
 2.  In the **Approver user ID** field, select the ID of the user who must sign for another user's changes.
 3.  In the **Sign for user ID** field, select the ID of the user whose changes must be signed for.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

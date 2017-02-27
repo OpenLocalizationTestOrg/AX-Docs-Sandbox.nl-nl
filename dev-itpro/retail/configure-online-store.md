@@ -1,23 +1,25 @@
 ---
-title: Configure an online store | Microsoft Docs
+title: Configure an online store
 description: This article provides links to topics that will help you centrally configure and manage and online store from Microsoft Dynamics 365 for Operations.
 author: kfend
 manager: AnnBe
-ms.date: 2016-02-05 01:02:16
+ms.date: 2016-02-05 01 - 02 - 16
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 11
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 31541
-ms.assetid: 4adc2b68-9244-4f10-88db-c746f01f6e1b
-ms.region: Global
+ms.assetid: 7a25f9b4-a0bb-4e8c-95c0-c0799ec0620d
+ms.search.region: Global
 ms.author: meeram
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6e61412c3841937ca57a52989955c13d6c1fe20d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ad3579491e650b3951fcee9449566d66fbb56559
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -53,10 +55,5 @@ The topics listed in the following table help you configure Dynamics 365 for Ope
 | Set up channel integration profiles. | Profiles enable the components of Retail to communicate with each other. Set up profiles before you configure data exchange settings. | [Set up a Real-time Service profile](https://technet.microsoft.com/en-us/library/hh580631.aspx) (TechNet content for Microsoft Dynamics AX 2012) [Set up a channel profile](https://technet.microsoft.com/en-us/library/jj677402.aspx) (TechNet content for Microsoft Dynamics AX 2012) |
 
  
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

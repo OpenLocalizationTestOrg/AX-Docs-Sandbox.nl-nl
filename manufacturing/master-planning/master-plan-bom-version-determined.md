@@ -1,25 +1,28 @@
 ---
-title: Determine the BOM version | Microsoft Docs
+title: Determine the BOM version
 description: During a demand explosion, if an item has a default order type of Production, the planning engine finds a valid BOM version based on the site.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:51:05
+ms.date: 2015-09-10 08 - 51 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMConsistOf, BOMDesigner, BOMTable, InventItemOrderSetup
+ms.search.form: BOMConsistOf, BOMDesigner, BOMTable, InventItemOrderSetup
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2534
-ms.assetid: b78c3887-a37c-4766-a6be-200c59f071ec
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: a5b64301-a011-4469-afaf-e4c9164ef9c6
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 69ee3b6d43a41ea84e97253faf980e16abe9014a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 39c7d1a5a54c5b4c0d7ee114935b63d7f70c209f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -37,10 +40,5 @@ The site dimension is always known and is stated on the demand transaction. The 
 A valid BOM version, whether site-specific or general, must meet the required criteria for date and quantity.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

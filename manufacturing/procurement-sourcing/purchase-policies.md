@@ -1,24 +1,26 @@
 ---
-title: Purchasing policies | Microsoft Docs
+title: Purchasing policies
 description: "This article provides information about purchasing policies. A purchasing policy is a collection of rules that control the requisition process. Purchasing policies help procurement administrators implement their procurement strategy by creating a policy structure that is aligned with the organization’s strategic purchasing requirements."
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:55:12
+ms.date: 2015-10-30 12 - 55 - 12
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchReqSourcingPolicyRule, SysPolicy, SysPolicyListPage
+ms.search.form: PurchReqSourcingPolicyRule, SysPolicy, SysPolicyListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11614
-ms.assetid: 7f1677a9-1595-4230-82b0-bff455dd7079
-ms.region: Global
+ms.assetid: 729a304d-0f3f-4ccb-bd5b-46ee0976c57f
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1d56d9de5f0491211721ba5224cfc5816f34e0bc
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 01683ac73dfc085a1c81679f2a2e3ffafb630b1e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -122,10 +124,5 @@ The purchase order creation and demand consolidation rule defines the policy rul
     -   **Always allow demand consolidation** – All approved purchase requisition lines are eligible for demand consolidation. **Note:** If you select the **Always allow demand consolidation** option on the **Demand consolidation** tab, but you select the **Automatically create purchase orders** option on the **Manual purchase order creation** tab, all purchase requisitions are held for manual processing.
     -   **Allow demand consolidation under these conditions** – Define the criteria that determine whether approved purchase requisition lines are eligible for demand consolidation. For each type of purchase requisition line, you can set the criteria by procurement category and vendor. If you select **Allow demand consolidation under these conditions**, you can set the criteria by procurement category and vendor for each type of purchase requisition line. When you select a procurement category, any subcategories for that procurement category are also selected. If you select the **All** option for a specific line type, all purchase requisition lines of that line type are eligible for demand consolidation.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Set up HR parameters across legal entities | Microsoft Docs
+title: Set up HR parameters across legal entities
 description: You must set up shared parameters for records that are shared across companies, such as Position records. This article explains how to set up Human resources parameters across legal entities.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-02-24 13:58:50
+ms.date: 2016-02-24 13 - 58 - 50
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmSharedParameters
+ms.search.form: HcmSharedParameters
 audience: Application User
-ms.reviewer: 31
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 51891
-ms.assetid: b3112d49-ad42-4c30-a0ef-a7c2d93dcedf
-ms.region: Global
+ms.assetid: c7d8f58c-d78a-4035-abbf-2b0ce16109fe
+ms.search.region: Global
 ms.author: shielas
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aad1cb5660d17a96f23abef41c0cf7ec6c776eae
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 99536c7f0fe3f7a6290588687aacd885a25831ef
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -36,11 +38,6 @@ Some types of records, such as Position records, are shared across companies. Fo
 <a name="see-also"></a>See also
 --------
 
-[Set up company specific HR parameters](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/setup-company-specific-hr-parameters)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Set up company specific HR parameters](set-up-company-specific-hr-parameters.md)
 
 

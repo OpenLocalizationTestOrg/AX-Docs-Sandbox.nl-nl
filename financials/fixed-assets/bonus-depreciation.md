@@ -1,24 +1,27 @@
 ---
-title: Bonus depreciation | Microsoft Docs
+title: Bonus depreciation
 description: This article provides an overview of the bonus depreciation functionality.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 21:07:55
+ms.date: 2015-09-10 21 - 07 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetBonus
+ms.search.form: AssetBonus
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3621
-ms.assetid: 4db05f14-ae5e-4f67-bb6e-05a56b281bcd
-ms.region: Global
+ms.assetid: 835ec594-744e-461c-a676-1b9abc094173
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: da46a7640130e516ec21faabebcfb12b998768bd
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cba8b94b99cc67f7700926e62e72e58d809e20c3
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -36,10 +39,5 @@ The following bonus depreciations are associated with an asset book:
 -   **Liberty Zone:** 30 percent, Priority 2
 
 The asset acquisition cost is 5,000.00. When bonus depreciation is calculated, the first bonus depreciation amount is 1,000.00 for the Section 179 depreciation. The next bonus depreciation amount, for the Liberty Zone depreciation, is calculated as follows: Acquisition cost – 1,000 (Section 179 depreciation) × 30 percent = 1,200 If the bonus depreciation amount is more than the remaining acquisition cost, the bonus depreciation amount is either the result of the bonus depreciation calculation or the remaining acquisition cost, whichever amount is less. If the remaining acquisition cost is 0 (zero) or less, bonus depreciation transactions isn't generated. When bonus depreciation is calculated by using the proposal process, a bonus depreciation transaction is created for all applicable bonus depreciation records that are associated with the asset book. You can create an unlimited number of bonus depreciation records. After you assign those records to the asset group book, they are applied to the asset book. Bonus depreciation is entered as either a percentage or a fixed amount. When you post depreciation proposals, bonus depreciation transactions are posted to the book as separate transactions from the depreciation transactions.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

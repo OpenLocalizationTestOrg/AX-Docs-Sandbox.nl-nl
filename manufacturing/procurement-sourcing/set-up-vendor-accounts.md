@@ -1,24 +1,26 @@
 ---
-title: Set up vendor accounts | Microsoft Docs
+title: Set up vendor accounts
 description: This topic describes the types of information that you must specify when you create a new vendor account.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-09-12 08:50:15
+ms.date: 2016-09-12 08 - 50 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: smmContactPerson, VendBankAccounts, VendTable
+ms.search.form: smmContactPerson, VendBankAccounts, VendTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 191053
-ms.assetid: 694678e0-4c79-4f56-8f68-f80564b4ad08
-ms.region: Global
+ms.assetid: 06168199-7c54-40e9-a038-4eb274ca958d
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f870538f5ed8fb0629c14e4176b0489e5a190142
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 84f369a81ddbe15c66cd07485b92b7ce9cf5fa9d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -81,10 +83,5 @@ If you must make payments to a vendor bank account, you can enter information ab
 
 ## <a name="ledger-accounts"></a>Ledger accounts
 You can specify the default accounts that automatically appear in vendor invoice journals for the specified vendor. This functionality can be useful if you typically pay for the same types of items or services from the same vendors over time. When you specify a default account, you can quickly and efficiently enter journal entries in the invoice journal. The default accounts that you specify aren't used for purchase orders, or for vendor invoices that are entered on the **Vendor invoice** page. You select default accounts on the **Default account setup** page, which you can open from the **Invoice** tab on the vendor record. The accounts that you select here appear in the filtered list of accounts for the vendor account when you enter a journal entry. You can set one of the accounts as a default account.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

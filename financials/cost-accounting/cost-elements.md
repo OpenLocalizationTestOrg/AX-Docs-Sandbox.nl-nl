@@ -1,24 +1,26 @@
 ---
-title: Cost element dimensions | Microsoft Docs
+title: Cost element dimensions
 description: As one of the core pillars in Cost accounting, cost element dimensions are used to categorize and track where costs flow to.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 13:33:03
+ms.date: 2016-11-01 13 - 33 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMDimension
+ms.search.form: CAMDimension
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223204
-ms.assetid: 4e8b04a9-ca52-496f-ab93-1ada4d4caf3f
-ms.region: global
+ms.assetid: 1eda0e62-760b-4737-9dfd-3c3c38d80c1a
+ms.search.region: global
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4a1566538b333b9ae5e721817a62dd6c1f3a7b8c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e5660e90321e6e8e9fb8b24644c691e8c812c8ad
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -67,10 +69,5 @@ To ease the setup of cost element dimension members in Cost accounting, you can 
 
 ## <a name="implementation-considerations"></a>Implementation considerations
 As cost elements represent the lowest level of cost details, you should make sure that all the cost elements required to make the managerial reporting are included when you implement the cost elements structure. It can be a challenge to find an appropriate number of cost elements for cost control. Having thousands of cost elements can make it difficult to control each cost element. As an alternative, you can group cost elements and manage cost control at an aggregated level.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Correct a free text invoice | Microsoft Docs
+title: Correct a free text invoice
 description: This article explains how to correct a free text invoice that has been posted and reissue it as a corrected invoice.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:03:17
+ms.date: 2015-12-02 23 - 03 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustFreeInvoice
+ms.search.form: CustFreeInvoice
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13991
-ms.assetid: 8b632102-d0b1-4bd5-9096-93896c3e130d
-ms.region: Global
+ms.assetid: 2a0a4789-8619-4974-bef9-0923cc848420
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aff03d8e24fc0b8dd739ce0f98baa4a4dbaf6738
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: aa678f0fafadee8d50eb0f0495091d6d0ae58709
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -39,10 +42,5 @@ You can identify canceling and correcting invoices in two ways:
 -   The header of the free text invoice shows a status of **Cancelling invoice '\[invoice number\]'** or **Corrected invoice '\[invoice number\]'**.
 
 **Note:** This feature is available only if the **Free text invoice correction** configuration key is selected.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

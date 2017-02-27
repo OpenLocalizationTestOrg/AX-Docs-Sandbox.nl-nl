@@ -1,24 +1,26 @@
 ---
-title: Payment methods in a call center | Microsoft Docs
+title: Payment methods in a call center
 description: This topic covers the different payment methods you can use in a call center in Retail and commerce.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-06-14 18:34:52
+ms.date: 2016-06-14 18 - 34 - 52
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 92163
-ms.assetid: d9711edf-54aa-4dad-9414-54cc9d61032f
-ms.region: global
-ms.industry: Retail
+ms.assetid: 8e738907-870b-466c-ab0c-07f4a4aa47f3
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bd379495e11a3abc64e2ed086d668ce2a8820532
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2b8c0cd3e7bb7f7c805174d1e0a1659f202906be
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -42,10 +44,5 @@ If you submit a credit card payment from the **Sales order** page and receive a 
 -   Check holds let finance personnel process orders that have been put on hold because a check was used as the payment method, and the check hold threshold amount was exceeded. The hold can be manually released, or it automatically expires at the end of the configured period.
 -   You can set thresholds above which refunds that are issued via checks and credit cards must be manually approved. Any refund that exceeds the threshold amount is added to the approval queue. After you approve the refund, the return sales order can be invoiced.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,23 +1,25 @@
 ---
-title: Positive pay overview | Microsoft Docs
+title: Positive pay overview
 description: This article provides information about positive pay, which is used to generate an electronic list of checks that can be presented to a bank.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-05-23 15:48:40
+ms.date: 2016-05-23 15 - 48 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 88463
-ms.assetid: b8366a14-c3d8-433e-bf85-57542669617f
-ms.region: Global
+ms.assetid: 1e3a39d3-f9b3-4073-9730-c96a607243e2
+ms.search.region: Global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 36e3a24f36941ee53d64c9c1b35c176ae7e217ea
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ef9a6de4a5e324b46fee8c5a27fb02a3d14b5141
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -31,11 +33,6 @@ Positive pay is used to generate an electronic list of checks that can be presen
 <a name="see-also"></a>See also
 --------
 
-[Set up and generate positive pay files](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/set-up-and-generate-positive-pay-files)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Set up and generate positive pay files](set-up-generate-positive-pay-files.md)
 
 

@@ -1,25 +1,28 @@
 ---
-title: Dimension-based product configuration | Microsoft Docs
+title: Dimension-based product configuration
 description: Dimension-based product configuration represents a simple solution for creating many product variants from a single product master and its bill of materials.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 17:53:16
+ms.date: 2015-12-07 17 - 53 - 16
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMConfigRule, BOMTable, ConfigChooseFromRoute, ConfigGroup, ConfigHierarchy, EcoResDimensionBasedConfiguration
+ms.search.form: BOMConfigRule, BOMTable, ConfigChooseFromRoute, ConfigGroup, ConfigHierarchy, EcoResDimensionBasedConfiguration
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19821
-ms.assetid: 56ae6c1c-55a8-450a-a6f7-d1f726b8307d
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 4db9890b-306b-4be7-ba98-3be2094d561f
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5f80e608bf1fc72af6475d6b4cdc454cbcd9b467
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d36d450d95ade65e4a377efa519af9de3e17117b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -70,10 +73,5 @@ The natural sequence for building a product model for a dimension-based product 
 ### <a name="suggested-use"></a>Suggested use
 
 The dimension-based configuration technology is best used for products with limited variability and the combination of the standard product dimensions size, color, style, and configuration is unsuitable for identifying a specific product variant. An example could be bicycle with frame height, wheel size, brake types, and different gears.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

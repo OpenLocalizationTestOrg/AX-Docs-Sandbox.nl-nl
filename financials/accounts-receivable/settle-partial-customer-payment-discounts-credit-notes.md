@@ -1,24 +1,27 @@
 ---
-title: Settle a partial customer payment that has discounts on credit notes | Microsoft Docs
+title: Settle a partial customer payment that has discounts on credit notes
 description: This article walks you through a scenario where a cash discount is taken on a credit note when the original invoice also had a cash discount.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:33:50
+ms.date: 2015-12-02 23 - 33 - 50
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, LedgerJournalTransCustPaym
+ms.search.form: CustOpenTrans, LedgerJournalTransCustPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14564
-ms.assetid: bd69648c-24df-443e-8b95-2d92a75e56da
-ms.region: Global
+ms.assetid: d9984cef-ddcf-46bd-816d-c01b8cc5cf48
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4b65717e084ecf085de6e6da4f761dcb9a8cc571
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a84aca85abe7a79adc9666b2378b472ca966a7c9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -56,10 +59,5 @@ Discount information appears at the bottom of the **Settle transactions** page.
 | Cash discount amount to take | -1.00     |
 
 The settlement will be 100.00, and will include a payment of 99.00 and a discount of 1.00.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,28 @@
 ---
-title: Reverse the production order status | Microsoft Docs
+title: Reverse the production order status
 description: This topic describes how to reverse production order status.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-23 19:00:04
+ms.date: 2016-03-23 19 - 00 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdParmStatusDecrease
+ms.search.form: ProdParmStatusDecrease
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 70131
-ms.assetid: 4a966289-a485-4505-b01e-9d4ef436d710
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: b1e0df43-b388-4326-8fb7-501f30c89776
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 656bd0c1fffacaa1e2f84696002e2a62b4baf807
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 417ca5041b3dfc05c9446500a9419ddee2468bf6
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +49,5 @@ When you reverse the status of a production order from **Released** to **Schedul
 
 ## <a name="from-started-to-released"></a>From Started to Released
 When you reverse the status of a production order from **Started** to **Released**, all items that were reported as finished are reverted. If material has been picked, or if inbound and outbound deliveries have been made to production, those settings are reversed. The **Remain status** field on the production order’s BOM lines is changed from **Ended** to **Material consumption**. If time has been registered, or if quantities have been reported as finished for the operations in the production route, those settings are reversed. The **Remain status** field is changed from **Ended** to **Route consumption** in the production route. The settings for all items that are posted as in process or work in process are reversed. On the **Production order details** page, fields that show a quantity that was started or reported as finished are reset. The dates for those transactions are also reset.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

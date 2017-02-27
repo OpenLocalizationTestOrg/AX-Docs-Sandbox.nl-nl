@@ -1,24 +1,26 @@
 ---
-title: Set up bar code masks | Microsoft Docs
+title: Set up bar code masks
 description: This topic describes how to set up bar code mask characters, bar code masks, and how to assign bar code masks to bar codes.
 author: josaw1
 manager: AnnBe
-ms.date: 2017-01-05 19:44:48
+ms.date: 2017-01-05 19 - 44 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, Developer, IT Pro
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 265994
-ms.assetid: e41aa301-9612-4f4e-85cf-25833dec0992
-ms.region: global
-ms.industry: Retail
+ms.assetid: 5831c74d-d2a1-4fa5-9a9a-a5aba8848381
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 92a31ff3c1fc896904af390b8fc3817026894b29
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9a7bbd3da4406cc5a40c618c38724316e1c753c4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -77,10 +79,5 @@ Bar codes masks must be assigned to bar codes before they can be used. Continuin
 5.  Click **Save**.
 
 The bar code mask can now be used to create bar codes for products. The above steps are examples of how to create bar code masks for products, but they also illustrate how to create bar code masks for any of the other supported bar code types. Bar code masks, types, and lengths should be adjusted for use in your specific environment.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

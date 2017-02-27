@@ -1,23 +1,25 @@
 ---
-title: Expense management | Microsoft Docs
+title: Expense management
 description: 
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-03 18:34:29
+ms.date: 2015-12-03 18 - 34 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15001
-ms.assetid: 63b5b050-42d0-479d-a37c-370b9a6055e1
-ms.region: Global
+ms.assetid: 2d97d69b-9c08-4f0d-9637-68759fd34d34
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 24a9e14e252c892c813716be121439e45004026f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 74ae9dded98d1644518026237d06c7d2de7d451b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -26,11 +28,6 @@ ms.openlocfilehash: 24a9e14e252c892c813716be121439e45004026f
 
 
 
-[Planning expense management](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/planning-expense-management) More information will be added later; check back soon.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Planning expense management](plan-expense-management.md) More information will be added later; check back soon.
 
 

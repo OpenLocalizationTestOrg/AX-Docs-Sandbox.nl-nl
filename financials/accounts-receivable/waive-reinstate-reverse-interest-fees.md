@@ -1,23 +1,25 @@
 ---
-title: Waive, reinstate, or reverse interest fees | Microsoft Docs
+title: Waive, reinstate, or reverse interest fees
 description: This article explains how to waive, reinstate, and reverse charges for interest and fees.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 21:15:32
+ms.date: 2016-03-07 21 - 15 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59461
-ms.assetid: 809659f6-f24e-4989-88f2-e605c301c7aa
-ms.region: Global
+ms.assetid: 25ec29f3-e3ea-4abb-bf6b-f6240873b315
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: adaa827c15d6268767653ecf306cf80f7fe628d0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 86c69a0112c3ebec039310ed1a332d00d84db976
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -70,10 +72,5 @@ You can reverse all the interest transactions that you select. Reversed charges 
 
 ## <a name="view-the-history-of-adjustments-for-charges-that-were-waived-reinstated-or-reversed"></a>View the history of adjustments for charges that were waived, reinstated, or reversed
 You can view the detailed history of adjustments that were made for interest notes, such as the user who entered the adjustment, the type of adjustment, the amount, and when the adjustment was entered. For example, you might want to view the previous adjustments that were entered for an interest note before you create a new interest note. You can reverse interest transactions by using the **History** button on the **Collect** tab of the **Customer** page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

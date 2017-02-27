@@ -1,24 +1,27 @@
 ---
-title: Financial period close workspace | Microsoft Docs
+title: Financial period close workspace
 description: This article provides an overview of the Financial period close workspace and the associated configuration.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:55:34
+ms.date: 2015-12-02 22 - 55 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerPeriodCloseProjectWorkspace
+ms.search.form: LedgerPeriodCloseProjectWorkspace
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13791
-ms.assetid: e45a2293-4366-4cb5-ae92-d833069fcb27
-ms.region: Global
+ms.assetid: 6ee51758-639b-448e-9cb2-56cf1d804273
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b4ad5b4324e8622338b14cf9df2cb2da2f33f764
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 89b1b21d36d30dab0ea83f551f81a395f80476ef
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -75,10 +78,5 @@ You use a financial close template to define all tasks that are part of a closin
 ### <a name="closing-schedules"></a>Closing schedules
 
 You use a closing schedule to assign a financial close template to a specific financial period that must be closed. The tasks from the template are then automatically generated for the specified period, and the new closing schedule is added to the workspace. When you create a new closing schedule, the **Period end date** field is used to determine the actual due dates for the closing tasks, based on the relative due date that is assigned in the financial close template. Assign the calendar appropriate for the closing schedule, to indicate the working days to be used in task scheduling. If you don't define a specific calendar, the task due dates will use all days of the week. You must also define the companies that will be associated with the closing schedule. If template tasks are assigned to multiple companies, separate tasks will be created for each company that is in the closing schedule and assigned to the template task. After a closing schedule is completed, select the **Closed** option for it. The task history will still be available from the **All financial period close tasks** list page, but the closing schedule will be removed from the workspace. After a closing schedule has been marked as **Closed**, you won't be able to add tasks to it, edit tasks, or remove tasks from it.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

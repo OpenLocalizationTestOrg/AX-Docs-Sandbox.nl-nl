@@ -1,25 +1,27 @@
 ---
-title: Reconcile freight in transportation management | Microsoft Docs
+title: Reconcile freight in transportation management
 description: This article describes the freight reconciliation process.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-09 11:18:22
+ms.date: 2016-06-09 11 - 18 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TMSAuditMaster, TMSFreightBillInvoiceReconcile, TMSFreightBillSummary, TMSFreightBillType, TMSFreightMatchReason, TMSInvoiceTable
+ms.search.form: TMSAuditMaster, TMSFreightBillInvoiceReconcile, TMSFreightBillSummary, TMSFreightBillType, TMSFreightMatchReason, TMSInvoiceTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 89983
-ms.assetid: 43323e35-5053-4465-bfd7-a0484e8af6ac
-ms.region: Global
-ms.industry: Distribution
+ms.assetid: bc34a9b1-0c11-4797-b463-25409cf98ca8
+ms.search.region: Global
+ms.search.industry: Distribution
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 792ce45235364e95405d3d3256876dbc48e6bfb7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: deabf961e5a7b6c9abe210736a7e5e5de61470a9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -38,10 +40,5 @@ If you're reconciling freight manually, you must match each invoice line with th
 
 ## <a name="automatic-reconciliation"></a>Automatic reconciliation
 To use automatic reconciliation, you must specify the schedule for reconciliation, and the invoices and shipping carriers to use. The matching of the invoice lines and freight bills is done according to the setup of the audit master and freight bill type. After you run the automatic reconciliation, you must handle any invoices that the system can't match. You must then process these invoices manually before you can post all the invoices for payment.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

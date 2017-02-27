@@ -1,23 +1,25 @@
 ---
-title: Best practices for importing vouchers using the General journal entity | Microsoft Docs
+title: Best practices for importing vouchers using the General journal entity
 description: This topic provides tips for importing data into the General journal by using the General journal entity.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-06-24 18:03:41
+ms.date: 2016-06-24 18 - 03 - 41
 ms.topic: 
 ms.prod: 
 ms.service: 
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 94363
-ms.assetid: 6553d9db-d018-4d52-96d1-e532de582381
-ms.region: Global
+ms.assetid: 0b8149b5-32c5-4518-9ebd-09c9fd7f4cfc
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 89dab7c0962b3b0386e72d0e6cae6547ee120db7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 675cb375864206d99d0de5e10ce1399dfff6ec6b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -52,7 +54,7 @@ The following sections describe the effect of these settings, and also explain h
 
 ### <a name="voucher-number"></a>Voucher number
 
--   When you use the **Set-based processing** setting on the General journal entity, the voucher number must be provided in the imported file. Every transaction in the General journal is assigned the voucher number that is provided in the imported file, even if the voucher isn’t balanced. If you want to use set-based processing, but you also want to use the number sequence that is defined for voucher numbers in Dynamics 365 for Operations, a hotfix has been provided for the February 2016 release. The hotfix number is 3170316 and available for download from Lifecycle services (LCS). For more information, see [Download hotfixes from Lifecycle Services](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/servicing/download-hotfixes-from-lifecycle-services).
+-   When you use the **Set-based processing** setting on the General journal entity, the voucher number must be provided in the imported file. Every transaction in the General journal is assigned the voucher number that is provided in the imported file, even if the voucher isn’t balanced. If you want to use set-based processing, but you also want to use the number sequence that is defined for voucher numbers in Dynamics 365 for Operations, a hotfix has been provided for the February 2016 release. The hotfix number is 3170316 and available for download from Lifecycle services (LCS). For more information, see [Download hotfixes from Lifecycle Services](download-hotfix-lcs.md).
     -   To enable this functionality, on the journal name that is used for imports in Dynamics 365 for Operations, set **Number allocation at posting** to **Yes**.
     -   A voucher number must still be defined in the imported file. However, this number is temporary and is overwritten by the Dynamics 365 for Operations voucher number when the journal is posted. You must make sure that the lines of the journal are grouped correctly by temporary voucher number. For example, during posting, three lines are found that have a temporary voucher number of 1. The temporary voucher number of all three lines is overwritten by the next number in the number sequence. If those three lines aren’t a balanced entry, the voucher isn't posted. Next, if lines are found that have a temporary voucher number of 2, this number is overwritten by the next voucher number in the number sequence, and so on.
 
@@ -62,10 +64,5 @@ The following sections describe the effect of these settings, and also explain h
 -   If the **Voucher number** field is set to **Auto-generated**, the import won't succeed. The **Auto-generated** setting for the **Voucher number** field isn't supported.
 
 By default, the General journal entity uses set-based processing. After you evaluate the business requirements for your organization, you can change the **Set-based processing** setting by clicking **Data entities** in the **Data management** workspace. Set-based processing is used to speed up the import process. If you don't use set-based processing, import of the General journal entity import will be slower.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

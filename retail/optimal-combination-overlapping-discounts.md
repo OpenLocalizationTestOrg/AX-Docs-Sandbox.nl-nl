@@ -1,24 +1,27 @@
 ---
-title: Determine the optimal combination of overlapping discounts | Microsoft Docs
+title: Determine the optimal combination of overlapping discounts
 description: "When discounts overlap, you must determine the combination of overlapping discounts that will produce the lowest transaction total or the highest total discount. When the discount amount varies according to the price of the products that are purchased, such as in the common “Buy 1, get 1 X percent off” (BOGO) retail discount, this process becomes an issue of combinatorial optimization."
 author: kfend
 manager: AnnBe
-ms.date: 2016-06-08 17:38:06
+ms.date: 2016-06-08 17 - 38 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
 ms.reviewer: kfend
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 89643
-ms.assetid: b448dcc4-4cd4-462d-9c3a-dc8a21978a09
-ms.region: global
-ms.industry: Retail
+ms.assetid: 09843c9a-3e19-4e4a-a8ce-80650f2095f9
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: kfend
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d557ffa7674893204e28a6d3f12ad4473754046f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6a1995eabbcae2c7b67f8aadb92ae6f566100c53
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,10 +53,5 @@ This section continues the example from the previous section. We will add more p
 
 ## <a name="marginal-value-method"></a>Marginal value method
 To resolve the issue of an exponentially increasing number of combinations that must be evaluated, an optimization exists that calculates the value per shared product of each discount on the set of products that two or more discounts can be applied to. We refer to this value as the **marginal value** of the discount for the shared products. The marginal value is the average per product increase in the total discount amount when the shared products are included in each discount. The marginal value is calculated by taking the total discount amount (DTotal), subtracting the discount amount without the shared products (DMinus\\ Shared), and dividing that difference by the number of shared products (ProductsShared). [![Overlapping discount combo 06](./media/overlapping-discount-combo-06.jpg)](./media/overlapping-discount-combo-06.jpg) After the marginal value of each discount on a shared set of products is calculated, the discounts are applied to the shared products in order, exhaustively, from highest marginal value to lowest marginal value. For this method, all remaining discount possibilities aren’t compared every time after a single instance of a discount is applied. Instead, the overlapping discounts are compared one time and then applied in order. No additional comparisons are done. You can configure the threshold to switch to the marginal value method on the **Discount** tab of the **Retail parameters** page. The acceptable time to calculate the total discount varies across retail industries. However, this time generally falls in the range of tens of milliseconds to one second.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

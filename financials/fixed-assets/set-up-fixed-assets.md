@@ -1,23 +1,26 @@
 ---
-title: Set up fixed assets | Microsoft Docs
+title: Set up fixed assets
 description: This topic provides an overview of Fixed assets module setup.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:55:03
+ms.date: 2015-12-02 22 - 55 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13771
-ms.assetid: a2db91f5-72c8-4ef7-92c4-dd26942bed35
-ms.region: Global
+ms.assetid: 8be64197-fea1-4a34-8af2-d939919c28b1
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4abdd6d4ad67e515387ab8da837e43b54de0e95a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 1045bde4427c7d9fed28778bde50cf7d3ba2c6a1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -48,10 +51,5 @@ Fixed asset group is the only required field when creating a fixed asset, and it
 
 ## <a name="fixed-asset-parameters"></a>Fixed asset parameters
 The last step is to update fixed asset parameters. Capitalization threshold will determine what assets will be depreciated. If a purchase is selected as a fixed asset but does not meet the capitalization threshold, it will still be created or updated as a fixed asset, but the **Depreciation** check box will be clear. This means that the asset will not be depreciated automatically as part of the depreciation proposals. One important option is **Automatic creation of depreciation adjustments with disposal parameter**. This functionality will automatically adjust the asset depreciation based on the depreciation settings at the time of the asset disposal. There is also an option to deduct cash discounts from your acquisition amount when acquiring fixed assets using a vendor invoice. In the Purchase orders section, you can configure how you want your assets to be created as part of the purchasing process. The first field is **Allow asset acquisition from Purchasing**. If selected, the asset acquisition happens at the time when the invoice is posted. If it is clear, you can still put a fixed asset on a PO and invoice, but the acquisition will not be posted – this would need to be done as a separate step from the fixed asset journal.** Create asset during product receipt or invoice posting** will allow you to create a new asset on the fly – so it does not need to be set up as a fixed asset before the transaction. The last option to **Check for fixed assets creation during line entry** is applicable to purchase requisitions only. Reason codes can be configured to be required for changes to a fixed asset or for specific fixed asset transactions. Finally, number sequences are defined for the Fixed assets module on the **Number sequences** tab. The Fixed asset number sequence can be overridden by the Fixed asset group number sequence if it has been specified.  
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

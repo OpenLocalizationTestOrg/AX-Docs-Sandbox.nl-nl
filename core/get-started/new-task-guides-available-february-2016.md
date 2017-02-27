@@ -1,35 +1,37 @@
 ---
-title: New task guides (February 2016) | Microsoft Docs
-description: This wiki lists the task guides that were released to the Microsoft BPM libraries as of February 2016.  The libraries that were published include the (February 2016) APQC Unified Library for Microsoft Dynamics AX, and (February 2016) Getting started.
+title: New task guides (February 2016)
+description: This wiki lists the Task guides that were released to the Microsoft BPM libraries as of February 2016.  The libraries that were published include the (February 2016) APQC Unified Library for Microsoft Dynamics AX, and (February 2016) Getting started.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-07-15 23:21:40
+ms.date: 2016-07-15 23 - 21 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 102083
-ms.assetid: 9da3fe01-3f13-44b9-9a74-c67c1bd8d3ed
-ms.region: global
+ms.assetid: f50585e8-4ef6-4cd8-90d8-c8d6a65b22b8
+ms.search.region: global
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ba1c618d95bbf3387f27e026b269df84f55c7a7e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0b5f1498e005ba0fa896e78ee71ac59068663479
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="new-task-guides-february-2016"></a>New task guides (February 2016)
 
-This wiki lists the task guides that were released to the Microsoft BPM libraries as of February 2016.  The libraries that were published include the (February 2016) APQC Unified Library for Microsoft Dynamics AX, and (February 2016) Getting started.
+This wiki lists the Task guides that were released to the Microsoft BPM libraries as of February 2016.  The libraries that were published include the (February 2016) APQC Unified Library for Microsoft Dynamics AX, and (February 2016) Getting started.
 
 <a name="task-guides-in-the-february-2016-apqc-unified-library-for-microsoft-dynamics-ax"></a>Task guides in the (February 2016) APQC Unified Library for Microsoft Dynamics AX
 ---------------------------------------------------------------------------------
 
-The (February 2016) APQC Unified library contains the task guides that are intended to be used for Help with the Dynamics AX 7.0.0 release. If you need localized versions of these task guides, they are available in the (May 2016) APQC Unified Library for Microsoft Dynamics AX. For more information about how to connect the help system to a task guide library, see [Get started with Help](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/system-administration/help-get-started).
+The (February 2016) APQC Unified library contains the Task guides that are intended to be used for Help with the Dynamics AX 7.0.0 release. If you need localized versions of these Task guides, they are available in the (May 2016) APQC Unified Library for Microsoft Dynamics AX. For more information about how to connect the help system to a Task guide library, see [Get started with Help](help-get-started.md).
 
 ### <a name="accounts-payable"></a>Accounts payable
 
@@ -716,13 +718,10 @@ The (February 2016) APQC Unified library contains the task guides that are inten
 <a name="see-also"></a>See also
 --------
 
-[New or updated task guides available (May 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)
+[New or updated Task guides (May 2016)](new-updated-task-guides-available-may-2016.md)
 
-[New or updated task guides available (August 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-august-2016)
+[New or updated Task guides (August 2016)](new-updated-task-guides-available-august-2016.md)
 
-
-
-
-<!--HONumber=Feb17_HO3-->
+[New or updated Task guides (November 2016)](new-task-guides-november-2016.md)
 
 

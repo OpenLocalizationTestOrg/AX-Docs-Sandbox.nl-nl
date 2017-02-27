@@ -1,24 +1,26 @@
 ---
-title: Consignment | Microsoft Docs
+title: Consignment
 description: This topic explains how to use the inbound consignment inventory processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-31 14:00:02
+ms.date: 2016-10-31 14 - 00 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ConsignmentDraftReplenishmentOrderJournal, ConsignmentProductReceiptLines, ConsignmentReplenishmentOrder, ConsignmentVendorPortalOnHand, InventJournalOwnershipChange, InventOnHandItemListPage, PurchTable, PurchVendorPortalConfirmedOrders
+ms.search.form: ConsignmentDraftReplenishmentOrderJournal, ConsignmentProductReceiptLines, ConsignmentReplenishmentOrder, ConsignmentVendorPortalOnHand, InventJournalOwnershipChange, InventOnHandItemListPage, PurchTable, PurchVendorPortalConfirmedOrders
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 220834
-ms.assetid: 443e8c5d-2f22-4fed-ab29-026ba80432df
-ms.region: Global
+ms.assetid: 3c9d6de4-45d4-459a-aef7-0d9ad2c22b3a
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ca89219ff918a30dc83813c7e4246f8203d4186b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a659925735d530b303fbc7838c0e23852c600e15
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: ca89219ff918a30dc83813c7e4246f8203d4186b
 
 This topic explains how to use the inbound consignment inventory processes.
 
-Consignment inventory is inventory that’s owned by a vendor, but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where the vendor-owned inventory can be physically reserved. and how to change the ownership of the raw material in order to be able to process the consumption as part of the production order processing. There’s also some information about how vendors can monitor consumption of their inventory using the vendor collaboration interface. For information about how to enable and configure inbound consignment processes, see [Setting up consignment](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/setting-up-consignment).
+Consignment inventory is inventory that’s owned by a vendor, but stored at your site. When you’re ready to consume or use the inventory, you take over the ownership of the inventory. This topic includes information about how to physically receive vendor-owned inventory on-hand without creating general ledger transactions, how to start a production process where the vendor-owned inventory can be physically reserved. and how to change the ownership of the raw material in order to be able to process the consumption as part of the production order processing. There’s also some information about how vendors can monitor consumption of their inventory using the vendor collaboration interface. For information about how to enable and configure inbound consignment processes, see [Setting up consignment](set-up-consignment.md).
 
 ## <a name="overview-of-the-consignment-process"></a>Overview of the consignment process
 In this example scenario, company USMF has a consignment agreement with vendor US-104 for the raw material M9211CI.
@@ -72,10 +74,5 @@ The vendor collaboration interface has three pages related to the inbound consig
 -   **Products received from consignment inventory** - Shows information about the items and quantities that have product receipts updated during the ownership change process.
 -   **On-hand consignment inventory** - Shows information about the consignment items that they are expected to deliver, and the items that are already physically available at the customer site.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

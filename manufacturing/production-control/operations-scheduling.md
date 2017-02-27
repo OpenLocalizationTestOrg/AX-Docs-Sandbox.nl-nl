@@ -1,25 +1,27 @@
 ---
-title: Operations scheduling | Microsoft Docs
+title: Operations scheduling
 description: This topic provides information about operations scheduling. You can use operations scheduling to provide a general estimate of the production process over time.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-04 13:33:54
+ms.date: 2016-10-04 13 - 33 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdSchedule
+ms.search.form: ProdSchedule
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 198073
-ms.assetid: 7e8aca14-a9fd-4fb8-b343-46c02b38a359
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 12c28b11-80aa-4668-b15b-724cb24890bd
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: crytt
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 44910f554d54b747f0b6c58c28f4094544c20b7e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3aeda75a4a5f252d97af1efbdc50cb8b3c59e326
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -73,11 +75,6 @@ If you're working with finite materials, scheduling also depends on the availabi
 <a name="see-also"></a>See also
 --------
 
-[Operation scheduling options](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/production-control/operation-scheduling-options)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Operation scheduling options](operation-scheduling-options.md)
 
 

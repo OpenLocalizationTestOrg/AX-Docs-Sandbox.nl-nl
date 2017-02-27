@@ -1,23 +1,25 @@
 ---
-title: Create a customer invoice | Microsoft Docs
+title: Create a customer invoice
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-04-04 23:11:36
+ms.date: 2016-04-04 23 - 11 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 77772
-ms.assetid: e0c819ed-af95-4597-b4c2-c70038325737
-ms.region: Global
+ms.assetid: 00b4b40c-1576-4098-9aed-ac376fdeb8c5
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 224c4976ab03da592acf977b3d86fff99ce33db7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ea029f1409f60ea6a654caa2e1383cc090c415a8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -132,10 +134,5 @@ The following fields change the behavior of the posting process.
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

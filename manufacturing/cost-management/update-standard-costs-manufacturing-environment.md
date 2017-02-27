@@ -1,25 +1,27 @@
 ---
-title: Update standard costs in a manufacturing environment | Microsoft Docs
+title: Update standard costs in a manufacturing environment
 description: This article provides guidance about how to update standard costs in a manufacturing environment.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:25:58
+ms.date: 2016-04-11 13 - 25 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostingVersion, InventStdCostConv
+ms.search.form: CostingVersion, InventStdCostConv
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79663
-ms.assetid: 9b93388b-17b8-48de-aee1-1a5a4dafaa1f
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 3a7c3d13-8dbc-442d-a281-ac0ebe99ec83
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 49b0fe694469d9405e600d33ee20fa76197512d3
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 71e2811ef50597da6d3b8fff2540825a30132dff
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +43,5 @@ Updates can reflect new items, cost categories, or indirect cost calculation for
 -   Calculate costs for a new manufactured item, based on its defined, approved, and active BOM and route information.
 
 Each case requires careful consideration about how to update standard costs.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

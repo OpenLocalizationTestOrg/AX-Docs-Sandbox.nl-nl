@@ -1,25 +1,28 @@
 ---
-title: Calculate material consumption | Microsoft Docs
+title: Calculate material consumption
 description: This article provides information about various options that are related to the calculation of material consumption.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:31:42
+ms.date: 2016-02-24 15 - 31 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMDesignerEditBOM, BOMTable, ProdBOM
+ms.search.form: BOMDesignerEditBOM, BOMTable, ProdBOM
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53401
-ms.assetid: d3a069a6-e775-444d-adb9-43999e4476d3
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 9cff88e4-0425-4707-9178-3c2cb10df7c2
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cf3a45030c201e576b73ebae8ddafb1ae4a28f14
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6b88c66dca67ab3343f7a7a13a3ffb8cb7b48c63
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -75,10 +78,5 @@ Step consumption is used to calculate constant consumption in quantity intervals
 | 200.00      | 40.0000  |
 
 The bill of materials (BOM) quantity is 1, and the production quantity is 110. The formula for the consumption is From series (Quantity) = Consumption. Because the production quantity is 110, it falls into the "From 100 series." Therefore, the quantity is 20.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

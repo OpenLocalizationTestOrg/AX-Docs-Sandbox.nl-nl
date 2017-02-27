@@ -1,31 +1,33 @@
 ---
-title: Set up the advanced bank reconciliation import process | Microsoft Docs
+title: Set up the advanced bank reconciliation import process
 description: The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations. This article explains how to set up the import functionality for your bank statements.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-08-10 17:50:36
+ms.date: 2016-08-10 17 - 50 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 106853
-ms.assetid: 21ee7f94-7459-4d6a-8cd8-bd5c1507329e
-ms.region: Global
+ms.assetid: 45dae275-ea45-4c7e-b38f-89297c7b5352
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2285ff43e7e8223ef6da8198c52d0a2296ddc3bb
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 86f341a60bffebbf48e6a8eb3586ff7edf349f41
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="set-up-the-advanced-bank-reconciliation-import-process"></a>Set up the advanced bank reconciliation import process
 
-The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations. This article explains how to set up the import functionality for your bank statements.
-
+The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations. This article explains how to set up the import functionality for your bank statements. 
 
 The setup for bank statement import varies, depending on the format of your electronic bank statement. Microsoft Dynamics 365 for Operations supports three bank statement formats out of the box: ISO20022, MT940, and BAI2.
 
@@ -171,10 +173,5 @@ The final step is to test that you can import your bank statement.
 8.  Click **OK**.
 
 If the import is successful, you will receive a message that states that your statement was imported. If the import wasn't successful, in the **Data management** workspace, in the **Job history** section, find the job. Click **Execution details** for the job to open the **Execution summary** page, and then click **View execution log** to view the import errors.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

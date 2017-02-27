@@ -1,25 +1,27 @@
 ---
-title: Demand forecasting overview | Microsoft Docs
+title: Demand forecasting overview
 description: Demand forecasting is used to predict independent demand from sales orders and dependent demand at any decoupling point for customer orders. The enhanced demand forecast reduction rules provide an ideal solution for mass customization.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-29 13:45:42
+ms.date: 2016-03-29 13 - 45 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqDemPlanCreateForecastDialog
+ms.search.form: ReqDemPlanCreateForecastDialog
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72004
-ms.assetid: f73d1140-d2ad-49ef-8a00-d63645674a47
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 916707c9-1333-460f-a0fa-4e95f6fda2ad
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 31c23bb4064f094e1d2a9629ac90544b5984d69b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5bc84ad821c42bc2c8e86bdb424c1d2944c703e8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -60,21 +62,16 @@ Demand forecasting in Dynamics 365 for Operations is a tool that helps customers
 <a name="see-also"></a>See also
 --------
 
-[Demand forecasting setup](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/demand-forecasting-setup)
+[Demand forecasting setup](demand-forecasting-setup.md)
 
-[Generating a statistical baseline forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/generating-a-statistical-baseline-forecast)
+[Generating a statistical baseline forecast](generate-statistical-baseline-forecast.md)
 
-[Making manual adjustments to the baseline forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/making-manual-adjustments-to-the-baseline-forecast)
+[Making manual adjustments to the baseline forecast](manual-adjustments-baseline-forecast.md)
 
-[Authorizing the adjusted forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/authorizing-the-adjusted-forecast)
+[Authorizing the adjusted forecast](authorize-adjusted-forecast.md)
 
-[Monitoring forecast accuracy](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)
+[Monitoring forecast accuracy](monitor-forecast-accuracy.md)
 
-[Remove outliers from historical transaction data when calculating a demand forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Remove outliers from historical transaction data when calculating a demand forecast](remove-historical-outliers-calculating-demand-forecast.md)
 
 

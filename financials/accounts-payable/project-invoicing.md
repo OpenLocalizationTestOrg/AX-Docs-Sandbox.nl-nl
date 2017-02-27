@@ -1,24 +1,26 @@
 ---
-title: Project invoicing | Microsoft Docs
+title: Project invoicing
 description: This article provides an overview of project invoicing for Time and material projects and Fixed-price projects. It includes information about invoice proposals (preliminary invoices), invoice control, on-account invoicing, vendor invoicing, and credit notes.
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-11 22:59:30
+ms.date: 2015-12-11 22 - 59 - 30
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjInvoiceCashFlow, ProjInvoiceControl, ProjInvoiceListPage, ProjInvoiceProposalDetail, ProjInvoiceProposalListPage
+ms.search.form: ProjInvoiceCashFlow, ProjInvoiceControl, ProjInvoiceListPage, ProjInvoiceProposalDetail, ProjInvoiceProposalListPage
 audience: Application User, IT Pro
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23111
-ms.assetid: fb33cb19-2fb4-49ef-b82a-597a2f7fe1b6
-ms.region: Global
+ms.assetid: 1812d6f2-8b34-4258-8f5f-dcf12281547f
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9fec977187830a2da2e6cdcb9c66bb0ef21b5b7c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 60682495f1499f2c7544a18aac54a2fe8a83caf5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -94,10 +96,5 @@ When you order an item from a vendor and assign the item to a project, the line 
 
 ## <a name="credit-notes"></a>Credit notes
 When an amount on a customer invoice has a negative value, the invoice is classified as a credit note. When the document is printed, it has the title "Credit note." When you create a credit note to credit an amount that was previously invoiced, you must first select the invoiced amount for crediting. You then create a credit note by following the same procedure that you would use to create an ordinary customer invoice. In other words, you select the transactions that were previously posted on a customer invoice, and then create and post a credit note proposal. The same document can include transactions that are selected for crediting, credit transactions, and transactions that have been posted. The document is classified as either an invoice or a credit note, depending on whether the total amount is positive or negative. To credit an invoiced amount, you first select the invoiced amount to credit and then create a credit note. You create a credit note by following the same procedure that you would use to generate a customer invoice. You can create an invoice that has a negative amount, which becomes an invoice that is classified as a credit note. To create and print a credit note, you must select the transactions that were previously posted for a customer invoice, and then modify the transactions. Unless the primary address of the legal entity is in Germany, the title of the invoice will be "Corrective invoice."
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

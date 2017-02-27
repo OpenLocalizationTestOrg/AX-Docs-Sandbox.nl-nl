@@ -1,23 +1,26 @@
 ---
-title: View financial reports | Microsoft Docs
+title: View financial reports
 description: This article describes how to view and explore financial reports in Microsoft Dynamics AX. It includes information about the various options that you can apply to financial reports to change their appearance and the data that they include.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-10-19 23:03:18
+ms.date: 2015-10-19 23 - 03 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 10334
-ms.assetid: 02cc048b-7efe-4301-bca2-cf6cf2c77b82
-ms.region: Global
+ms.assetid: d20f435f-fb65-4068-ab09-7efc7be683a6
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6efdfb88415193512756367a47eae76704004db6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 987ce6680b4b7750a983042075aa2a4c96710ae9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -81,11 +84,6 @@ To export a financial report, on the Action Pane, click **Export**. The report i
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting for Microsoft Dynamics AX](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Financial reporting for Microsoft Dynamics AX](financial-reporting-intro.md)
 
 

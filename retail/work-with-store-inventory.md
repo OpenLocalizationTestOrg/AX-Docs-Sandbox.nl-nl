@@ -1,24 +1,26 @@
 ---
-title: Manage store inventory | Microsoft Docs
+title: Manage store inventory
 description: This article describes the types of documents that you can use to manage inventory.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-09 18:39:11
+ms.date: 2015-12-09 18 - 39 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: josaw1
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21391
-ms.assetid: 9bdb9854-ff74-4522-869a-3208a79b81e3
-ms.region: global
-ms.industry: Retail
+ms.assetid: bfef3717-d0e0-491d-8466-d8a9c995177d
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a1aedcd80e238a86593663b03bf5c0ed7b4b2302
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 435ca4aa9acea9187209a52b609389f017f34a87
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +42,5 @@ A transfer order can specify that a particular store is a location that items ca
 Stock counts can be either scheduled or unscheduled. Scheduled stock counts are initiated at the head office, which specifies the items that must be counted. The head office creates a counting document that can be received at the store, where the quantities of actual on-hand stock are entered in MPOS or Cloud POS. Unscheduled stock counts are initiated at a store, and the quantities of actual on-hand stock are updated in either MPOS or Cloud POS. Unlike scheduled stock counts, unscheduled stock counts do not have a predefined list of items. When a stock count of either type is completed, it is committed and sent to the head office. At the head office, the count is validated and posted.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

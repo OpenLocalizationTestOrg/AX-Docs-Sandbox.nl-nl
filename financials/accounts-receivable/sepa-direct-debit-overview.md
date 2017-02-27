@@ -1,34 +1,34 @@
 ---
-title: SEPA direct debit overview | Microsoft Docs
+title: SEPA direct debit overview
 description: The Single Euro Payments Area (SEPA) is set up by the European Commission, and dictates that all electronic payments are considered domestic, regardless of the country/region where the individual, business, or organization, and the bank are located. There is no difference between national and cross-border payments. The SEPA includes the 28 European Union (EU) member states, as well as Iceland, Liechtenstein, Norway, Switzerland, Monaco and San Marino. The SEPA helps form a single market for payment transactions within the European Economic Area (EEA). Ultimately, the SEPA is expected to reduce the number of payment formats that banks, businesses, and individuals must work with.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-10-28 22:23:07
+ms.date: 2015-10-28 22 - 23 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankAccountTable, CustBankAccounts, CustParameters, CustTable
+ms.search.form: BankAccountTable, CustBankAccounts, CustParameters, CustTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11144
-ms.assetid: 023c54a9-9ab8-4eb9-a5d7-1c5a6c147cf8
-ms.region: Global
+ms.assetid: 3277c9b6-e46e-40c9-aa76-9b0449467842
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cc6f8fee36ab0611fb48b367d5ab685c2f11650e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a14e8b9ca930fe084a9b9e95fcb63f19fc9bdcbc
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="sepa-direct-debit-overview"></a>SEPA direct debit overview
 
-The Single Euro Payments Area (SEPA) is set up by the European Commission, and dictates that all electronic payments are considered domestic, regardless of the country/region where the individual, business, or organization, and the bank are located. There is no difference between national and cross-border payments. The SEPA includes the 28 European Union (EU) member states, as well as Iceland, Liechtenstein, Norway, Switzerland, Monaco and San Marino. The SEPA helps form a single market for payment transactions within the European Economic Area (EEA). Ultimately, the SEPA is expected to reduce the number of payment formats that banks, businesses, and individuals must work with.
-
-
-
+The Single Euro Payments Area (SEPA) is set up by the European Commission, and dictates that all electronic payments are considered domestic, regardless of the country/region where the individual, business, or organization, and the bank are located. There is no difference between national and cross-border payments. The SEPA includes the 28 European Union (EU) member states, as well as Iceland, Liechtenstein, Norway, Switzerland, Monaco and San Marino. The SEPA helps form a single market for payment transactions within the European Economic Area (EEA). Ultimately, the SEPA is expected to reduce the number of payment formats that banks, businesses, and individuals must work with.   
 
 <a name="what-is-the-goal-of-sepa-direct-debits"></a>What is the goal of SEPA Direct Debits?
 ---------------------------------------
@@ -76,10 +76,5 @@ You can generate electronic payment files for SEPA direct debits in the followin
 Under both SEPA Direct Debit schemes, customers have certain rights to refunds. The customer is allowed to recall any authorized transactions during an eight-week period after the due date, without having to give a reason. In the case of unauthorized transactions, the period is extended to 13 months after the due date. Reversals of any payments that have been made are accomplished manually by using the Cancel payment button in the Customer transactions page.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

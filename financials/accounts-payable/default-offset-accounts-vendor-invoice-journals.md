@@ -1,23 +1,25 @@
 ---
-title: Default offset accounts for vendor invoice journals and invoice approval journals | Microsoft Docs
+title: Default offset accounts for vendor invoice journals and invoice approval journals
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-08 17:49:18
+ms.date: 2016-03-08 17 - 49 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 62093
-ms.assetid: c6d8fa11-f470-402e-989f-01839dd6f20e
-ms.region: global
+ms.assetid: 553933ca-928d-4031-bb8c-f9cff458320b
+ms.search.region: global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6c665dfd667b9a76f7f46a325c438bd1cdf163e4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c5e0bd22d72c75574636276457736150f3d8dc9b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -92,10 +94,5 @@ Use the following table to help decide where you should assign default accounts 
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,39 +1,40 @@
 ---
-title: Inventory on-hand mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs
+title: Inventory on-hand mobile workspace for Microsoft Dynamics 365 for Operations app
 description: The Inventory on-hand mobile workspace helps you gain mobile insights into reserved and available inventory anytime and anywhere.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2017-01-12 16:44:40
+ms.date: 2017-01-12 16 - 44 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 267094
-ms.assetid: 50671d1a-9d16-4ab1-94da-0aa999d130d3
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 85058f55-e566-40e2-9234-42d3e4fe5ff6
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: mirzaab
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: fb9c88e71f0e8014956212782c9a0c806e9af2ad
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4046aaa1ee1a829ffd008524c00c04ad6a04a7a5
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="inventory-on-hand-mobile-workspace-for-microsoft-dynamics-365-for-operations-app"></a>Inventory on-hand mobile workspace for Microsoft Dynamics 365 for Operations app
 
-The Inventory on-hand mobile workspace helps you gain mobile insights into reserved and available inventory anytime and anywhere.
-
+The Inventory on-hand mobile workspace helps you gain mobile insights into reserved and available inventory anytime and anywhere. 
 
 <a name="prerequisites"></a>Prerequisites
 -------------
 
 | Prerequisite                                                         | Description                                                                                                                                        |
 |----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
-| Read about the Microsoft Dynamics 365 for Operations mobile platform | [Dynamics 365 for Operations mobile platform](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook)                                   |
+| Read about the Microsoft Dynamics 365 for Operations mobile platform | [Dynamics 365 for Operations mobile platform](mobile-platform.md)                                   |
 | Dynamics 365 for Operations                                          | An environment that has Microsoft Dynamics 365 for Operations version 1611 and Microsoft Dynamics for Operations platform update 3 (November 2016) |
 | Hotfix KB 3215650                                                    | Install the hotfix to enable the workspaces that are provided in your Microsoft Dynamics 365 for Operations.                                       |
 | Mobile device that has the Dynamics 365 for Operations app installed | Download the Dynamics 365 for Operations app from your mobile app store.                                                                           |
@@ -92,10 +93,5 @@ To view workspaces on your mobile app, you must first publish the desired worksp
     -   By available physical (This view represents the available amount that has no reservations.)
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

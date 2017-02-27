@@ -1,25 +1,27 @@
 ---
-title: Running average cost price | Microsoft Docs
+title: Running average cost price
 description: "The inventory close process settles issue transactions to receipt transactions, based on the inventory valuation method that is selected in the item’s item model group. However, before inventory close is run, the system calculates a running average cost price that is typically used when issue transactions are posted."
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-07 15:11:47
+ms.date: 2016-04-07 15 - 11 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventModelGroup, InventOnhandItem, InventTrans
+ms.search.form: InventModelGroup, InventOnhandItem, InventTrans
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79003
-ms.assetid: 4a24affc-9ad7-480f-86a5-bde7d01586b0
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: adc3f245-dc9d-4327-88fb-6a579194a5fe
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f082de92bba288f949ad097241cedc3fb02a6db3
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b5f06fb633a45ee2cf42e1b8c70bd26c1344a67f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -39,7 +41,7 @@ The following table shows when the system posts inventory transactions by using 
 | The numerator\*, denominator\*\*, or both are negative. | No                                                       | Yes                                                               |
 | The denominator\*\* is 0 (zero).                        | No                                                       | Yes                                                               |
 
-\* Numerator = (Physical amount + Financial amount) \*\* Denominator = (Physical quantity + Financial quantity) **Note:** If the **Include physical value** option isn't selected for an item, the system uses 0 (zero) for both the physical amount and the physical quantity. For information about this option, see [Include physical value](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/include-physical-value).
+\* Numerator = (Physical amount + Financial amount) \*\* Denominator = (Physical quantity + Financial quantity) **Note:** If the **Include physical value** option isn't selected for an item, the system uses 0 (zero) for both the physical amount and the physical quantity. For information about this option, see [Include physical value](include-physical-value.md).
 
 ## <a name="avoiding-pricing-amplification"></a>Avoiding pricing amplification
 On rare occasions, the system prices several issues before it has enough receipts to base the price on. This scenario can cause estimates of the running average cost price to be overly inflated. However, there are steps that you can take to avoid pricing amplification, or to reduce its impact when it does occur. **Scenario** The following transactions occur for an item that you've selected the **Include physical value** option for:
@@ -61,10 +63,5 @@ However, if your business model allows for the following practices, they can hel
 -   If you do *not* select the **Include physical value** option for an item, clear the **Financial negative inventory** option on the **Item model groups** page.
 
 Additionally, consider that the maximum offset in your physical inventory value is limited by the number of physical transactions, and the difference between physical and financial prices. Provided that all physical transactions are eventually updated financially, the physical value can't rise to extreme levels. Finally, note that the amplification effect decreases significantly when the accumulated offset is spread out over several on-hand pieces instead of just one.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Post with derived books | Microsoft Docs
+title: Post with derived books
 description: This article describes how to use derived books.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 21:03:22
+ms.date: 2015-09-10 21 - 03 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetBookTable, LedgerJournalTransAsset
+ms.search.form: AssetBookTable, LedgerJournalTransAsset
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3421
-ms.assetid: 2937f511-bc27-4f60-a1e7-b03cf5ae9fd4
-ms.region: Global
+ms.assetid: f5187c21-eec5-4148-b178-b8a5feff7f23
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: af1e1c5b2c209bc280ab44449518d48da90c09c7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: fe55aa89e9f16d645a719a6b7658a8cf7c74c494
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -57,10 +60,5 @@ The books then can be attached to specific fixed assets. When an acquisition is 
 --------
 
 [Derived books](http://ax.help.dynamics.com/wiki/derived-value-models/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

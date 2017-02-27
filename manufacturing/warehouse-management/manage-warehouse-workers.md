@@ -1,24 +1,26 @@
 ---
-title: Manage warehouse workers | Microsoft Docs
+title: Manage warehouse workers
 description: This article describes how you can use Microsoft Dynamics AX to help control and monitor the work that&quot;s carried out by employees in your warehouses.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 13:17:06
+ms.date: 2016-03-30 13 - 17 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmWorker, InventLocation, WHSLaborStandards, WHSWorker, WHSWorkTable, WHSWorkTableListPage
+ms.search.form: HcmWorker, InventLocation, WHSLaborStandards, WHSWorker, WHSWorkTable, WHSWorkTableListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72891
-ms.assetid: 8ecdba8a-9ee3-439a-a631-839be2887387
-ms.region: Global
+ms.assetid: feaa6f15-49d2-41f5-9b87-453463c52e4e
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 21ebc71de90aebd5a311910d971834a1298c6720
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 294e4728d830d0a7fcabe4d5d579ba3e7b86ee53
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -38,10 +40,5 @@ The **All work** page lets you monitor and maintain all work that is planned, in
 -   **Labor by user** – This report shows worker productivity, based on actual times against expected times.
 -   **Labor by work transaction type** – You can use this report to investigate inefficiencies in specific warehouse processes. For example, you notice that picks for transfer orders are taking longer this week than in previous weeks. You can then use this information for further investigation.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

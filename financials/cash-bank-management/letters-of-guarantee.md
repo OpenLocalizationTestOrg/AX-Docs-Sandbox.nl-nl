@@ -1,24 +1,27 @@
 ---
-title: Letters of guarantee | Microsoft Docs
+title: Letters of guarantee
 description: This article provides information about letters of guarantee. In a letter of guarantee, a bank agrees to pay a specific amount of money to a person if one of the bank&quot;s customers defaults on a payment or obligation to that person.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-04 23:28:07
+ms.date: 2015-12-04 23 - 28 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankLGGuarantee
+ms.search.form: BankLGGuarantee
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 18291
-ms.assetid: 181c1ee6-7f1e-4488-9cac-2e90a0d34748
-ms.region: Global
+ms.assetid: 5c0b5e37-d51d-4a01-bb37-1882173abb9f
+ms.search.region: Global
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4182465fc2c16415870595c3be0dc48980ac67b5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b1c8ca313310de1a6fb039884b1c661f8ab38934
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -48,10 +51,5 @@ The following table describes the actions that you can perform on a letter of gu
 | Liquidate           | When the beneficiary presents the letter of guarantee to the bank, cash out the letter of guarantee.                      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

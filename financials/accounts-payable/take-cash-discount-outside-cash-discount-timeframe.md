@@ -1,24 +1,27 @@
 ---
-title: Take a cash discount outside the cash discount period | Microsoft Docs
+title: Take a cash discount outside the cash discount period
 description: This article provides two scenarios that show how a cash discount can be taken even if the payment is made outside the cash discount period.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:21:36
+ms.date: 2015-12-02 23 - 21 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14301
-ms.assetid: 46dae2fc-f0ed-4613-b834-b6bb95974f69
-ms.region: Global
+ms.assetid: bad10b7f-e550-4742-9261-8a094c9c624d
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b8cea1fe73992da4da99fd3160f116c7917f6a02
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 93c50f9e3207aa424efc09e71247bf2138431860
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -82,10 +85,5 @@ Discount information appears at the bottom of the **Settle open transactions** p
 | Cash discount amount to take | -5.05     |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Configure Accounts receivables and Credit and collections | Microsoft Docs
+title: Configure Accounts receivables and Credit and collections
 description: Configure Accounts receivable and Credit and Collections to track invoices and incoming payments from customers.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-12 19:13:03
+ms.date: 2015-12-12 19 - 13 - 03
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CashDisc, CollectionLetterCourse, CreditCardProcessors, CustAgingSnapshot, CustBankAccounts, CustCollections, CustCollectionsAgent, CustCollectionsPool, CustGroup, CustParameters, CustPaymMode, CustPosting, CustVendReportInterval, Interest, PaymTerm, Reasons
+ms.search.form: CashDisc, CollectionLetterCourse, CreditCardProcessors, CustAgingSnapshot, CustBankAccounts, CustCollections, CustCollectionsAgent, CustCollectionsPool, CustGroup, CustParameters, CustPaymMode, CustPosting, CustVendReportInterval, Interest, PaymTerm, Reasons
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 24631
-ms.assetid: 840940b6-1eab-444f-87db-65a680f7f8ed
-ms.region: Global
+ms.assetid: 8c1fc7c5-b461-41ed-b102-2648cc58eb0b
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8fcc12c9d7a2688957c4ae41cce3e8dfe32e8424
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e61b2655faec8305af0f16e6474a962c0bbf4152
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -112,10 +115,5 @@ The following table lists the pages that support the configuration and maintenan
 []()
 
 [Credit and collections in Accounts receivable](https://ax.help.dynamics.com/en/?p=5041)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

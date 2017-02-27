@@ -1,24 +1,26 @@
 ---
-title: Set up a customer loyalty program | Microsoft Docs
+title: Set up a customer loyalty program
 description: This article describes how to set up a loyalty program. Loyalty programs can help increase customer loyalty by rewarding customers for buying products in your retail stores. In Microsoft Dynamics 365 for Operations, you can set up simple or complex loyalty programs that apply across your legal entities in any retail channel.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:19:47
+ms.date: 2015-12-03 22 - 19 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16201
-ms.assetid: f7307137-dced-4a85-9287-2bacfdc122b4
-ms.region: global
-ms.industry: Retail
+ms.assetid: f79559d2-bc2d-4f0b-a938-e7a61524ed80
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: scotttuc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 05341b1ff19c40df96bd211bc04ee9cf7c150c94
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0efe04351d807dc2328920a3ff148a69651ba667
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -68,10 +70,5 @@ The following table describes the processes that must be run to send the loyalty
 | Update loyalty card tiers            | Run this process to evaluate the customer’s earning activity against the tier rules for a loyalty program, and to update the customer’s tier status. This process is required only if you change the tier rules in loyalty programs and want the updated rules to be retroactively applied to loyalty cards that have already been issued. This process can be run as a batch process or for individual cards. | Update loyalty card tiers            |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

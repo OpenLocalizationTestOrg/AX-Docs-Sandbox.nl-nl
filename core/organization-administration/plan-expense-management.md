@@ -1,24 +1,26 @@
 ---
-title: Configure expense management | Microsoft Docs
+title: Configure expense management
 description: This article describes the considerations and the decisions that you must make during the planning process before you configure Expense management in Microsoft Dynamics AX. In the Expense management area, you can store information about payment methods, travel requisitions, expense reports, and policies, among other things.
 author: kfend
 manager: AnnBe
-ms.date: 2015-12-11 22:56:54
+ms.date: 2015-12-11 22 - 56 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: GlobalCategory, ProjCategory, TrvLocations, TrvParameters, TrvPaymethod, TrvPerDiems
+ms.search.form: GlobalCategory, ProjCategory, TrvLocations, TrvParameters, TrvPaymethod, TrvPerDiems
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 23001
-ms.assetid: 49d55c62-7088-4bc2-a991-812ef920d4f5
-ms.region: Global
+ms.assetid: aa3fd14d-7e94-4603-985f-ca26d6f860ea
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1766a5c4c2cb3481571f3a55d3ab4aff22802f3a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 17fa2057c76b3313e292916aa93777cbbd362d74
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -132,10 +134,5 @@ You can create expense report policies so that your organization can save time a
 -   What is the policy rule?
 -   What is the outcome of the policy rule?
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

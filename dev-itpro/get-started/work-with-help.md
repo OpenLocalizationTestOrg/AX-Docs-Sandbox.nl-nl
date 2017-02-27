@@ -1,24 +1,27 @@
 ---
-title: Working with Help | Microsoft Docs
+title: Working with Help
 description: This topic describes the components of the Help system for Microsoft Dynamics 365 for Operations, and provides an overview of how to connect them and a summary of how to create custom help.
 author: margoc
 manager: AnnBe
-ms.date: 2015-12-03 22:12:49
+ms.date: 2015-12-03 22 - 12 - 49
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SystemParameters
+ms.search.form: SystemParameters
 audience: Application User, Developer, IT Pro
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 16141
-ms.assetid: ff404e0e-5b22-413c-8f4d-974ac3ee1885
-ms.region: Global
+ms.assetid: 0b9c8630-9474-4473-80fd-7db5d54b2275
+ms.search.region: Global
 ms.author: margoc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 070db80238d6472711c3978481f161a01cd27161
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 981a016ac68a85a6980d8d1fccb02ba4a7409e3b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,20 +53,15 @@ Translated task guides were shipped in the May APQC Unified Library, and the Get
 -   If a task guide has not yet been translated, when you open it, only some of the text (the text of the controls) will appear in your selected language.
 
 ## <a name="creating-custom-help"></a>Creating custom help
-You can create custom help for your Dynamics 365 for Operations implementation by creating task recordings that reflect your implementation, and saving them to an LCS Business Process Library. For partners, if you promote a library to be a corporate library, and include it in a solution, it will be available to your customers. You can also make a copy of the APQC Unified global library, and then open your copy, open task recordings from it, modify them, and save the recordings with your changes. For more information, see the topic [How to create a task recording to use as documentation or training](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)..
+You can create custom help for your Dynamics 365 for Operations implementation by creating task recordings that reflect your implementation, and saving them to an LCS Business Process Library. For partners, if you promote a library to be a corporate library, and include it in a solution, it will be available to your customers. You can also make a copy of the APQC Unified global library, and then open your copy, open task recordings from it, modify them, and save the recordings with your changes. For more information, see the topic [How to create a task recording to use as documentation or training](task-recorder.md)..
 
 <a name="see-also"></a>See also
 --------
 
-[Microsoft Dynamics AX Help – Getting started](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/system-administration/help-get-started)
+[Microsoft Dynamics AX Help – Getting started](help-get-started.md)
 
-[How to create a task recording to use as documentation or training](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)
+[How to create a task recording to use as documentation or training](task-recorder.md)
 
 [Creating New Training Libraries for Dynamics AX within Lifecycle Services using the Task Recorder (External link)](https://docs.com/mufife/163372c6-f366-4c5a-94fa-93e2c25f878a/creating-new-training-libraries-for-dynamics-ax)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

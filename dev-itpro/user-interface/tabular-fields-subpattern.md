@@ -1,22 +1,25 @@
 ---
-title: Tabular Fields subpattern | Microsoft Docs
+title: Tabular Fields subpattern
 description: This article provides information about the Tabular Fields subpattern. This subpattern is used to show information efficiently in a tabular format.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-12-03 00:51:07
+ms.date: 2015-12-03 00 - 51 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14761
-ms.assetid: 358fa6af-9272-4853-96a1-ef82bb4ed2c1
-ms.region: Global
+ms.assetid: a2c38c58-b312-44b1-bf48-c40dc8518011
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3695249a45de1575e7f797e9ea6640d45f6aff5f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 148e8070a4a5406bc71c4cafc1f7742d4de384e0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -83,10 +86,10 @@ Form: **LedgerJournalTransVendPaym** **(Balances)** (**Accounts payable** &gt; *
 ## <a name="resources"></a>Resources
 ### <a name="typically-used-by-patterns"></a>Typically used by patterns
 
--   [Simple List and Details](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/simple-list-and-details-form-pattern)
--   [Table of Contents](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/table-of-contents-form-pattern)
--   [Details Master](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/details-master-form-pattern)
--   [Details Transaction](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/details-transaction-form-pattern)
+-   [Simple List and Details](simple-list-details-form-pattern.md)
+-   [Table of Contents](table-of-contents-form-pattern.md)
+-   [Details Master](details-master-form-pattern.md)
+-   [Details Transaction](details-transaction-form-pattern.md)
 
 ## <a name="appendix"></a>Appendix
 ### <a name="frequently-asked-questions"></a>Frequently asked questions
@@ -100,10 +103,5 @@ This section will have answers to frequently asked questions that are related to
 
 -   None
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

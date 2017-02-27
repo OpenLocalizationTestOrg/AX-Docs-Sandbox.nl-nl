@@ -1,25 +1,28 @@
 ---
-title: Production order defaults in manufacturing execution | Microsoft Docs
+title: Production order defaults in manufacturing execution
 description: 
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-23 18:56:56
+ms.date: 2016-03-23 18 - 56 - 56
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JmgProdParameters
+ms.search.form: JmgProdParameters
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 70073
-ms.assetid: 76a89464-9ff7-42f7-ba09-f5f1f100e0ac
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 620944ae-3e20-444a-807e-65495f160904
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c6d0436c777db0aa3b4b675a920e4024c2d54ed5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5c08e4eabfb017ea6874a9c51e199d4f50327f46
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -66,10 +69,5 @@ Material consumption during the Report as finished process for a production orde
 -   **Always** – Quantities of materials that are proportional to the quantity that is reported as finished will always be consumed.
 -   **Never** – Quantities of materials will never be consumed.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,23 +1,25 @@
 ---
-title: Reset the financial reporting data mart after restoring a database | Microsoft Docs
+title: Reset the financial reporting data mart after restoring a database
 description: This topic describes how to reset the financial reporting data mart after restoring a Microsoft Dynamics 365 for Operations database.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-12-08 16:20:13
+ms.date: 2016-12-08 16 - 20 - 13
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 2231
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations, Core
 ms.custom: 261824
-ms.assetid: 1be0753f-f6f8-4969-b0be-eccff515b5be
-ms.region: Global
+ms.assetid: d0784b2c-fe10-428d-8d07-fd474ca50fcc
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c38323178310204041966ae7e80717da5c02778
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ac75cf0de1bac6121d6c48db91ca1509089adb30
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -55,7 +57,7 @@ These services will have open connections to the Dynamics 365 for Operations dat
 ## <a name="reset"></a>Reset
 #### <a name="locate-the-latest-dataupgradezip-package"></a>Locate the latest DataUpgrade.zip package
 
-Locate the latest DataUpgrade.zip package using the directions found in [Download the DataUpgrade.zip script](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/deployment/process-for-upgrading-ax-data-to-the-latest-dynamics-ax-update#download-the-dataupgrade-zip-script). The directions explain how to locate the correct version of the data upgrade package for your environment.
+Locate the latest DataUpgrade.zip package using the directions found in [Download the DataUpgrade.zip script](upgrade-data-to-latest-update.md#download-the-dataupgrade-zip-script). The directions explain how to locate the correct version of the data upgrade package for your environment.
 
 #### <a name="execute-scripts-against-dynamics-365-for-operations-database"></a>Execute scripts against Dynamics 365 for Operations database
 
@@ -103,10 +105,5 @@ Import your report designs from the Report Designer, using the file created duri
 
 6.  Click **Import**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

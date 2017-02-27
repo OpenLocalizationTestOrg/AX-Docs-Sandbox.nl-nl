@@ -1,24 +1,26 @@
 ---
-title: Monitor sales and margin performance | Microsoft Docs
+title: Monitor sales and margin performance
 description: You can monitor sales and margin performance in real time using Microsoft Dynamics 365 for Operations.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-05-12 18:12:18
+ms.date: 2016-05-12 18 - 12 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 85123
-ms.assetid: 76cced63-3c09-4384-bee4-ad312a3bc856
-ms.region: global
-ms.industry: Retail
+ms.assetid: ddd15820-c3e6-4607-819e-8cef744ce9c9
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: asharchw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 94aa27716173afb298f6e6e0e6614d2b5e9a0ecc
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a2c4f73e2c2223e67aa29bff4a17957047f998e0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,11 +47,6 @@ Additionally, two unique reports that take advantage of hierarchical grid struct
 -   **Pricing and discount management** workspace Dynamics 365 for Operations &gt; **Retail and commerce** &gt; **Pricing and discounts** &gt; **Retail store management** &gt; **Reports**
 -   **Inquiries and reports** section Dynamics 365 for Operations &gt; **Retail and commerce** &gt; **Inquiries and reports** &gt; **Sales reports**
 
-For more information, see [Creating next-generation reporting solutions](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/creating-nextgen-reporting-solutions).
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+For more information, see [Creating next-generation reporting solutions](create-nextgen-reporting-solutions.md).
 
 

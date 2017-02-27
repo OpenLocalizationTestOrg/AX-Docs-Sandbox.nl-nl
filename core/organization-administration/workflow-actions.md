@@ -1,23 +1,25 @@
 ---
-title: Workflow actions | Microsoft Docs
+title: Workflow actions
 description: This article explains the actions that each participant in a workflow approval process can take.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-02-29 15:15:11
+ms.date: 2016-02-29 15 - 15 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: sericks007
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 56411
-ms.assetid: bfb6b19e-b30c-44f9-8893-fc3150c2bd4e
-ms.region: Global
+ms.assetid: 65fb711c-6474-42d1-81ed-ca657c29bf1f
+ms.search.region: Global
 ms.author: tjvass
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d739874dd81cf0ac521613a41ca81ad27a6470dc
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 205434d9ae3f8867962084caccdfdaab5c036b28
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -87,10 +89,5 @@ When an approver delegates a document, the document is assigned to another user 
 ### <a name="request-change"></a>Request change
 
 When an approver requests a change to a document, the document is sent back to the originator. For example, Sam has submitted an expense report for USD 12,000, and this document is assigned to Sue. If Sue requests a change, the expense report is sent back to Sam. Sam can resubmit the expense report. He can make the requested changes first, or he can resubmit the original version of the expense report. If Sam resubmits the expense report, it's sent to Frank for approval, because Frank is the first approver in the approval process.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

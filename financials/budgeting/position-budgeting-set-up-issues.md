@@ -1,24 +1,26 @@
 ---
-title: Position budgeting troubleshooting | Microsoft Docs
+title: Position budgeting troubleshooting
 description: This article provides answers to questions that you might have when you configure position budgeting. It addresses frequently asked questions about how to create budget cost elements, compensation groups, and compensation grids.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-05-20 18:29:23
+ms.date: 2016-05-20 18 - 29 - 23
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmBudgetPurposeType, HcmPositionForecast
+ms.search.form: HcmBudgetPurposeType, HcmPositionForecast
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 88253
-ms.assetid: d766a678-573e-4998-8aca-fc83d3d2d39a
-ms.region: Global
+ms.assetid: c44df01b-8700-4022-b4c6-c4b1cb84d31d
+ms.search.region: Global
 ms.author: ryansand
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1ce4ddba0fdeefaf38eedfe97819edd7b355c4c2
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b5674375f875cd6a8ac06293300a44b4bb0f70d7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -57,10 +59,5 @@ The dates on the forecast position cost element line must be within the followin
 -   The activation and expiration dates of the budget cost element.
 -   The start and end dates of the budget cycle that is associated with the budget planning process of the forecast position.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

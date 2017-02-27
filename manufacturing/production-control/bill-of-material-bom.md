@@ -1,25 +1,28 @@
 ---
-title: Bills of materials and formulas | Microsoft Docs
+title: Bills of materials and formulas
 description: This article provides information about bills of materials (BOMs) and formulas, which are a central part of the definition of products and product variants. BOMs and formulas specify the required materials or ingredients for a specific product. Formulas also specify the co-products and by-products that are received in a specific production context.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:18:57
+ms.date: 2015-12-07 09 - 18 - 57
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMConsistOf, BOMDesigner, BOMTable, EcoResProductProcessManufacturingWorkspace
+ms.search.form: BOMConsistOf, BOMDesigner, BOMTable, EcoResProductProcessManufacturingWorkspace
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19331
-ms.assetid: d6b0ab1e-90aa-435c-a23e-a099ee81c97e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: c19b437a-2de2-4728-9477-2bcb0c2b1f5e
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f208dd2dc7c6a9b525ac22f30508be98b7628441
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6d7d49e748fcf9b65a26fa629559db6dc3bacccc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -97,10 +100,5 @@ Select the **Pegged supply** line type when you want to create a subproduction, 
 ### <a name="vendor"></a>Vendor
 
 Select the **Vendor** line type if the production process uses a subcontractor, and you want a subproduction or purchase order to be created automatically for the subcontractor. **Note about subcontracted operations in a BOM:** The service or work that is performed by the subcontractor must be created as service item that is tracked in inventory. You must attach the service item to the parent item as a BOM line. The route must contain an operation that is assigned to the subcontractor's operations resource.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

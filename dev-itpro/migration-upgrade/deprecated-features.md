@@ -1,23 +1,25 @@
 ---
-title: Deprecated features | Microsoft Docs
+title: Deprecated features
 description: This topic describes features that have been removed, or are planned for removal, from Dynamics 365 for Operations. It also lists features that were deprecated in Dynamics AX 7.0 releases.
 author: sericks007
 manager: AnnBe
-ms.date: 2015-12-11 19:53:55
+ms.date: 2015-12-11 19 - 53 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, Developer, IT Pro
-ms.reviewer: sericks007
-ms.suite: Released- Dynamics AX platform update 2
+ms.search.scope: Operations, Platform
 ms.custom: 21821
-ms.assetid: cde1d74d-9f9e-4b68-a691-1f03cf1e5c70
-ms.region: Global
+ms.assetid: 31019808-4cbf-47d7-b1ba-d791db4281ae
+ms.search.region: Global
 ms.author: sericks
+ms.dyn365.ops.intro: 01-08-2016
+ms.dyn365.ops.version: Platform update 2
 translationtype: Human Translation
-ms.sourcegitcommit: f93e5e6c91b62ee2970869a2e9e183c75cd2b7fc
-ms.openlocfilehash: 486c30ee1f05aed0ece6d36f71b2ce4ea91445b6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8c271b2d4cc630a6de31a104d78eba23f31bc4c4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -784,10 +786,5 @@ Human Resources Payroll information
 | Modules affected             | General ledger                                                                              |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

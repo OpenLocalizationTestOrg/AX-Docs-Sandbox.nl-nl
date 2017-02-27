@@ -1,24 +1,27 @@
 ---
-title: Centralized payments for Accounts receivable | Microsoft Docs
+title: Centralized payments for Accounts receivable
 description: Organizations that include multiple legal entities can create and manage payments by using a single legal entity that handles all payments. Therefore, the same transaction doesn&quot;t have to be entered in multiple legal entities. This article provides examples that show how posting for centralized payments is handled in various scenarios.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:08:24
+ms.date: 2015-12-02 23 - 08 - 24
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransCustPaym
+ms.search.form: LedgerJournalTransCustPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14151
-ms.assetid: 830f8115-b84a-4ef9-8138-bc1127c9922b
-ms.region: Global
+ms.assetid: 3d43ba40-780c-459a-a66f-9a01d556e674
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: da2ff79d08fd006599465483cd532ea5a26cdc8f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b1ca086ae5b8c161b40485a93412a117c852203b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -290,10 +293,5 @@ Fabrikam receives a payment of 75.00 from customer 4000, Northwind Traders. The 
 | Accounts receivable (Fabrikam West)    |              | 25.00         |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

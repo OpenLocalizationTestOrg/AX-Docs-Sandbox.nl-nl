@@ -1,23 +1,26 @@
 ---
-title: Income statement financial report | Microsoft Docs
+title: Income statement financial report
 description: This article describes the default report for income statements. It also describes the building blocks that are associated with this report.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-11-04 19:35:20
+ms.date: 2015-11-04 19 - 35 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12294
-ms.assetid: d91a6bb8-63ec-4456-93c4-29c8789fb26d
-ms.region: Global
+ms.assetid: 30820be0-d943-4f8b-8c25-6414ec393b3d
+ms.search.region: Global
 ms.author: jcart
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7c75cfae15fd975778e6617e270bc3abfe7bb236
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: aaaa3afd03173a550f6157cea51f443dd9f0dd53
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -58,15 +61,10 @@ The column definitions contain different types of columns to provide different l
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)
+[Financial reporting](financial-reporting-getting-started.md)
 
-[View financial reports](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports)
+[View financial reports](view-financial-reports.md)
 
 [Dynamics Financial Reportign Blog](http://blogs.msdn.com/b/dynamics_financial_reporting/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,28 @@
 ---
-title: Kanban transfer board support for barcode scanners | Microsoft Docs
+title: Kanban transfer board support for barcode scanners
 description: The Kanban transfer board supports scanner input from a widget barcode scanner to Select, Start, Complete, and Empty a kanban job.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:21:01
+ms.date: 2015-12-07 09 - 21 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KanbanBoardTransferJob
+ms.search.form: KanbanBoardTransferJob
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19391
-ms.assetid: 80aa1ba7-4655-4d95-9cdb-12e537754e73
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: a426f645-d59b-4c98-8d78-eba8d64a562e
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: crytt
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 129aba706c2dc5962b809161b3282b1c8d163b92
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4293bfcb539ed96fd4c1d30b79ec0f1d22abd2a0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -184,10 +187,5 @@ The status of the selected job and the status of any pegged jobs for event kanba
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

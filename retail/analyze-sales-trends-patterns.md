@@ -1,24 +1,26 @@
 ---
-title: Analyze sales trends and patterns | Microsoft Docs
+title: Analyze sales trends and patterns
 description: You can study sales trends and patterns in real time in Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-05-12 18:15:25
+ms.date: 2016-05-12 18 - 15 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 85183
-ms.assetid: 1dd8c27e-a9c1-4bc0-8768-438352fe627d
-ms.region: Global
-ms.industry: Retail
+ms.assetid: df9c62a2-6f13-4a08-bdca-07d041172c1b
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: asharchw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1d08d51ec23ffbdff764dcd175e4bde0b7a2d027
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 40dc733d8258b56cfa3f033b20fd622fe93f0207
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -39,11 +41,6 @@ Users can also study sales trends and patterns by hour across different levels o
 -   **Retail store financials** workspace Dynamics 365 for Operations &gt; **Retail and commerce** &gt; **Channels** &gt; **Retail store financials** &gt; **Reports** &gt; **Channel sales by hour report**
 -   **Inquiries and reports** section Dynamics 365 for Operations &gt; **Retail and commerce** &gt; **Inquiries and reports** &gt; **Sales reports** &gt; **Channel sales by hour report**
 
-For more information, see [Creating next-generation reporting solutions](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/creating-nextgen-reporting-solutions).
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+For more information, see [Creating next-generation reporting solutions](create-nextgen-reporting-solutions.md).
 
 

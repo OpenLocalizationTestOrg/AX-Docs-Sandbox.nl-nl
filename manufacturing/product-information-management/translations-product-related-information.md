@@ -1,33 +1,34 @@
 ---
-title: Product-related translations FAQ | Microsoft Docs
+title: Product-related translations FAQ
 description: This topic describes how to manage translations for products, product dimension values, and product attributes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-07 08:37:18
+ms.date: 2016-10-07 08 - 37 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SysTranslationDetail, SysTranslationLanguage, SysTranslationList
+ms.search.form: SysTranslationDetail, SysTranslationLanguage, SysTranslationList
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 201853
-ms.assetid: 111f2f46-8fc6-4a86-91c2-b5156837dced
-ms.region: global
-ms.industry: Product information
+ms.assetid: c0286bba-f54b-42de-904c-81fd796bdd1d
+ms.search.region: global
+ms.search.industry: Product information
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 37c6ea020ae0dd404c9c9b8f26efab28abd08c5c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 471c516d4d3e11493a476ef8e0114fe0659575e8
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="product-related-translations-faq"></a>Product-related translations FAQ
 
-This topic describes how to manage translations for products, product dimension values, and product attributes.
-
+This topic describes how to manage translations for products, product dimension values, and product attributes. 
 
 <a name="what-product-related-data-can-be-translated"></a>What product-related data can be translated?
 --------------------------------------------
@@ -110,10 +111,5 @@ To manage translations for values in a dimension value group, follow these steps
 Translations of product-related information can be managed at any time. When translations are updated for a dimension value that is associated with a product, the product information is updated, regardless of whether the product has transactions.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

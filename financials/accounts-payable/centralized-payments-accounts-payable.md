@@ -1,24 +1,27 @@
 ---
-title: Centralized payments for Accounts payable | Microsoft Docs
+title: Centralized payments for Accounts payable
 description: Organizations that include multiple legal entities can create and manage payments by using a single legal entity that handles all payments. Therefore, the same payments don&quot;t have to be entered in multiple legal entities. This article provides examples that show how posting for centralized payments is handled in various scenarios.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:23:08
+ms.date: 2015-12-02 23 - 23 - 08
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14341
-ms.assetid: 58a463df-554e-41c9-ae65-b186340dd37a
-ms.region: Global
+ms.assetid: 7bd02e32-2416-4ac6-8a60-85525267fdb7
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7f24db922d0461090ca4149ebd75a5144530d5c6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0f8c4df2156114571a91039bb424b25df9044dc9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -290,10 +293,5 @@ Fabrikam generates a payment of 75.00 for vendor 3004, Fourth Coffee. The paymen
 | Due to Fabrikam East (Fabrikam West) |              | 25.00         |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

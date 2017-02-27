@@ -1,24 +1,26 @@
 ---
-title: Item and raw material tracing in inventory, production, and sales | Microsoft Docs
+title: Item and raw material tracing in inventory, production, and sales
 description: This topic describes how you can use item tracing to identify where items or raw materials have been used, are being used, or will be used in production and sales processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-28 15:00:11
+ms.date: 2016-01-28 15 - 00 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventTrackingDimTracing, InventTrackingDimTracingCriteria
+ms.search.form: InventTrackingDimTracing, InventTrackingDimTracingCriteria
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 30191
-ms.assetid: 5ca3ff70-a6ae-4a3a-9f09-27f99126f899
-ms.region: Global
+ms.assetid: fdd0939a-855c-430f-a684-94f3baea1df4
+ms.search.region: Global
 ms.author: pjacobse
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4f247b48c5a4d52e939686868f60e3212ed3d825
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 35120c946554251698b8f72ddc13f4c4b98dee24
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -136,10 +138,5 @@ You can generate the **Shipped to customers** report to identify the amount of t
 
 ## <a name="can-i-trace-coproducts-and-byproducts"></a>Can I trace coproducts and byproducts?
 You can trace co-products, but you can’t trace a by-product, because tracking dimensions aren't typically assigned to by-products. When you trace an item, the trace details include any related co-products. A node that contains a co-product includes the word “co-product” in the details. You can also view details about a co-product by selecting the node in the trace details and then clicking the **Production** FastTab.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,23 +1,26 @@
 ---
-title: Budget planning overview | Microsoft Docs
+title: Budget planning overview
 description: This article introduces budget planning, and contains information to help you configure budget planning and set up budget planning processes.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 16:42:47
+ms.date: 2015-12-04 16 - 42 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 17251
-ms.assetid: ab95354d-3877-4dab-9d1f-eec27658d903
-ms.region: Global
+ms.assetid: a2e06633-a800-4840-a962-88fed8462104
+ms.search.region: Global
 ms.author: sigitac
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1c43fc7f49c72c089d0b78713c6d8c069624fb79
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9a282d707a66b16b42abff7c868606944b567bcb
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -61,7 +64,7 @@ An optional but recommended first step is to create a schema that shows your org
 
 ###  <a name="organization-hierarchy-for-budget-planning"></a>Organization hierarchy for budget planning
 
-On the **Organization hierarchy** page, you can designate an organization hierarchy as a budget planning hierarchy for each budget planning process. The budget planning hierarchy doesn't have to match the standard organization hierarchy that is used for other purposes. Because this hierarchy is used to aggregate and distribute data, you might want it to have a different structure. In the example schema, the sales departments are under a headquarters level that includes budget and finance departments. This structure likely differs from the structure that is used to manage operations for the sales departments. Only one organization hierarchy can be assigned to each budget planning process. For more information, see [Organizations and organizational hierarchies](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/about-organizations-and-organizational-hierarchies).
+On the **Organization hierarchy** page, you can designate an organization hierarchy as a budget planning hierarchy for each budget planning process. The budget planning hierarchy doesn't have to match the standard organization hierarchy that is used for other purposes. Because this hierarchy is used to aggregate and distribute data, you might want it to have a different structure. In the example schema, the sales departments are under a headquarters level that includes budget and finance departments. This structure likely differs from the structure that is used to manage operations for the sales departments. Only one organization hierarchy can be assigned to each budget planning process. For more information, see [Organizations and organizational hierarchies](organizations-organizational-hierarchies.md).
 
 ### <a name="user-security"></a>User security
 
@@ -112,10 +115,5 @@ The descriptions that you can assign in the **Layouts** section are used to disp
 
 ## <a name="setting-up-budget-planning-processes"></a>Setting up budget planning processes
 After you've finished configuring budget planning, you can set up budget planning processes on the **Budget planning process** page. Budget planning processes are sets of rules that determine how budget plans can be updated, routed, reviewed, and approved in the budgeting organization hierarchy. For each budget planning process, you first select a budget cycle and a ledger. Each budget planning process is related to only one budget cycle and one ledger. Then select the budget organization hierarchy on the **Budget planning process administration** FastTab, and assign a budget planning workflow to all the responsibility centers in the organization that appear in the grid. To assign or change the budget planning workflow for similar responsibility centers, click **Assign workflow**, and then select the organization type to target and the budget planning workflow to use. The Budgeting workflow ID that is associated with each budget planning workflow is automatically added to the grid. When you define the stage rules and templates on the **Budget planning stage rules and layouts** FastTab, you can define a different set of rules and default layouts for each budget planning stage. For example, the Sales department Estimate stage can let users modify the lines in a budget plan but prohibit users from adding lines. The Submitted stage can let users view lines, but not add or modify them, because the work at that stage has been completed, and changes to the budget plans must be prevented. To select the layouts that are available for budget plans, click **Alternate layouts**. You can optionally select budget planning priorities on the **Budget plan priority constraints** FastTab. Priorities can then be selected on budget plans. The final step is to activate the budget planning process via the **Actions** menu A budget planning process can't be used until it has been activated. On the **Actions** menu, you can also create a new process by copying an existing process. This feature is useful for organizations that follow the same process flow each budget cycle, and make few changes or no changes. Another useful command on the **Actions** menu is **View budget process status**. This command graphically displays the budget plans within a process, together with relevant data, such as the plans’ workflow status, summaries by amount and by unit, and one-click navigation to the budget plans themselves. [![Budget planning process status](./media/budgetplanningprocessstatus-300x171.png)](./media/budgetplanningprocessstatus.png)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

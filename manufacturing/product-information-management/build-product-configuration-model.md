@@ -1,25 +1,27 @@
 ---
-title: Build a product configuration model | Microsoft Docs
+title: Build a product configuration model
 description: The need to configure products to meet special requirements is becoming the rule rather than the exception, in both business-to-business and business-to-consumer relationships.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-31 12:51:10
+ms.date: 2016-03-31 12 - 51 - 10
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PCProductConfigurationModelDetails
+ms.search.form: PCProductConfigurationModelDetails
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 75083
-ms.assetid: 1420ae5b-65fc-48b3-bb7c-fad3aee5670e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: f08072b8-cb0b-43aa-9509-f5ec32caecd9
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a2882740138c921d3271ebc171cb57d29f3ccc6d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c51083c7acb96b277fc92e676e603a73e6ede79e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -123,10 +125,5 @@ The purpose of the configuration is to create a distinct variant of the product 
 ### <a name="multiple-sites-and-intercompany"></a>Multiple sites and intercompany
 
 If configuration will be done at a site, or even a company, that differs from the site or company where production will occur, the BOM and the route will be created for and put at the supplier site in the supplying company. The product variant will be released in all companies that participate in the supply chain.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

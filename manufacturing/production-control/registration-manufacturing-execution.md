@@ -1,25 +1,28 @@
 ---
-title: Registration for manufacturing execution | Microsoft Docs
+title: Registration for manufacturing execution
 description: This topic describes key concepts and terms that you need to understand to configure and use manufacturing execution.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-23 18:57:11
+ms.date: 2016-03-23 18 - 57 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JmgRegistration
+ms.search.form: JmgRegistration
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 70103
-ms.assetid: e62f89b7-8ade-46df-a61d-a3edd7b394f8
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 52ba1cdd-767f-4edd-896f-61adce8479d3
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5ad77037c98e696cb8760fe43da5ed261dc0a8e7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8492971ebb6164f388d6230139ca8bc8babd7d31
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -55,10 +58,5 @@ Workers can make various types of registrations in manufacturing execution for w
 -   **Register indirect activities** (available with time and attendance) – Indirect activities are nonproductive activities that workers might engage in during a workday, such as a department meeting, a team meeting, or a maintenance job that is performed on the shop floor. Workers can make registrations on the indirect activities that are set up.
 -   **Register overtime** (available with time and attendance) – Workers who have been asked to work longer hours can select whether the extra hours should be registered as flextime or overtime.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Settle a partial vendor payment and the final payment in full before the discount date | Microsoft Docs
+title: Settle a partial vendor payment and the final payment in full before the discount date
 description: This article walks you through a scenario where partial payments are made for a vendor invoice, and a cash discount is taken.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:27:48
+ms.date: 2015-12-02 23 - 27 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14431
-ms.assetid: a0297f6c-6ae3-4c90-9cf2-390b4f7ad24a
-ms.region: Global
+ms.assetid: 6b8e3420-b4c9-4e02-9588-598fe6d3df0d
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bc1cf3ed9a1f14fb48f043d2b3b3ac5161fe6d6a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6431b4f7ba38b25479b164d3cfe647079ef8f9c6
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -135,10 +138,5 @@ April posts the payment journal and reviews the vendor transactions on the **Ven
 | DISC-10011 | Cash discount    | 7/8/2015  |         | 5.00                                 |                                       | 0.00    | USD      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

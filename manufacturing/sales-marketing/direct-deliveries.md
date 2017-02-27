@@ -1,24 +1,27 @@
 ---
-title: Direct deliveries | Microsoft Docs
+title: Direct deliveries
 description: This article provides information about direct deliveries. Direct deliveries are deliveries that are sent directly from the vendor to your customer.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-21 07:43:17
+ms.date: 2015-09-21 07 - 43 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchCreateFromSalesOrder, SalesTable
+ms.search.form: PurchCreateFromSalesOrder, SalesTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 9704
-ms.assetid: ee34d38e-54e2-43c1-ba10-58e8d7826766
-ms.region: Global
+ms.assetid: 64c51384-8a4e-45d0-83c1-12cea22902f9
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 082d4f236bb0fefafab42d3dacd6389d1e0c8f7d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 920056e71845feeba78eeb6f5c87ddc0df93b0d2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +43,5 @@ If you try to delete a sales order line that has a delivery type of **Direct del
 
 ## <a name="warehouse"></a>Warehouse
 When you create a direct delivery, the items that you sell never physically arrive at your warehouse. However, you must still specify a warehouse on the sales order line. Similarly, picking requirements might be specified on the item model group for the item. However, because the items never physically arrive at your warehouse, these requirements are ignored when the sales order is a direct delivery.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

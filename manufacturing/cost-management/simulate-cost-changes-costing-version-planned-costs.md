@@ -1,25 +1,27 @@
 ---
-title: Simulate cost changes by using a costing version for planned costs | Microsoft Docs
+title: Simulate cost changes by using a costing version for planned costs
 description: "This article explains how you can simulate the effects of cost changes on a manufactured item’s calculated costs by using a separate costing version for planned costs."
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-05 14:44:20
+ms.date: 2016-04-05 14 - 44 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostingVersion
+ms.search.form: CostingVersion
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78183
-ms.assetid: 0cc31c48-d46d-45c0-be27-2679b7220a49
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 1e41953f-cdb9-4598-b776-46e49383a773
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1a156fecdb9ad8f5b420d005699cf7e98ffa103d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4b227fa3c1071726dcd7c4c01a55733399394a16
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -52,10 +54,5 @@ The following scenarios illustrate how the simulation costing version is used to
 -   Simulate the cost change in an indirect cost calculation formula. For example, the cost change might reflect an expected increase or decrease in manufacturing overhead. To define the change in an indirect cost calculation formula, use the **Costing sheet setup** page to enter a pending cost record in the simulation of costing version, and to validate and save the change.
 
 After you enter the simulated cost changes, calculate the costs for manufactured items that are affected by the cost changes. Use the **Calculation** page for the simulation costing version, and identify the selected manufactured items that will be affected by the cost changes. The BOM calculations apply to all manufactured items unless you select specific items. Alternatively, you can use the BOM calculation option for where-used updates. View the item cost records in the simulation costing version to analyze how the simulated cost changes affected the costs of the selected manufactured items. Use the **Item price** page and the **Calculate item cost** page to view and analyze the costs.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

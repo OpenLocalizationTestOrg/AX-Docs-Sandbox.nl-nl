@@ -1,24 +1,27 @@
 ---
-title: Customer posting profiles | Microsoft Docs
+title: Customer posting profiles
 description: Customer posting profiles control the posting of customer transactions to the general ledger.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-12 19:13:19
+ms.date: 2015-12-12 19 - 13 - 19
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustPosting
+ms.search.form: CustPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 24651
-ms.assetid: 4ccc6bf5-6348-41f4-ab14-e3cb813ec9c1
-ms.region: Global
+ms.assetid: cb82245e-8c02-429c-b36e-8db0e3e6f7e5
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 234f839f2289b39f708a2866e68c9082c49af39f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 83dbea8772ae2f90a13951a6902d2158f76f3ac9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -135,10 +138,5 @@ Specify the following values to set up your posting profile:
 | **Close**             | Select a posting profile to change to when transactions that have this posting profile are closed. A transaction is regarded as closed when it has been settled in full.                                                                           |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

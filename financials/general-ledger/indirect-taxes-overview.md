@@ -1,24 +1,27 @@
 ---
-title: Sales tax overview | Microsoft Docs
+title: Sales tax overview
 description: This article provides an overview of the sales tax system. It explains the elements of the sales tax setup and how they work together.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-01 16:58:30
+ms.date: 2015-12-01 16 - 58 - 30
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxAuthority, TaxPeriod, TaxTable
+ms.search.form: TaxAuthority, TaxPeriod, TaxTable
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13111
-ms.assetid: 28c267ad-784c-47b8-9ed8-f75c7d14fa5d
-ms.region: Global
+ms.assetid: fe5fdc7f-9834-49fb-a611-1dd9c289619d
+ms.search.region: Global
 ms.author: vstehman
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 191c1c05c6b1b8d9718e1233fa3f1ae1f7eb859e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 17cad3c043b9c4bf9150c470690223bed7e78b54
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,6 +53,22 @@ On every transaction (sales/purchase document lines, journals, and so on), you m
 ## <a name="sales-tax-settlement-and-reporting"></a>Sales tax settlement and reporting
 Sales tax must be reported and paid to tax authorities at regulated intervals (monthly, quarterly, and so on). Microsoft Dynamics 365 for Operations provides functionality that lets you settle tax accounts for the interval and offset the balances to the tax settlement account, as specified in the ledger posting groups. You can access this functionality on the **Settle and post sales tax** page. You must specify the sales tax settlement period that sales tax should be settled for. After the sales tax has been paid, the balance on the sales tax settlement account should be balanced against the bank account. If the sales tax authority that is specified on the sales tax settlement period is related to a vendor account, the sales tax balance is posted as an open vendor invoice and can be included in the regular payment proposal.
 
+## <a name="conditional-sales-tax"></a>Conditional sales tax
+Conditional sales tax is a sales tax that is paid proportionally to the actual amount that is paid on an invoice. Conversely, standard sales tax is calculated at invoicing time. Conditional sales tax must be paid to the sales tax authority when the payment is posted, not when the invoice is posted. When the invoice is posted, the transaction must be reported on the sales tax book report. However, the transaction must be excluded from the sales tax payment report. If you select the Conditional sales tax check box in the General ledger parameters form, no sales tax can be deducted until you have paid the invoice. This is a legal requirement in some countries/regions.
+| **Note**                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| When you select the Conditional sales tax check box, you must set up sales tax codes and sales tax groups, and also create ledger posting groups, to support the functionality. |
+
+###  <a name="example"></a>Example
+
+You settle sales taxes each month. On June 15, you create a customer invoice of 10,000, plus sales tax.
+-   The sales tax is 25 percent, or 2,500.
+-   The invoice payment is due July 30.
+
+You typically would have to settle and pay 2,500 to the tax authority when the invoice is posted in June, even though you have not received the payment from the customer. However, if you are using a conditional sales tax, you settle with the tax authority when you receive the payment from the customer on July 30.
+
+
+
 <a name="see-also"></a>See also
 --------
 
@@ -60,10 +79,5 @@ Sales tax must be reported and paid to tax authorities at regulated intervals (m
 [Set up sales tax groups and item sales tax group](http://ax.help.dynamics.com/en/wiki/set-up-sales-tax-groups-and-item-sales-tax-groups/)
 
 [Create a sales tax payment](http://ax.help.dynamics.com/en/wiki/create-a-sales-tax-payment/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

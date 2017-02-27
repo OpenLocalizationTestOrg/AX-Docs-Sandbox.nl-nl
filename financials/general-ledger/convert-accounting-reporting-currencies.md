@@ -1,23 +1,26 @@
 ---
-title: Convert accounting or reporting currencies | Microsoft Docs
+title: Convert accounting or reporting currencies
 description: 
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-04-05 14:45:05
+ms.date: 2016-04-05 14 - 45 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78223
-ms.assetid: a619d9e4-8f41-4452-a81c-f1f134215856
-ms.region: Global
+ms.assetid: 31c56f9a-9c64-40a2-90e3-1969a760614b
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 210b7675e8c8b0a237068f7f55a11aaf9609b667
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0b317971171f8039719d52917f7d5f5226839638
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -70,10 +73,5 @@ After the currency conversion, you must generate all reconciliation reports agai
 -   If the customer and vendor reconciliation reports display a difference amount on the total line, and no difference amount existed before the conversion, this difference amount must be posted. The account is the summary account for customers and vendors. The offset account is the ledger account for conversion loss or conversion profit.
 
 When all ledger transaction journals have been deleted, you can journalize the ledger transactions. Click **General ledger** &gt; **Periodic** &gt; **Journals** &gt; **Journalizing**. You can revalue foreign currency amounts after the currency conversion, if revaluation is required. You revalue foreign currency amounts by selecting **Standard** in the **Method** field for the revaluation.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

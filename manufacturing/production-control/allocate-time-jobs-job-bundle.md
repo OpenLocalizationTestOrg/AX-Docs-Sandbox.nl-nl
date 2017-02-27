@@ -1,25 +1,28 @@
 ---
-title: Allocate time to jobs in a job bundle | Microsoft Docs
+title: Allocate time to jobs in a job bundle
 description: In Manufacturing execution, you can bundle jobs. You can then start multiple jobs at the same time on the Job list page.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-25 13:04:25
+ms.date: 2016-02-25 13 - 04 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JmgBundleSlize, JmgProdParameters, JmgRegistration
+ms.search.form: JmgBundleSlize, JmgProdParameters, JmgRegistration
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 55591
-ms.assetid: f48f9381-04b5-49f9-bdc9-4646511881ea
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 358efce7-73c8-4d2a-a7f7-cb99b88ab6ee
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5b4812e74227520b2d97c4f2a17332f37e6cb11e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 23c33365756232e8355e1ba11b119dc1b20df9ce
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -104,10 +107,5 @@ Consider the three jobs that are performed by a worker who has an hourly wage of
 | Job 3 | (3.33 ÷ 5) × USD 12.00                 | USD 8.00                | 5 hours        | USD 40.00         |
 
 The corrected cost per hour and the job time are posted in a production journal. **Note:** If you select the **Cost category** option on the **General** tab on the **Production order defaults** page, the actual time for each job is transferred to a production journal, where the cost is applied to the cost category of the specific job.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

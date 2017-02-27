@@ -1,24 +1,27 @@
 ---
-title: Reduce balance depreciation | Microsoft Docs
+title: Reduce balance depreciation
 description: This article gives an overview of the Reducing balance method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 20:42:33
+ms.date: 2015-09-10 20 - 42 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3281
-ms.assetid: d7fd2eed-43e0-4cc6-93ce-45a94de4c4ce
-ms.region: Global
+ms.assetid: 1b86763d-d47c-4a6a-a9a6-d97a736750da
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5d9bea13b099443b1fb5ad6f08a661071414425a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a2d4f2e6d1ea2c957a5965d3211a5425ab07dd9d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -66,10 +69,5 @@ Suppose that the fixed asset acquisition price is 11,000, the scrap value is 1,0
 -
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

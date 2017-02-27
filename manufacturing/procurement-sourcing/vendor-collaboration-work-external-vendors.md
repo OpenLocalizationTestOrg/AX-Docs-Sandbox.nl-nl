@@ -1,23 +1,25 @@
 ---
-title: Vendor collaboration with external vendors | Microsoft Docs
+title: Vendor collaboration with external vendors
 description: This topic describes how purchasing agents can collaborate with external vendors to exchange information about purchase orders and consignment inventory.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-31 15:54:54
+ms.date: 2016-10-31 15 - 54 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 221264
-ms.assetid: 0cf724fc-dfc2-4c28-879c-ba009c8b7dec
-ms.region: Global
+ms.assetid: dde49743-1541-4353-a030-63ca3069cd7d
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c10cccad031267bd33f534b90ccea104730c466a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5d306434c24cd9df3e54b348d39c75c7e0499974
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -26,7 +28,7 @@ ms.openlocfilehash: c10cccad031267bd33f534b90ccea104730c466a
 
 This topic describes how purchasing agents can collaborate with external vendors to exchange information about purchase orders and consignment inventory.
 
-The **Vendor collaboration** module is targeted at vendors who don’t have electronic data interchange (EDI) integration with Microsoft Dynamics 365 for Operations. It allows vendors to work with purchase order, invoice, and consignment inventory information. This topic describes how you can collaborate with external vendors who are using the vendor collaboration interface to work with POs and consignment inventory. It also describes how to enable a specific vendor to use vendor collaboration, and how to define the information that all vendors will see when they respond to a PO. For more information about what external vendors can do in the vendor collaboration interface, see [Vendor collaboration with customers](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations). For more information about how vendors can use vendor collaboration in invoicing processes, see [Vendor collaboration invoicing workspace](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-portal-invoicing-workspace). For information about how to provision new vendor collaboration users, see [Manage vendor collaboration users](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/manage-vendor-collaboration-users).
+The **Vendor collaboration** module is targeted at vendors who don’t have electronic data interchange (EDI) integration with Microsoft Dynamics 365 for Operations. It allows vendors to work with purchase order, invoice, and consignment inventory information. This topic describes how you can collaborate with external vendors who are using the vendor collaboration interface to work with POs and consignment inventory. It also describes how to enable a specific vendor to use vendor collaboration, and how to define the information that all vendors will see when they respond to a PO. For more information about what external vendors can do in the vendor collaboration interface, see [Vendor collaboration with customers](vendor-collaboration-work-customers-dynamics-365-operations.md). For more information about how vendors can use vendor collaboration in invoicing processes, see [Vendor collaboration invoicing workspace](vendor-portal-invoicing-workspace.md). For information about how to provision new vendor collaboration users, see [Manage vendor collaboration users](manage-vendor-collaboration-users.md).
 
 ## <a name="define-the-information-shown-to-vendors-when-they-respond-to-pos"></a>Define the information shown to vendors when they respond to POs
 When vendors respond to a PO that you send them, they see a dialog box where they need to confirm that they want to accept, reject, or accept the PO with changes. The information that needs to be shown to the vendor at that point may be specific for your business, so you can specify the text that will show on each of the three confirmation messages. For example, the text could inform the vendor about the next steps in the process, or about terms and conditions. To define the text that's shown in the PO response:
@@ -157,10 +159,5 @@ If you’re using consignment inventory, vendors can use the vendor collaboratio
 -   **Products received from consignment inventory** - This page lists all the transactions where the ownership of products has been transferred from the vendor to your company. Vendors can use this information to invoice the customer.
 -   **On-hand consignment inventory** - This page shows the vendor owned on-hand consignment inventory that has been received at your warehouse.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

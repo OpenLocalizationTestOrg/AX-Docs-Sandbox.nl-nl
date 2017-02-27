@@ -1,23 +1,25 @@
 ---
-title: Purchase spend analysis content pack for Power BI | Microsoft Docs
+title: Purchase spend analysis content pack for Power BI
 description: This topic describes what is included in the Purchase spend analysis content pack for Microsoft Power BI. It explains how to access the reports that are included in the content pack, and provides information about the data model and entities that are used to build the content pack.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-12-30 09:40:51
+ms.date: 2016-12-30 09 - 40 - 51
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations, Core
 ms.custom: 265434
-ms.assetid: 368b0cad-0089-4ef6-b7c1-87abe17bcf8f
-ms.region: global
+ms.assetid: 3cd9dfce-2687-4303-bc78-349e7cb5ea75
+ms.search.region: global
 ms.author: fdahl
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a441781e780e7c9b6c154cb1d923ff38a3481fa1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cf5cedcd81b94aaccb58aaad629b3dbfd4e3e60c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,7 +37,7 @@ The Purchase spend analysis content pack for Microsoft Power BI was created for 
 -   Year-over-year purchase change (by vendor group and procurement category)
 
 ## <a name="accessing-the-content-pack"></a>Accessing the content pack
-The Purchase spend analysis content pack is published as an implementation asset in Microsoft Dynamics Lifecycle Services (LCS) and can be accessed from Microsoft Dynamics 365 for Operations. For more information about how to access and open Power BI reports, see the [Authoring and distributing Power BI reports with Dynamics](https://blogs.msdn.microsoft.com/dynamicsaxbi/2016/06/23/authoring-and-distributing-power-bi-reports-with-dynamics-ax7/) blog post.
+The Purchase spend analysis content pack is published as an implementation asset in Microsoft Dynamics Lifecycle Services (LCS) and can be accessed from Microsoft Dynamics 365 for Operations. For more information about how to access and open Power BI reports, see [Power BI content in LCS from Microsoft and your partners](power-bi-content-microsoft-partners.md).
 
 ## <a name="metrics-that-are-included-in-the-content-pack"></a>Metrics that are included in the content pack
 The Purchase spend analysis content pack includes a report that consists of a set of metrics. These metrics are visualized as charts, tiles, and tables. The following table provides an overview of the visualizations in the content pack.
@@ -156,15 +158,10 @@ By default, the content pack shows data for the current calendar year. However, 
 ## <a name="additional-resources"></a>Additional resources
 Here are some helpful links that are related to entities and building Power BI content:
 
--   [Data entities](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/data-entities/data-entities)
+-   [Data entities](data-entities.md)
 -   [Creating organizational content packs](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-organizational-content-packs-introduction/)
 -   [Data modeling using Power BI](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-2-1-intro-modeling-data)
--   [Adding Power BI tiles to workspaces](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-powerbi-integration)
+-   [Adding Power BI tiles to workspaces](configure-power-bi-integration.md)
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

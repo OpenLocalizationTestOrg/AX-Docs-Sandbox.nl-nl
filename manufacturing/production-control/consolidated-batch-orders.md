@@ -1,25 +1,28 @@
 ---
-title: Consolidated batch orders | Microsoft Docs
+title: Consolidated batch orders
 description: This article describes the concept of consolidated batch orders.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:17:20
+ms.date: 2015-12-07 09 - 17 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PmfAddToConsOrder, PmfBulkItemConv, PmfBulkPackOnHand, PmfConsOrderListPage
+ms.search.form: PmfAddToConsOrder, PmfBulkItemConv, PmfBulkPackOnHand, PmfConsOrderListPage
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19291
-ms.assetid: 8cd9ca77-6b50-4540-b8ee-353c4bae426e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: e97f1d3d-1306-4c42-b2bc-d1755fe574d5
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b98d3983a8dbdceea152fbe613ba8d82df1d2e31
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0f4b4642c68619979ea0d15ac16b8988768c4d5b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,10 +38,5 @@ A bulk item that is produced is considered a parent item, whereas a packed item 
 -   Multiple bulk orders and a single packed order
 -   Only packed orders
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

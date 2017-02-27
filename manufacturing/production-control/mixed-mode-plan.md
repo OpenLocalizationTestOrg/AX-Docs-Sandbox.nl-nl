@@ -1,25 +1,27 @@
 ---
-title: Mixed mode planning - Combine discrete, process, and lean sourcing | Microsoft Docs
+title: Mixed mode planning - Combine discrete, process, and lean sourcing
 description: This article provides information about mixed mode planning. In mixed mode planning, you can model your supply chain based on the material flow. Microsoft Dynamics 365 for Operations makes sure that the material flow follows your models, regardless of the supply policy that is selected (kanbans, production orders, purchase orders, batch orders, or transfer orders).
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:02:09
+ms.date: 2016-02-24 15 - 02 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResStorageDimensionGroup, InventItemOrderSetup, ReqItemTable
+ms.search.form: EcoResStorageDimensionGroup, InventItemOrderSetup, ReqItemTable
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 52931
-ms.assetid: ec92d6ca-3137-4813-a6aa-63118012bb76
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 2e8b5fd1-cee9-45da-a3ae-6961fb020b89
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 62b9ac0de433510ce6627dda15490c874dc5220a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 10b7d09509746c0ffe071c654805bd17afa18d1d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -38,10 +40,5 @@ Resource consumption is an important functionality. Resource consumption enables
 
 ## <a name="process-manufacturing--the-production-type"></a>Process manufacturing – The production type
 For full flexibility in mixed mode, we recommend that you use production type BOMs for all products. You can then use production orders, kanbans, transfer orders, or purchase orders to supply a product. For process manufacturing, you must use a production type of **Formula**, **Co-product**, **By-product**, or **Planning item**. Kanbans and production orders can't be used for these production types.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

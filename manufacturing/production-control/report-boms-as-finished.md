@@ -1,25 +1,27 @@
 ---
-title: Report BOMs as finished | Microsoft Docs
+title: Report BOMs as finished
 description: This article provides information about reporting BOMs as finished.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:12:15
+ms.date: 2016-02-24 15 - 12 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMReportFinish, BOMReportFinishMax
+ms.search.form: BOMReportFinish, BOMReportFinishMax
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53251
-ms.assetid: 826bd09f-6fb3-4651-99ec-1f901cb5b084
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 510d05a3-0073-438d-b0c4-b6a6df1882ea
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 23f0513b51d4da6ef4da974939243e5f02bc86b5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 52ce44a3203c3c7791f2817eb82b60175829fb21
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -82,10 +84,5 @@ In this case, item number COMP is exploded into its raw material, item number RM
 | 1     | RM          | -1       |
 
 In this case, the two on-hand pieces of item number COMP are considered. However, because three pieces of item number FG are required, one piece of item number RM is also required in order to make the additional one piece of COMP.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

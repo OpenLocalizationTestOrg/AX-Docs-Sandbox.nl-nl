@@ -1,23 +1,25 @@
 ---
-title: Keyboard shortcuts | Microsoft Docs
+title: Keyboard shortcuts
 description: The following keyboard shortcuts apply across Microsoft Dynamics 365 for Operations.
 author: jasongre
 manager: AnnBe
-ms.date: 2016-02-24 17:58:25
+ms.date: 2016-02-24 17 - 58 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 54502
-ms.assetid: fa6d60ee-6817-4a89-bb18-8e785220ffd4
-ms.region: Global
+ms.assetid: d29aac80-e6c7-463c-b7a0-995aac84ea0b
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7146cb35091e5c6b9712deb3e918238a12aefcd9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 77ced00e47282613e76f37175c10c6db10c727ec
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -197,10 +199,5 @@ The following keyboard shortcuts apply across Microsoft Dynamics 365 for Operati
 | Move to the top/bottom of the lookup                                                                                    | Home / End                       |
 
  
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,27 @@
 ---
-title: Tracking running average cost per inventory dimension | Microsoft Docs
+title: Tracking running average cost per inventory dimension
 description: An inventory dimension group is attached to every inventory item. Therefore, the running average cost price of an item is calculated based on the selected inventory dimensions that are being tracked financially.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-31 12:51:05
+ms.date: 2016-03-31 12 - 51 - 05
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventOnhandItem
+ms.search.form: InventOnhandItem
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 75053
-ms.assetid: 9cd24fbd-ab83-4d26-9094-142691fb7d57
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 68cc00f4-0f7a-4a7d-be90-8f2e0d0563d3
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 40b05e909b1c4bf2ec85dc5064f314ee5c840e96
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 01c412de48503d25be77721fadf3ba03a02b95c9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +43,5 @@ The running average cost price for warehouse GW is USD 11.20, and the running av
 -   A purchase order for a quantity of 2 at a cost price of USD 15.00 has been invoiced for warehouse GW and batch BBB.
 
 The running average cost price for warehouse GW and batch AAA is USD 11.20, and the running average cost price for warehouse GW and batch BBB is USD 15.00.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

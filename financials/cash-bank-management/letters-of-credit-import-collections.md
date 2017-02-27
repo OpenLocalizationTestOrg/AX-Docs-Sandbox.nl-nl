@@ -1,24 +1,27 @@
 ---
-title: Letters of credit and import collections | Microsoft Docs
+title: Letters of credit and import collections
 description: This article provides general information about letters of credit and import collections. Both types of bank document are often used for the purchase and sale of goods across international borders.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-04 23:28:19
+ms.date: 2015-12-04 23 - 28 - 19
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankLCImport
+ms.search.form: BankLCImport
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 18321
-ms.assetid: 8a5a8f1d-a30e-4c61-9bbf-128f8ead655c
-ms.region: Global
+ms.assetid: 5c97ab81-632b-4043-a940-674bcb496c80
+ms.search.region: Global
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3a496bd137609789682e91b4a97c7c0da61ad8e9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4a2abe382f14b1db7d44a39122637416dc42c5c3
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +44,5 @@ The letter of credit includes a description of the goods, any required documents
 
 ## <a name="import-collections"></a>Import collections
 An import collection is an agreement between the bank and the exporter (seller), in which the bank agrees to deliver the shipping documentation to the international importer (buyer). The bank is expected to deliver the shipping documentation upon receipt of payment for the shipped goods in cash, or upon receipt of a signed draft toward the payment. An import collection helps guarantee that the seller is paid when the buyer collects the shipping documents to take delivery of the imported goods.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Fixed asset depreciation | Microsoft Docs
+title: Fixed asset depreciation
 description: This article provides an overview of depreciation for fixed assets.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 20:21:29
+ms.date: 2015-09-10 20 - 21 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetBonus, AssetBookTable
+ms.search.form: AssetBonus, AssetBookTable
 audience: Application User
-ms.reviewer: 2231
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3121
-ms.assetid: bb1579a9-b494-4c82-843d-d662173bedcb
-ms.region: Global
+ms.assetid: 98ff891f-e0e2-4184-b618-28107a50851f
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: e345930a634b11d002ecc302c59a5b0fae81ed2c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3c0a80f9530519e21fb3cef5d6926d38ab2ef277
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -44,11 +46,6 @@ Each book has a calendar that is used when you depreciate fixed assets. By defau
 <a name="see-also"></a>See also
 --------
 
-[Depreciation methods and conventions](https://docs.microsoft.com/en-us/dynamics365/operations/financials/fixed-assets/depreciation-methods-and-conventions)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Depreciation methods and conventions](depreciation-methods-conventions.md)
 
 

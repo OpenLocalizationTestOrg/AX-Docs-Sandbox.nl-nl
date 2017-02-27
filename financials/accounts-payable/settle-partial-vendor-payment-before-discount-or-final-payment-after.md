@@ -1,24 +1,27 @@
 ---
-title: Settle a partial vendor payment before the discount date with a final payment after the discount date | Microsoft Docs
+title: Settle a partial vendor payment before the discount date with a final payment after the discount date
 description: This article walks you through a scenario where multiple partial payments are made, some within the cash discount period and others outside the cash discount period.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:27:20
+ms.date: 2015-12-02 23 - 27 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransVendPaym, VendOpenTrans
+ms.search.form: LedgerJournalTransVendPaym, VendOpenTrans
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14411
-ms.assetid: 8a20d555-55a6-474f-ace7-5548560d5761
-ms.region: Global
+ms.assetid: 302ad6ae-28ee-4899-9f6b-f74424a5f50c
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 1cf3ddad7907b56539d34d79cb626b67e945eeba
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 46eae6c1774bbd4b4d33c395458c00969669edb8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -115,10 +118,5 @@ April then posts the payment. When she opens the **Vendor transactions** page, s
 | DISC-10021 | Cash discount    | 7/15/2015 |         | 7.00                                 |                                       | 0.00    | USD      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

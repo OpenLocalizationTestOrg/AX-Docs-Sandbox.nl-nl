@@ -1,23 +1,25 @@
 ---
-title: Configure a manual task in a workflow | Microsoft Docs
+title: Configure a manual task in a workflow
 description: This topic explains how to configure the properties for a manual task.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-09-16 19:50:02
+ms.date: 2016-09-16 19 - 50 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 192191
-ms.assetid: 66391e0c-eca0-4341-903b-1bb1d349e8ca
-ms.region: Global
+ms.assetid: 27f1afde-ff26-4b6f-8c11-27ec49130bbb
+ms.search.region: Global
 ms.author: donaldc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 46caf40d8b89546a45bd2a234dfd41acfda5a0d1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 00ee9ea3dcfbe3d7be326ec02f7445760981f9bc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -342,10 +344,5 @@ When the manual task is assigned to a user, the user must take action on the tas
 6.  Select the **Reassign** check box if the user should be able to reassign the task to another user in the work item queue.
 7.  Select the **Release** check box if the user should be able to reassign the task to the work item queue. Another user can then complete the task.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

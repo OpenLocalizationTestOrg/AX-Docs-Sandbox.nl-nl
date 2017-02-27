@@ -1,25 +1,28 @@
 ---
-title: Release production orders | Microsoft Docs
+title: Release production orders
 description: A released production order is an order that has been authorized for production. The term Released is used to describe a state in the production order life cycle, where the production order is available for execution on the production shop floor and for warehouse processes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:43:17
+ms.date: 2015-09-10 08 - 43 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdParmRelease
+ms.search.form: ProdParmRelease
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2414
-ms.assetid: 23ca0804-7f2f-4624-9be1-7b3d9014d91c
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 50c2257b-2924-44f5-b7c1-11f498092053
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f082a7a7e393f7cc7bdf8f79fd7b2301c1f7663a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b1a7a30f9cecd723c539de4cfbd30f6c29ce7603
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -57,10 +60,5 @@ Work for raw material picking is generated during release. Work is generated onl
 -   A wave template for raw materials, where policies for the execution of warehouse work are configured
 -   A production input location that determines where materials are put
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

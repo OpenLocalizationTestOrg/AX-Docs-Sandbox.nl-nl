@@ -1,24 +1,27 @@
 ---
-title: Automatic settlement and prioritization | Microsoft Docs
+title: Automatic settlement and prioritization
 description: This article describes how transactions are settled if you select Automatic settlement on the Accounts receivable parameters page. It also explains how automatic settlement can be used in combination with the payment priority.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:32:21
+ms.date: 2015-12-02 23 - 32 - 21
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, CustParameters, LedgerJournalTransCustPaym
+ms.search.form: CustOpenTrans, CustParameters, LedgerJournalTransCustPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14531
-ms.assetid: 1af2529e-7a08-4e9c-9673-4fab30169ca5
-ms.region: Global
+ms.assetid: e7837cf6-ec69-44b4-8d47-eba38d5c7b1f
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dc84580491b96bab7e60e0abae8a38ae5ab09dd4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f1d5a0ebf32d770ba1fc393e9dc374f1d02bff8d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -76,10 +79,5 @@ If there is no user-defined settlement priority, transactions are automatically 
 | Interest note | 10/15/2015 |         | 7.00                           | 0.00             | 0.00    | USD      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

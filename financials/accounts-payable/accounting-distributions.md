@@ -1,24 +1,27 @@
 ---
-title: Accounting distributions | Microsoft Docs
+title: Accounting distributions
 description: This article provides information about accounting distributions and describes the options that are available for processing them. Accounting distributions are used to allocate monetary amounts for a source document to specific ledger accounts.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 16:01:41
+ms.date: 2015-12-04 16 - 01 - 41
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AccountingDistribution
+ms.search.form: AccountingDistribution
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 17231
-ms.assetid: 83708388-42d4-455f-bf12-d1b315839825
-ms.region: Global
+ms.assetid: 9030355d-8e6e-408b-9e7d-7b346eaa652c
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bff41c73bbd3c1d528c1b463abd9ea94b7c4197c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d7ac140f838bb4a0aa2511a348ca89205329af8b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -49,13 +52,8 @@ Accounting distributions are a program-wide capability that is used and extended
 <a name="see-also"></a>See also
 --------
 
-[Accounting distributions and subledger journal entries for free text invoices](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/accounting-distributions-and-subledger-journal-entries-for-free-text-invoices)
+[Accounting distributions and subledger journal entries for free text invoices](accounting-distributions-subledger-journal-entries-free-text-invoices.md)
 
 [Dimension defaulting in accounting distributions (blog)](http://blogs.msdn.com/b/ax_gfm_framework_team_blog/archive/2013/12/16/dimension-defaulting-in-accounting-distributions-blog-1-introduction.aspx)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

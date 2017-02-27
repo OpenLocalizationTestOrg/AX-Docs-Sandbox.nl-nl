@@ -1,24 +1,27 @@
 ---
-title: Fixed assets integration | Microsoft Docs
+title: Fixed assets integration
 description: Fixed assets can be integrated with General ledger, Inventory management, Accounts receivable, and Accounts payable. You can also set up Fixed assets so that it is integrated with purchase orders.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 21:05:04
+ms.date: 2015-09-10 21 - 05 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetTable
+ms.search.form: AssetTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3501
-ms.assetid: 2ec85167-da49-4654-a234-351098f47b23
-ms.region: Global
+ms.assetid: f0639053-d99c-432a-8ead-5c26e0d4eaec
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7248a911e28b8e19f9434acf6905c96b72d3081a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5812f2ec5214b335a365851fbe9b0226b5fc913d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -54,10 +57,5 @@ You can associate a project with an asset that is affected by the project. You c
 --------
 
 [Acquire assets through procurement](https://ax.help.dynamics.com/en/wiki/Acquire-assets-through-procurement/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

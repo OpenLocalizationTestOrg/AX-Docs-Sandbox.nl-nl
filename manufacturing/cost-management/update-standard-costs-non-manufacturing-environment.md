@@ -1,25 +1,27 @@
 ---
-title: Update standard costs in a non-manufacturing environment | Microsoft Docs
+title: Update standard costs in a non-manufacturing environment
 description: This article provides guidance for updating standard costs in a non-manufacturing environment.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:26:29
+ms.date: 2016-04-11 13 - 26 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostingVersion, InventItemPrice
+ms.search.form: CostingVersion, InventItemPrice
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79723
-ms.assetid: 830ea833-8eee-4266-b64c-05fa6513fd16
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 7ba0c408-2450-4042-9542-6fdf83c12e6c
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 876eec6a1611b16b1818bba53db5b2a0154950d6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: fc0cc6018f3a4d62cf06fd1f44052f73c327557c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,10 +47,5 @@ To correct, adjust, or update standard costs for new items, follow these steps.
 5.  Use the **Activate prices** page (which you open from the **Costing version maintenance** page) to activate all pending item cost records that are enclosed in the second costing version. You can also activate the pending cost records for individual items by clicking the **Activate pending price** button on the **Item price** page.
 6.  To prevent additional data maintenance, use the **Costing version setup** page to change the blocking flags that are enclosed in the second costing version. The blocking policies will prevent the entry of new pending costs and the activation of pending costs.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

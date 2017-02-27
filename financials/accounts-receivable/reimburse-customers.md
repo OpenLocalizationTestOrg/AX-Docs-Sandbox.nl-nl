@@ -1,24 +1,27 @@
 ---
-title: Reimburse customers | Microsoft Docs
+title: Reimburse customers
 description: This article explains how to create reimbursement transactions for a group of customers. If a customer has a credit balance, you can reimburse the customer for the amount of the balance.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:14:54
+ms.date: 2015-12-02 23 - 14 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerJournalTransCustPaym, LedgerJournalTransVendPaym
+ms.search.form: LedgerJournalTransCustPaym, LedgerJournalTransVendPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14191
-ms.assetid: ab88ad2e-a428-4c92-a7b7-1025fdc3efd8
-ms.region: Global
+ms.assetid: 53533ee3-470e-458a-ac8b-3815aa4cb502
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 54951842ebf1e4a9323fd942fb7c2c9014107ecc
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: befc42e3cf2e961cb3e20465282590ceb0a1d6e5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,10 +48,5 @@ When you create reimbursement transactions, a vendor invoice is created for the 
 3.  To view the reimbursement transactions that were created, use the **Reimbursement** page.
 4.  In Accounts payable, create a payment for the vendor invoices that were created by the reimbursement process.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

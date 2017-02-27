@@ -1,24 +1,27 @@
 ---
-title: Ledger allocation rules | Microsoft Docs
+title: Ledger allocation rules
 description: This article provides information about ledger allocation rules. It describes the various components of these allocation rules and the allocation methods that can be used for them.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:15:45
+ms.date: 2015-12-03 20 - 15 - 45
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerAllocation, LedgerAllocationBasisRule, LedgerAllocationRequest, LedgerAllocationRule
+ms.search.form: LedgerAllocation, LedgerAllocationBasisRule, LedgerAllocationRequest, LedgerAllocationRule
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15402
-ms.assetid: 2ad768fc-1299-4848-8b49-d0aa6ab47c15
-ms.region: Global
+ms.assetid: 8147e148-7c11-45ef-95c6-f9889a875b54
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0fad736fe38362966e9a035875d364daa27c5bbe
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b193910eaeda3f3451ecc0a11f82aae096bbef6e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -44,10 +47,5 @@ Each allocation rule has four components: general, source, destination, and offs
 -   **Offset** – This component defines how main accounts and dimensions should be determined for the offset entries that balance the destination entries. User-defined options are typically used instead of accounts and dimensions that are based on the source. When **Data source** is set to **Fixed value**, **Source** can't be used as an option.
 -   **Ledger allocation basis rules** – These rules use their own source filter criteria to determine which ledger balances should be used for allocation (for example, the revenue per department). Each allocation basis rule can be used with multiple allocation rules.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

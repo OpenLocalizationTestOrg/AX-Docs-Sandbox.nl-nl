@@ -1,33 +1,35 @@
 ---
-title: Define channel-specific discounts | Microsoft Docs
+title: Define channel-specific discounts
 description: Retailers often set different discounts in different channels. This topic reviews the concepts you need to know to create a discount for a specific channel.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:13:00
+ms.date: 2015-12-04 02 - 13 - 00
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: RetailAffiliationPriceGroup, RetailCatalogPriceGroup, RetailChannelPriceGroup, RetailDiscountPriceGroup, RetailDiscountPricingWorkspace, RetailPeriodicDiscount, RetailStoreItemPriceList, RetailStoreTable
+ms.search.form: RetailAffiliationPriceGroup, RetailCatalogPriceGroup, RetailChannelPriceGroup, RetailDiscountPriceGroup, RetailDiscountPricingWorkspace, RetailPeriodicDiscount, RetailStoreItemPriceList, RetailStoreTable
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16401
-ms.assetid: f30803bb-4fed-409e-ac7b-443e1fa30e78
-ms.region: global
-ms.industry: Retail
+ms.assetid: d807fd51-86aa-47a0-8e00-6c5ddd21ff6b
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: scotttuc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 23839c06bb5933f5bb72340b6c6096023a531c68
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 99eccf7581f843f7434d514718a59dde731f315c
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="define-channel-specific-discounts"></a>Define channel-specific discounts
 
-Retailers often set different discounts in different channels. This topic reviews the concepts you need to know to create a discount for a specific channel.
-
+Retailers often set different discounts in different channels. This topic reviews the concepts you need to know to create a discount for a specific channel. 
 
 <a name="channel-specific-discounts"></a>Channel-specific discounts
 --------------------------
@@ -61,10 +63,5 @@ The following example illustrates the tasks involved in setting up a channel dis
 --------
 
 [Price adjustments and discounts](http://axhelp.https://ax.help.dynamics.com/en/?post_type=incsub_wiki&p=74921)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

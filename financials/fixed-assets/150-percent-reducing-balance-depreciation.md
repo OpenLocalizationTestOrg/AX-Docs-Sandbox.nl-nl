@@ -1,24 +1,26 @@
 ---
-title: 150 percent reducing balance depreciation | Microsoft Docs
+title: 150 percent reducing balance depreciation
 description: This article gives an overview of the 150 percent reducing balance method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:59:06
+ms.date: 2015-12-02 22 - 59 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13891
-ms.assetid: 0ef39c61-79c7-45e9-a520-9e455caaf890
-ms.region: Global
+ms.assetid: 36d1112d-921c-4fff-abe0-0ff2429848d3
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 120952c5fad2151bef58488ef37845afddcd2deb
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e0837605282f283c25a3efeaa39c8b9457e97022
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -67,10 +69,5 @@ The 150% reducing balance method divides 150 percent by the service life years. 
 | Year 3 | 4,900 × 30% = 1,470                           | 5,900 – 1,470 = 4,430  | 4,900 – 1,470 = 3,430                 |
 
 **Note:** Typically, when the amount that is calculated by using the 150% reducing balance depreciation method becomes less than the amount that would be calculated by using the straight line method, there is a conversion to the straight line method for the remaining life.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

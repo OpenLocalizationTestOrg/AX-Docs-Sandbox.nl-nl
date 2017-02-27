@@ -1,25 +1,28 @@
 ---
-title: Use tracing for explosion | Microsoft Docs
+title: Use tracing for explosion
 description: This article explains how you can use tracing to explore the causes behind the outcome of an order explosion.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:15:50
+ms.date: 2015-12-07 09 - 15 - 50
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqTransExplosion
+ms.search.form: ReqTransExplosion
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19231
-ms.assetid: 237afc06-855c-48fc-8e6a-f64f9c914280
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 9bc9bfbe-a7a9-437b-a947-826229b0585a
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6e6caeabaf7e7eb02b7f23882fe05cce95167a7c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8bfa9a19f4fba81e804d490cee08b7cd810f7394
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,10 +44,5 @@ You can view details about futures and actions for a selected order. On the **Ex
 --------
 
 [Master plans](https://ax.help.dynamics.com/en/wiki//master-plans)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

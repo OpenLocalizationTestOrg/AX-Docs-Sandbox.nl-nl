@@ -1,23 +1,25 @@
 ---
-title: Budget planning justification documents | Microsoft Docs
+title: Budget planning justification documents
 description: Justification documents provide a narrative for those requesting a budget to explain why a specific budget is necessary.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-11-28 18:47:11
+ms.date: 2016-11-28 18 - 47 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 2231
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 259594
-ms.assetid: 02414e8a-3414-4a05-aabc-9f5b7a4cdac1
-ms.region: Global
+ms.assetid: 52576fad-32b9-48f2-8197-c11ec313fc29
+ms.search.region: Global
 ms.author: ryansand
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f2269180ac05020de3e69979ff0c64cfce6f96e9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2a60970e6fc31de5f5c38ba1cbb6a9101b45de99
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -64,10 +66,5 @@ A budget plan template is created by the budget manager in Microsoft Word and as
 2.  In the **Justification** drop-down menu, select **Create new justification**.
 3.  After filling in the details, select to upload the personalized document from the **Justification** drop-down menu.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

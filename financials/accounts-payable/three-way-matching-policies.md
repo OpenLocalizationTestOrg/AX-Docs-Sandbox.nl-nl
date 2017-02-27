@@ -1,24 +1,27 @@
 ---
-title: Three-way matching policies | Microsoft Docs
+title: Three-way matching policies
 description: This article provides examples of three-way matching.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 15:16:01
+ms.date: 2015-09-10 15 - 16 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: VendInvoicePostingHistory
+ms.search.form: VendInvoicePostingHistory
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2761
-ms.assetid: ec67972d-d615-4fa0-920e-899dbc722b2f
-ms.region: Global
+ms.assetid: 70f3cb1a-18b7-4474-95ec-28b2410dd8f8
+ms.search.region: Global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 56acb3ec8883f7bd983c44eb356005cf06549dc4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: dea2e82ea64052b815ff906500ea1112eb424f0c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -134,11 +137,6 @@ If approval is required for invoices to be posted with invoice matching discrepa
 <a name="see-also"></a>See also
 --------
 
-[Accounts payable invoice matching](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/accounts-payable-invoice-matching)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Accounts payable invoice matching](accounts-payable-invoice-matching.md)
 
 

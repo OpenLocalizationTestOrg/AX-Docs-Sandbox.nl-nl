@@ -1,35 +1,37 @@
 ---
-title: New or updated task guides (August 2016) | Microsoft Docs
-description: This topic lists the new or updated task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX. No new Getting Started Library was released.
+title: New or updated task guides (August 2016)
+description: This topic lists the new or updated Task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX. No new Getting Started Library was released.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-11-03 21:08:33
+ms.date: 2016-11-03 21 - 08 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX platform update 2
+ms.search.scope: Operations, Platform
 ms.custom: 252754
-ms.assetid: 5bb1ab55-9d33-4c07-a4dc-04dcc316efff
-ms.region: global
+ms.assetid: 11a72e4a-7899-42be-b180-a0f4b86d88f1
+ms.search.region: global
 ms.author: josaw
+ms.dyn365.ops.intro: 01-08-2016
+ms.dyn365.ops.version: Platform update 2
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ea272da1081a6095971e94ae747a497ce5b6755c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d9aefe91528fe99e0c5b21baac0ca22b16069014
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="new-or-updated-task-guides-august-2016"></a>New or updated task guides (August 2016)
 
-This topic lists the new or updated task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX. No new Getting Started Library was released.
+This topic lists the new or updated Task guides that were released to the Microsoft (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX. No new Getting Started Library was released.
 
 <a name="task-guides-in-the-august-2016---all-languages-apqc-unified-library-for-microsoft-dynamics-ax"></a>[]()Task guides in the (August 2016 - all languages) APQC Unified Library for Microsoft Dynamics AX
 ---------------------------------------------------------------------------------------------------
 
-The (August 2016 - all languages) APQC Unified Library contains the task guides that are intended to be used for Help with Microsoft Dynamics AX platform update 2 (August 2016), the Dynamics AX May 2016 application update, and the Microsoft Dynamics AX February 2016 release. For more information about these releases, see [What’s new or changed](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/whats-new-or-changed-in-dynamics-ax-7). Localized versions of the task guides are available in this library. For more information about how to connect the Help system to a task guide library, see [Get started with Help](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/system-administration/help-get-started).
+The (August 2016 - all languages) APQC Unified Library contains the Task guides that are intended to be used for Help with Microsoft Dynamics AX platform update 2 (August 2016), the Dynamics AX May 2016 application update, and the Microsoft Dynamics AX February 2016 release. For more information about these releases, see [What’s new or changed](whats-new-changed.md). Localized versions of the Task guides are available in this library. For more information about how to connect the Help system to a Task guide library, see [Get started with Help](help-get-started.md).
 
 ### <a name="data-access"></a>Data access
 
@@ -95,13 +97,10 @@ The (August 2016 - all languages) APQC Unified Library contains the task guides 
 <a name="see-also"></a>See also
 --------
 
-[New or updated task guides available (May 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-or-updated-task-guides-available-may-2016)
+[New Task guides (February 2016)](new-task-guides-available-february-2016.md)
 
-[New task guides available (February 2016)](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/new-task-guides-available-on-february-2016)
+[New or updated Task guides (May 2016)](new-updated-task-guides-available-may-2016.md)
 
-
-
-
-<!--HONumber=Feb17_HO3-->
+[New or updated Task guides (November 2016)](new-task-guides-november-2016.md)
 
 

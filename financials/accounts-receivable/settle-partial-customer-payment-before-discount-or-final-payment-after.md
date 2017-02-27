@@ -1,24 +1,27 @@
 ---
-title: Settle a partial customer payment before the discount date with a final payment after the discount date | Microsoft Docs
+title: Settle a partial customer payment before the discount date with a final payment after the discount date
 description: This article discusses the effect of settling payments to invoices for customers. The scenario focuses on the effects in the subledger, not in General ledger.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:34:54
+ms.date: 2015-12-02 23 - 34 - 54
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, LedgerJournalTransCustPaym
+ms.search.form: CustOpenTrans, LedgerJournalTransCustPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14584
-ms.assetid: dd4cfadd-a712-4daa-b4ee-dfec3116361c
-ms.region: Global
+ms.assetid: e54936f5-053b-4ed3-b778-42c7e9aeb7cf
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d3e0560e6ff9091fe74d534441ff83783a43ce9f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b5e29b803be6eb94e24afb6b840df0e909c82269
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -104,10 +107,5 @@ Arnie changes the value in the **Use cash discount** field back to **Normal**, b
 | ARP-10021  |                  | 7/11/2015 |         |                                      | 700.00                                | 0.00    | USD      |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

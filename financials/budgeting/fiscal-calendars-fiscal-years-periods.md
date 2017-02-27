@@ -1,24 +1,27 @@
 ---
-title: Fiscal calendars, fiscal years, and periods | Microsoft Docs
+title: Fiscal calendars, fiscal years, and periods
 description: This article discusses fiscal calendars, fiscal years and periods and how to utilize them for legal entities, fixed assets and budgeting.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-12 23:27:13
+ms.date: 2015-12-12 23 - 27 - 13
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FiscalCalendars
+ms.search.form: FiscalCalendars
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 25851
-ms.assetid: 341075ba-e1ad-44ba-a685-703cf45c0610
-ms.region: Global
+ms.assetid: a968a5e5-585e-4389-aa4e-c885a7e23413
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b32f589ef71f803c4e188efedc55dda906d632bb
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e08e59373f0e831fc88d6ad436863e052078ae9c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,10 +53,5 @@ Budget cycles are the length of time during which a budget is used. Budget cycle
 You can use the Ledger calendar page to view the details of the fiscal calendar, fiscal years, and periods used by your organization. You can also change the status of the periods and select which users can post accounting transactions to periods. For example, at the start of a new period, you might want a group of users to finish posting financial transactions in the previous period, while other groups work only in the new period.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

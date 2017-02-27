@@ -1,23 +1,26 @@
 ---
-title: Balance sheet financial reports | Microsoft Docs
+title: Balance sheet financial reports
 description: This article describes the default reports for balance sheets. It also describes the building blocks that are associated with these reports.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-11-04 19:29:22
+ms.date: 2015-11-04 19 - 29 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12274
-ms.assetid: 0902397b-0e45-4284-8cf9-147d20c3de64
-ms.region: Global
+ms.assetid: 52f78229-f531-4d16-b337-e2628994acb6
+ms.search.region: Global
 ms.author: jcart
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d1002f757f95b6c83d23b8451628f3326f9d5c44
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: bf310eb9b959a7aef97def3099dac64e3474b1d8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -69,15 +72,10 @@ The column definitions contain different types of columns to provide different l
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting)
+[Financial reporting](financial-reporting-getting-started.md)
 
-[View financial reports](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports)
+[View financial reports](view-financial-reports.md)
 
 [Dynamics Financial Reporting Blog](http://blogs.msdn.com/b/dynamics_financial_reporting/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

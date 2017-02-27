@@ -1,24 +1,27 @@
 ---
-title: Price adjustments and discounts | Microsoft Docs
+title: Price adjustments and discounts
 description: This article provides information about price adjustments and discounts in Retail and commerce in Microsoft Dynamics 365 for Operations.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 21:02:28
+ms.date: 2015-12-03 21 - 02 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15891
-ms.assetid: 9b085051-38c6-4acc-9282-3d5d9e77e4f4
-ms.region: global
-ms.industry: Retail
+ms.assetid: bab5adf3-ddf0-4c22-a2eb-b4d25b88de99
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: scotttuc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 300152dff3041323cee69c6c86f69fdee53c4020
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d9817d3d4e06ebc81c27a05ffe992d37d5f3c675
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -39,10 +42,5 @@ There are four types of retail discounts:
 -   **Threshold discount** – A discount that is applied when the transaction total is more than a specified amount.
 
 Both price adjustments and discounts can be associated with price groups. Price groups can then be associated with channels, catalogs, affiliations, and loyalty programs.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

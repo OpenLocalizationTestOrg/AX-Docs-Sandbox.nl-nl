@@ -1,25 +1,27 @@
 ---
-title: Costing sheets | Microsoft Docs
+title: Costing sheets
 description: Setting up the costing sheet involves two objectives. As the first objective, you define the format for displaying cost of goods sold information about a manufactured item or production order. The formatted display is termed a costing sheet. As the second objective, you define the basis for calculating indirect costs. The costing sheet setup builds on the cost group feature for displaying information and for the indirect cost calculation formulas. The two objectives of costing sheet setup are described in this article.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:11:15
+ms.date: 2016-02-24 15 - 11 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostSheetDesigner
+ms.search.form: CostSheetDesigner
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53201
-ms.assetid: e6e747c8-7752-46e9-b095-38132cdadcab
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: e7d72b43-3892-49ae-8821-9eede3f4d24a
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6ecba8dab70725f4f595d7dc078ece5f360a6d2f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d6d6368cc80aef93f85870e22cb5eb0b6e82661f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,10 +37,5 @@ A costing sheet is the formatted display of information about the cost of goods 
 Each calculation formula must be entered as a cost record. The cost record consists of a specified costing version, a surcharge percentage or a rate amount, the cost group basis, a status, and an effective date. When a cost record is first entered, it has **Pending** status and an effective date. When you activate the cost record, the status is updated to so that the record is the current active record, and the effective date is updated to the activation date. The cost record can also specify a site for a site-specific calculation formula. Alternatively, you can leave the **Site** field blank to indicate that the calculation formula is a company-wide formula. The cost record can optionally consist of a specified item or item group when the calculation formula has been marked as a per-item formula. The current active cost records for indirect cost calculation formulas are used to estimate production order costs. They are also used to calculate actual costs that are related to actual consumption of time and material. Pending cost records are used in bill of materials (BOM) calculations for a future date. Two blocking policies for a costing version determine whether pending costs can be maintained, and whether the pending cost can be started. Use the blocking policies to permit data maintenance, and then to prevent data maintenance for the cost data in a costing version. After you define the costing sheet format and calculations for indirect costs, you must perform a separate step to validate and save the information. The costing sheet represents a company-wide format for consistently displaying information about the costs of goods sold. The costing sheet is displayed as part of the **Calculate item cost** page. The costing sheet can be displayed for a manufactured item’s calculated cost record on the **Item price** page or for an order-specific calculation record on the **BOM calculation results** page. It can also be displayed as part of the **Price calculation** page for a production order.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

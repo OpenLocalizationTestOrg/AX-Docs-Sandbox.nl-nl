@@ -1,25 +1,28 @@
 ---
-title: Moving average | Microsoft Docs
+title: Moving average
 description: 
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-17 15:16:47
+ms.date: 2016-03-17 15 - 16 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventModelGroup
+ms.search.form: InventModelGroup
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 65531
-ms.assetid: 88b0e221-24d8-4251-8f26-1ddfee4dc2ea
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: dfd10099-8f7f-44b1-917e-df37c2fe8773
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: adf1c449a8c85d096f00e25f45acfd787bfaf51f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 101fdd7db3ee4a97cfa723f6f0adec2f5f45d7db
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -118,10 +121,5 @@ In this moving average example, the inventory value report is printed to support
 | You cannot reconcile the general ledger with inventory by using the **Transaction time sorting** option. The report must be printed by using the **Posting date** option. |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

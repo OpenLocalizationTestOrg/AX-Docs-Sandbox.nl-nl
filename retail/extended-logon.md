@@ -1,24 +1,26 @@
 ---
-title: Set up extended logon functionality for Cloud POS and MPOS | Microsoft Docs
+title: Set up extended logon functionality for Cloud POS and MPOS
 description: This wiki covers your options for setting up extended logon for Cloud POS and Retail Modern POS (MPOS).
 author: josaw1
 manager: AnnBe
-ms.date: 2016-06-15 20:44:32
+ms.date: 2016-06-15 20 - 44 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 92353
-ms.assetid: 52786e1e-2ba3-4c3c-bff4-11ab300b6a03
-ms.region: global
-ms.industry: Retail
+ms.assetid: 7473e237-fbc8-41d5-8ba0-920242747488
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b921d3beaa6bd948b2e828c8927e5d0cb374ac8f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0bf92a72c92177b2bfe65f512d6c9ec4b66aa560
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -67,10 +69,5 @@ The logon service can be extended to support additional extended logon devices, 
 ====================
 
 When extended logon is configured, and a worker has been assigned a bar code or magnetic stripe, the worker just has to swipe or scan his or her card while the POS logon page is displayed. If a password is also required before logon can proceed, the worker is prompted to enter his or her password.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

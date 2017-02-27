@@ -1,24 +1,27 @@
 ---
-title: EU Entry certificates | Microsoft Docs
+title: EU Entry certificates
 description: This article provides information about European Union (EU) entry certificates.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-29 20:10:43
+ms.date: 2015-10-29 20 - 10 - 43
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustEntryCertificateJour_W, CustParameters, CustTable, SalesTable
+ms.search.form: CustEntryCertificateJour_W, CustParameters, CustTable, SalesTable
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11464
-ms.assetid: b62799c1-52f2-46e4-af27-3937fedbf328
-ms.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
+ms.assetid: e2240f55-cc9a-4ba4-ad50-2d919bca3b7f
+ms.search.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
 ms.author: mrolecki
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a8d9ca653b75a570305d876b2ab1bcde9553640a
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 65efee06e35053ee74a92a66e1aa5cbd99f82581
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -120,10 +123,5 @@ If you don't have access to the pages that are used to complete this task, conta
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

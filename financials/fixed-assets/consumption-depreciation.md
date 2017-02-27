@@ -1,24 +1,27 @@
 ---
-title: Consumption depreciation | Microsoft Docs
+title: Consumption depreciation
 description: This article gives an overview of the Consumption method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:54:36
+ms.date: 2015-12-02 22 - 54 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13751
-ms.assetid: 60e25d8f-a40d-4158-acb8-fa4102d43000
-ms.region: Global
+ms.assetid: d25a681f-49a5-4bfc-aa76-1c6373e35dd8
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 832046f6f3e3d80e78b69f87a530a53a65608f23
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 698df704e4a80226b5deca6b24bcdb0c1fa62365
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -61,10 +64,5 @@ The following factor for consumption depreciation is set up for January 31:
 -   The estimated quantity of the fixed asset is 2,000.
 
 The depreciation proposal on January 31 is as follows: Estimated quantity × Percentage × Unit depreciation 2,000 × .10 × 1.5 = 300
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

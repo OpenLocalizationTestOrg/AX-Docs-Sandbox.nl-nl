@@ -1,23 +1,25 @@
 ---
-title: Vendor collaboration mobile workspace for Microsoft Dynamics 365 for Operations app | Microsoft Docs
+title: Vendor collaboration mobile workspace for Microsoft Dynamics 365 for Operations app
 description: With the vendor collaboration mobile workspace, your vendors can stay up-to-date on the purchase orders that have been sent to them for approval and view information about new and updated purchase orders and contacts.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2017-01-12 16:36:37
+ms.date: 2017-01-12 16 - 36 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 267074
-ms.assetid: eb111191-b7cd-48df-ba18-769f8b8ffb8d
-ms.region: global
+ms.assetid: fe8e912d-8446-4584-8a24-d8892e9028cd
+ms.search.region: global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 95ef4932854637ef7a91e286befa5929126d158d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 151a5b6893b6ef40f7b3c69321b23a850b91a78a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -43,7 +45,7 @@ With the vendor collaboration mobile workspace, your vendors can stay up-to-date
 <tbody>
 <tr class="odd">
 <td>Read about the Microsoft Dynamics 365 for Operations mobile platform</td>
-<td><a href="https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/mobile-apps/mobile-development-handbook">Dynamics 365 for Operations mobile platform</a></td>
+<td><a href="mobile-platform.md">Dynamics 365 for Operations mobile platform</a></td>
 </tr>
 <tr class="even">
 <td>Dynamics 365 for Operations</td>
@@ -65,10 +67,10 @@ With the vendor collaboration mobile workspace, your vendors can stay up-to-date
 <td>The vendor user must have access to the vendor collaboration web interface in Dynamics 365 for Operations and set up a vendor collaboration user.</td>
 <td>Follow the steps described in the following topics to set up and work with the vendor collaboration web interface.
 <ul>
-<li><a href="https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-external-vendors">Use vendor collaboration to work with external vendors</a></li>
-<li><a href="https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/manage-vendor-collaboration-users">Manage vendor collaboration users</a></li>
-<li><a href="https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/set-up-and-maintain-vendor-collaboration">Set up and maintain vendor collaboration</a></li>
-<li><a href="https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/using-vendor-collaboration-to-work-with-customers-in-dynamics-365-for-operations">Use vendor collaboration to work with customers in Dynamics 365 for Operations</a></li>
+<li><a href="vendor-collaboration-work-external-vendors.md">Use vendor collaboration to work with external vendors</a></li>
+<li><a href="manage-vendor-collaboration-users.md">Manage vendor collaboration users</a></li>
+<li><a href="set-up-maintain-vendor-collaboration.md">Set up and maintain vendor collaboration</a></li>
+<li><a href="vendor-collaboration-work-customers-dynamics-365-operations.md">Use vendor collaboration to work with customers in Dynamics 365 for Operations</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -132,10 +134,5 @@ Note that an indicator shows **Delivering**=yes/no, which is used to indicate th
 
 ## <a name="open-confirmed-orders"></a>Open confirmed orders
 When the purchase order is confirmed by the customer, which means the purchase order is changed to the Confirmed state, it will appear in the open confirmed order. It will stay in the list until it is registered as received by the customer.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

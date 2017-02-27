@@ -1,24 +1,26 @@
 ---
-title: Track commissions in POS using sales groups | Microsoft Docs
+title: Track commissions in POS using sales groups
 description: "It&quot;s a common retail practice to track sales by the associate who worked with the customer—providing assistance, up-selling, cross-selling, and processing the transaction."
 author: josaw1
 manager: AnnBe
-ms.date: 2016-12-02 20:08:17
+ms.date: 2016-12-02 20 - 08 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261234
-ms.assetid: 051dcee7-6ea6-4bee-bdae-74e7c50f302f
-ms.region: global
-ms.industry: Retail
+ms.assetid: 7cd68ecc-cc09-48ab-8cb8-48d5c304effa
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0dde59bb215ea6638b920bf4e0ebc785431d941b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8ae177934da872172cfec166847e711de01a1e15
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -58,10 +60,5 @@ POS allows users to configure button grids, which are included in screen layouts
 
 ## <a name="calculating-commissions"></a>Calculating commissions
 Commission is calculated for the workers in the specified sales groups at the time of statement posting or sales order posting. The commission amount is determined based on the worker’s commission share, as defined in the sales group and the associated commission calculation settings for the customer and/or products on the transaction.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

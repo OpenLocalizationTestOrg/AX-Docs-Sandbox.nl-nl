@@ -1,24 +1,27 @@
 ---
-title: Payment methods | Microsoft Docs
+title: Payment methods
 description: Each payment type that a retailer accepts must be configured in Retail and commerce in Microsoft Dynamics 365 for Operations when the system is set up. This article describes the payment types that you can set up and describes the process for setting them up.
 author: MargoC
 manager: AnnBe
-ms.date: 2015-12-03 20:52:48
+ms.date: 2015-12-03 20 - 52 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: MargoC
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 15831
-ms.assetid: 02b259b4-2914-4e98-8664-ba3e1c1fd437
-ms.region: global
-ms.industry: Retail
+ms.assetid: 465893a5-6b4f-4c5f-b305-db071df2d33f
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: yabinl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 03d3969746268b1366fabef4ee97bd6ed3a6e2be
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9c504eb5cb4e79c8719bdeaa7d4a54748888d738
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,10 +48,5 @@ To set up payment methods in Retail and commerce, you must complete the followin
 3.  Set up store payment method. Associate payment methods with each store, and then enter the store-specific settings for each payment method.
 4.  Set up card payment methods for stores. For any card payment methods that the store accepts, complete the card setup.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

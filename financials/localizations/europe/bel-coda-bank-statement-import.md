@@ -1,24 +1,26 @@
 ---
-title: CODA bank statement | Microsoft Docs
+title: CODA bank statement
 description: This topic includes information about CODA, which is a report format used in the Belgian electronic banking system.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-12 21:37:28
+ms.date: 2016-12-12 21 - 37 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankAccountTable, BankCodaAccountStatement, BankCodaAccountStatementLines, BankCodaParameters, BankCodaTrans, BankCodaTransCategory, BankCodaTransDefTable, BankCodaTransFamily
+ms.search.form: BankAccountTable, BankCodaAccountStatement, BankCodaAccountStatementLines, BankCodaParameters, BankCodaTrans, BankCodaTransCategory, BankCodaTransDefTable, BankCodaTransFamily
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 262534
-ms.assetid: 71e144ce-be69-4b76-9022-19342de05449
-ms.region: Belgium
+ms.assetid: 38a1f540-1488-4b63-b850-04e270622296
+ms.search.region: Belgium
 ms.author: v-lenest
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 04e1771dc0b005f882959be98e0fe64acfd76f27
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8b5f26399441eeecc1e948f5d009f9283f30da48
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -32,7 +34,7 @@ For Belgian bank statement imports, you'll use the CODA file format. This featur
 ## <a name="import-transactions-from-a-bank-statement"></a>Import transactions from a bank statement
 To import a bank statement file for a bank account, complete the following steps. **Note**: Before you import a bank statement file, you must have already completed the following:
 
--   Import the CODA configurations from Lifecycle Services (LCS). For more information, see [Download Electronic reporting configurations from Lifecycle Services](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/download-electronic-reporting-er-configuration-from-lifecycle-services).
+-   Import the CODA configurations from Lifecycle Services (LCS). For more information, see [Download Electronic reporting configurations from Lifecycle Services](download-electronic-reporting-configuration-lcs.md).
 -   Select the imported CODA configuration on the **CODA parameters** page.
 
 1.  Go to the **Bank accounts** page.
@@ -54,10 +56,5 @@ Complete the following steps to process the bank statement transactions.
 4.  After all transactions in the bank statement are settled, they are ready to be transferred to the general ledger journal (**CODA** &gt;**Transfer to ledger**). Journal settings should be specified for the bank account. Journals can be opened on the **Bank accounts **page for the selected record by clicking **Set up** &gt; **CODA journal**.
 
 After processing bank statement transactions is complete, a new general ledger journal is created and ready for posting.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

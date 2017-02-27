@@ -1,24 +1,27 @@
 ---
-title: Posting definitions | Microsoft Docs
+title: Posting definitions
 description: This article provides examples that show how posting definitions are used for purchase order encumbrances and budget appropriations.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:47:46
+ms.date: 2015-12-03 20 - 47 - 46
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: JournalizingDefinition, JournalizingDefinitionTrans
+ms.search.form: JournalizingDefinition, JournalizingDefinitionTrans
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15772
-ms.assetid: 6e1259b4-efd4-4b34-bfba-03defd806f7a
-ms.region: Global
+ms.assetid: 3864e4da-853f-403d-b906-79631d80b363
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 86b0e83879e2ebe557cad09a642c13a654ea3990
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 4cb43037def488cf51df4446d1975a1a54435000
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -111,10 +114,5 @@ Generated ledger entries are created to record the original budget in each dimen
 In this example, any account that is part of Account Structure - P&L matches the posting definition criteria. Therefore, when 606400-OU\_1-OU\_3566-Training is evaluated, the generated ledger entries are created.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Plan freight transportation routes with multiple stops | Microsoft Docs
+title: Plan freight transportation routes with multiple stops
 description: This article describes the various elements that you use to plan transportation routes in Microsoft Dynamics AX.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-09 11:18:27
+ms.date: 2016-06-09 11 - 18 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TMSHubMaster, TMSLoadBuildTemplates, TMSRateRouteWorkbench, TMSRouteGuide, TMSRoutePlan, TMSRouteWorkbench, WHSLoadTemplate
+ms.search.form: TMSHubMaster, TMSLoadBuildTemplates, TMSRateRouteWorkbench, TMSRouteGuide, TMSRoutePlan, TMSRouteWorkbench, WHSLoadTemplate
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 90013
-ms.assetid: 285cf0ec-d34e-4388-9193-84f64eb5eea5
-ms.region: Global
+ms.assetid: 50d6f58c-f1c8-4321-9e83-8445cec57a85
+ms.search.region: Global
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2c807c1b0e75ee2c7292b04f42c2241d531c7a9b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: bc363dbab900c7a162aaab80573921d084f233c9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +48,5 @@ A scheduled route is a predefined route plan that has a schedule for the shippin
 
 ## <a name="load-building-workbench"></a>Load building workbench
 The Load building workbench uses the customer addresses and delivery dates from sales orders, and the scheduled routes that are available, to propose a load. By default, the values from the route are entered on the workbench. However, you can select a "from" date that is earlier than the "from" date on the route. When a load is proposed, the delivery address and delivery date of all open sales orders are checked. If the postal code of the delivery address matches the postal code of a hub in the route plan, and if the delivery date is within the range that is selected in the criteria, the sales order is proposed for the load. The capacity of the load template is also considered. Only one load is proposed at a time. If you have a sales order that isn't included, you might have to use a different load template (for example, a load template for a bigger truck or container) or plan an extra delivery.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

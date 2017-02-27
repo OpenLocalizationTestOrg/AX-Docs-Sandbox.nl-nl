@@ -1,24 +1,27 @@
 ---
-title: Distribute and complete a questionnaire | Microsoft Docs
+title: Distribute and complete a questionnaire
 description: This article explains how distribute the questionnaires that you design, so that they are available to the person or group of people who will complete them.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-04 18:35:55
+ms.date: 2015-12-04 18 - 35 - 55
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KMConnectionType, KMKnowledgeCollectorPlanningTabel, SysEmailParameters
+ms.search.form: KMConnectionType, KMKnowledgeCollectorPlanningTabel, SysEmailParameters
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 17424
-ms.assetid: 62046383-7152-4d00-a859-fe7c5aa4e163
-ms.region: Global
+ms.assetid: fd8d867a-2446-400a-b91f-ad4085427470
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 33eb12ebb28adf07be0e913b96c2bee8c045ba63
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 1694dd8f7e10c3c9c18bfaed6593eafed7c1e9d5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -100,15 +103,10 @@ Questionnaires can made be available to specific users or groups of users, or to
 <a name="see-also"></a>See also
 --------
 
-[Designing questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/designing-questionnaires)
+[Designing questionnaires](design-questionnaires.md)
 
-[Using questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/using-questionnaires)
+[Using questionnaires](questionnaires.md)
 
-[Viewing and evaluating the results of questionnaires](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/questionnaire/viewing-and-evaluating-results-of-a-questionnaire)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Viewing and evaluating the results of questionnaires](evaluate-questionnaire-results.md)
 
 

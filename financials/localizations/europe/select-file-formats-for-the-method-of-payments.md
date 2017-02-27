@@ -1,24 +1,26 @@
 ---
-title: File formats for methods of payment | Microsoft Docs
+title: File formats for methods of payment
 description: This topic describes the two methods for getting file formats that you can use for methods of payment.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-12 21:28:31
+ms.date: 2016-12-12 21 - 28 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustPaymMode, VendPaymMode
+ms.search.form: CustPaymMode, VendPaymMode
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 262514
-ms.assetid: 2bc39b0e-56f4-4c30-8502-8513054af074
-ms.region: Belgium, France, Germany, Norway, Spain, Sweden, Switzerland
+ms.assetid: 72ea2018-5a49-419c-93d0-755e5ff2722f
+ms.search.region: Belgium, France, Germany, Norway, Spain, Sweden, Switzerland
 ms.author: v-lenest
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 25e22c6d40a1303d157c5d0907f85f84c325ba32
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 35f58df641950a8c166c4a11128c79f47a7e00dc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -36,7 +38,7 @@ There are two methods that you can use to get file formats for use with methods 
 
 ### <a name="method-1-electronic-reporting-file-formats"></a>Method 1: Electronic reporting file formats
 
-For file formats that are based on ER configurations, you must import the configurations from Lifecycle Services (LCS). For more information, see [Download Electronic reporting configurations from Lifecycle Services](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/download-electronic-reporting-er-configuration-from-lifecycle-services). After you import reporting configurations for those file formats, the imported formats will be available to select on the **Methods of payment** page. The process for importing and selecting file formats for Europe is similar to the procedure for Japan. For more details, see [Enable the JBA payment file format](https://ax.help.dynamics.com/en/wiki/enable-the-jba-payment-file-format/).
+For file formats that are based on ER configurations, you must import the configurations from Lifecycle Services (LCS). For more information, see [Download Electronic reporting configurations from Lifecycle Services](download-electronic-reporting-configuration-lcs.md). After you import reporting configurations for those file formats, the imported formats will be available to select on the **Methods of payment** page. The process for importing and selecting file formats for Europe is similar to the procedure for Japan. For more details, see [Enable the JBA payment file format](https://ax.help.dynamics.com/en/wiki/enable-the-jba-payment-file-format/).
 
 ### <a name="method-2-x-file-formats"></a>Method 2: X++ file formats
 
@@ -49,10 +51,5 @@ To select file formats that are based on X++ code, complete the following steps.
 5.  Close the **File formats for methods of payment** page.
 6.  On the **File formats** FastTab, select the file format to use for the method of payment from the appropriate file format field. The General electronic reporting options should be set to **No** for X++ file formats.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

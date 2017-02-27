@@ -1,24 +1,26 @@
 ---
-title: Cycle counting | Microsoft Docs
+title: Cycle counting
 description: This article describes how you can use cycle counting with the warehousing solution that is available in Warehouse management. This article doesn&quot;t apply to the warehousing solution that&quot;s available in Inventory management.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-18 11:46:20
+ms.date: 2016-02-18 11 - 46 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WHSCycleCountPlan, WHSCycleCountPlanListPage, WHSCycleCountThreshold, WHSWorkTableListPage
+ms.search.form: WHSCycleCountPlan, WHSCycleCountPlanListPage, WHSCycleCountThreshold, WHSWorkTableListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 50671
-ms.assetid: 0bb8428c-53d8-49fa-a3e1-86d6d2ba2fc4
-ms.region: Global
+ms.assetid: 49f5c431-b043-4170-aa24-b7d5d1ee063e
+ms.search.region: Global
 ms.author: mafoge
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 74013b193554af69be5b6c317c6a7e24a89cfca7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6a646bd7125d61cf2611ee818c3701b1fd576954
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -136,10 +138,5 @@ You can adjust differences in the counted value and then accept the counted valu
 --------
 
 [Define cycle counting](https://ax.help.dynamics.com/en/wiki/define-cycle-counting/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

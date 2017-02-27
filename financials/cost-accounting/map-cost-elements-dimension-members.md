@@ -1,24 +1,26 @@
 ---
-title: Map different cost element dimension members to a common set of dimension members | Microsoft Docs
+title: Map different cost element dimension members to a common set of dimension members
 description: By mapping different cost element dimension members to a common set of cost element dimension members, you merge data into a common format for analysis purposes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 13:45:07
+ms.date: 2016-11-01 13 - 45 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMDimension, CAMDimensionMember
+ms.search.form: CAMDimension, CAMDimensionMember
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223234
-ms.assetid: f3bcb451-0784-419b-a52f-afa220d15168
-ms.region: global
+ms.assetid: 4c66a231-aed2-48b5-9727-b3eb4fe6e6aa
+ms.search.region: global
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5576d273c8b5770ec6e461262fb5447fa7005134
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 05c4879a72b25f2022adbf675cd7702049b2865c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +48,5 @@ The various charts of accounts that you use might be set up to use different cur
 
 ## <a name="update-mappings-at-any-time"></a>Update mappings at any time
 You can update the mapping definitions for a cost element dimension at any time. Because mappings aren't date-effective, changes are applied the next time that you process cost transactions or run cost calculations.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

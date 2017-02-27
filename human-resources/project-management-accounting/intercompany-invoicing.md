@@ -1,23 +1,25 @@
 ---
-title: Intercompany invoicing | Microsoft Docs
+title: Intercompany invoicing
 description: This article provides information and examples about intercompany invoicing for projects in Microsoft Dynamics 365 for Operations.
 author: kfend
 manager: AnnBe
-ms.date: 2016-06-22 23:53:53
+ms.date: 2016-06-22 23 - 53 - 53
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 94153
-ms.assetid: e0ff1b21-b0a9-4b35-a7c2-b57f831adb7d
-ms.region: Global
+ms.assetid: 33e98da7-01c1-4369-923d-aa1c8326cb80
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d2198c39fb006f1a54c1b51359aebc46b7d2ff32
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9023674feb7eba1748ef82792b82cab85c5e101b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -95,10 +97,5 @@ When the lending legal entity, USSI, posts the intercompany customer invoice, a 
 | C    | The **Project invoice** page                                                                       | Select the project invoice, and then click **View details** to review the cost and sales amount. Then post the invoice. |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

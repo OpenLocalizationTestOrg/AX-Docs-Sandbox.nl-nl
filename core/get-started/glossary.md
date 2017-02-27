@@ -1,23 +1,26 @@
 ---
-title: Dynamics 365 for Operations glossary | Microsoft Docs
+title: Dynamics 365 for Operations glossary
 description: The Microsoft Dynamics 365 for Operations glossary defines key terms and concepts in the Dynamics 365 for Operations product.
 author: tonyafehr
 manager: AnnBe
-ms.date: 2016-02-11 23:33:37
+ms.date: 2016-02-11 23 - 33 - 37
 ms.topic: 
 ms.prod: 
 ms.service: 
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 44101
-ms.assetid: 4d6eb239-c5c5-4102-a311-84ffbf322514
-ms.region: Global
+ms.assetid: d4e01957-69a0-4c92-91c5-4646c8b0cad8
+ms.search.region: Global
 ms.author: tfehr
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f5fc1f74df856196dff6320e7c387ec419bd5f8f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9250ced2aecfebf517a26d5ddba0eae8d1324c73
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -719,10 +722,5 @@ A person who assumes the role of an employee or a contractor and is paid in exch
 ###### <a name="workspace"></a>**workspace**
 
 A page that provides an overview of one of the activities that the user performs. The page uses tiles, lists, and charts to display pending work and related data from multiple sources, and the page surfaces frequent tasks related to this data. Tiles shown in the summary section of the workspace are also displayed in the related section in the dashboard.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

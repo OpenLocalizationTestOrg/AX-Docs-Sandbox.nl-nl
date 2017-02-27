@@ -1,25 +1,28 @@
 ---
-title: Reserve the same batch for a sales order | Microsoft Docs
+title: Reserve the same batch for a sales order
 description: This article explains how to set up a product to allow reservation of inventory against a single batch of inventory.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-07 16:23:17
+ms.date: 2016-01-07 16 - 23 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: EcoResProductDetailsExtended, EcoResStorageDimensionGroup, EcoResTrackingDimensionGroup, InventBatch, InventModelGroup, PdsAskSameLotForm, PdsCustSellableDays
+ms.search.form: EcoResProductDetailsExtended, EcoResStorageDimensionGroup, EcoResTrackingDimensionGroup, InventBatch, InventModelGroup, PdsAskSameLotForm, PdsCustSellableDays
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28911
-ms.assetid: 82883149-1125-4de4-b9f4-2b2b9b02e766
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 5823d75e-f839-46dd-beb3-e09b79fc8aa4
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c16277112c39ff3a6ae2a235f603a6ebc9f5be8
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 65d409a5a5d7c9d41541f1c31cf0ec5d73ab3876
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +43,5 @@ When you reserve inventory for a product on a sales order line that is set up fo
 -   The batch has expired, based on the expiration date and any applicable customer sellable days. The item can still be considered for reservation if the item model group for the item is First Expiry First Out (FEFO) date–controlled, and if the best-before date is selected as the pick criterion.
 -   The batch doesn't have enough shelf-life days remaining, based on the expiration date and best-before date, plus any customer sellable days.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: POS hardware peripherals | Microsoft Docs
+title: POS hardware peripherals
 description: "Retail Modern point of sale (POS) and Cloud POS can utilize a wide range of POS hardware peripherals, with multiple interfaces and deployment options to achieve a retailer’s various business scenarios."
 author: josaw1
 manager: AnnBe
-ms.date: 2016-10-21 16:55:57
+ms.date: 2016-10-21 16 - 55 - 57
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 2041
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 215234
-ms.assetid: 47a6b280-7a39-4131-ae79-174f97985247
-ms.region: global
-ms.industry: Retail
+ms.assetid: 1893d4b3-e1b7-4b66-be58-0102addd5b36
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.intro: Feb-16
+ms.dyn365.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eec01aa37808594dfb745b33924f40ff4969498b
+ms.sourcegitcommit: 2b7f7f6979ca245a01ac65958d07084879fea5c4
+ms.openlocfilehash: bd7c536a631492afc3306959d7ce4fb1becbd77a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -62,10 +64,5 @@ The following list includes device models, in each class, that have been tested 
 -   Barcode – Honeywell 1900, HP LS2208
 -   MSR – Magtek PN - 21073075
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Vendor collaboration with customers | Microsoft Docs
+title: Vendor collaboration with customers
 description: This topic describes how you can use vendor collaboration in Dynamics 365 for Operations to work with POs and to monitor consignment inventory.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-31 15:54:44
+ms.date: 2016-10-31 15 - 54 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ConsignmentProductReceiptLines, ConsignmentVendorPortalOnHand, PurchVendorPortalConfirmedOrders, PurchVendorPortalOriginalOrder, PurchVendorPortalResponsesHistoryList, PurchVendorPortalResponsesPart
+ms.search.form: ConsignmentProductReceiptLines, ConsignmentVendorPortalOnHand, PurchVendorPortalConfirmedOrders, PurchVendorPortalOriginalOrder, PurchVendorPortalResponsesHistoryList, PurchVendorPortalResponsesPart
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 221234
-ms.assetid: df566e4c-edac-432e-9092-bebc68089992
-ms.region: Global
+ms.assetid: 6e69fb8b-6d3a-46ef-88cf-6d01212aa7c3
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c85d0221db55868772a7f90dada607c2201a6507
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3aaa9d3933132f372346a7bd679ff364dbf9d104
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -27,7 +29,7 @@ ms.openlocfilehash: c85d0221db55868772a7f90dada607c2201a6507
 
 This topic describes how you can use vendor collaboration in Dynamics 365 for Operations to work with POs and to monitor consignment inventory.
 
-This topic describes how you can use vendor collaboration to work with customers in Microsoft Dynamics 365 for Operations. It includes information about how to monitor and respond to purchase orders, and how to monitor consignment inventory. It's also possible to use vendor collaboration to work with invoices. For more information, see [Vendor collaboration invoicing workspace](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-portal-invoicing-workspace).
+This topic describes how you can use vendor collaboration to work with customers in Microsoft Dynamics 365 for Operations. It includes information about how to monitor and respond to purchase orders, and how to monitor consignment inventory. It's also possible to use vendor collaboration to work with invoices. For more information, see [Vendor collaboration invoicing workspace](vendor-portal-invoicing-workspace.md).
 
 ## <a name="working-with-purchase-orders"></a>Working with purchase orders
 The **Purchase order confirmation** workspace enables you to respond to the PO’s that have been sent to you for review. It also enables you to view information about POs that are awaiting action from the customer, and POs that have been confirmed, but are still open. There are three lists in the **Purchase order confirmation** workspace:
@@ -64,11 +66,6 @@ If you’re using consignment inventory, you can use the vendor collaboration in
 <a name="see-also"></a>See also
 --------
 
-[Manage vendor collaboration users](https://docs.microsoft.com/en-us/dynamics365/operations/core/organization-administration/manage-vendor-collaboration-users)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Manage vendor collaboration users](manage-vendor-collaboration-users.md)
 
 

@@ -1,23 +1,25 @@
 ---
-title: Financial management home page | Microsoft Docs
+title: Financial management home page
 description: This topic provides a list of the help topics and other resources for the financial management features in Microsoft Dynamics 365 for Operations.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-10-11 23:09:11
+ms.date: 2016-10-11 23 - 09 - 11
 ms.topic: index-page
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 206434
-ms.assetid: 41c357d4-4501-4edc-80b7-467b7a8b995f
-ms.region: Global
+ms.assetid: 8a6238bd-9d6f-48d9-8752-3966836364a4
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bb36bb754a89cddfa7a8552f7a0adad244c1c1e2
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2ab60f1636e9f34bcb578225e2d3a8dc00dc185d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -26,11 +28,6 @@ ms.openlocfilehash: bb36bb754a89cddfa7a8552f7a0adad244c1c1e2
 
 This topic provides a list of the help topics and other resources for the financial management features in Microsoft Dynamics 365 for Operations. 
 
-Select a feature area to learn more about it. [Accounts payable home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/accounts-payable) [Accounts receivable home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-receivable/accounts-receivable) [Cash and bank management home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/cash-and-bank-management) [General ledger and financial reporting home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/general-ledger) [Public sector home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/public-sector/public-sector-functionality) [Budgeting home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/budgeting/budgeting-overview) [Expense management home page](https://docs.microsoft.com/en-us/dynamics365/operations/financials/expense-management/expense-management)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+Select a feature area to learn more about it. [Accounts payable home page](accounts-payable.md) [Accounts receivable home page](accounts-receivable.md) [Cash and bank management home page](cash-bank-management.md) [General ledger and financial reporting home page](general-ledger.md) [Public sector home page](public-sector-functionality.md) [Budgeting home page](budgeting-overview.md) [Expense management home page](expense-management.md)
 
 

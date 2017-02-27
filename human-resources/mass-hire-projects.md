@@ -1,24 +1,27 @@
 ---
-title: Mass hire projects | Microsoft Docs
+title: Mass hire projects
 description: Mass hire projects allow human resources specialists to create multiple positions and efficiently hire workers into those positions.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-15 18:10:07
+ms.date: 2015-09-15 18 - 10 - 07
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HRMMassHireProject
+ms.search.form: HRMMassHireProject
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7481
-ms.assetid: a30edec0-edb6-4518-b995-bbdd1647d6fa
-ms.region: Global
+ms.assetid: 5f5eb271-76eb-4305-bd1c-5d171dafccc9
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b87d5bfec842a92e38aee0fe9ba6411217010a0b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: ef9ceff26235ac4e947226a989b0395c185adb98
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -91,10 +94,5 @@ On the **Mass hire project** page, click **Open project** or **Close project** t
  
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

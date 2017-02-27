@@ -1,25 +1,27 @@
 ---
-title: LIFO Date with physical value and marking | Microsoft Docs
+title: LIFO Date with physical value and marking
 description: Last in, First out Date (LIFO Date) is an inventory model based on the LIFO principle. Issues from inventory are settled against the last receipts into inventory based on the date of the inventory transaction. By using LIFO Date, if there is no receipt before the issue, the issue is settled against any receipts that occur after the date of the issue. Several issues on the same date may be settled in the order of last issue, last receipt.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-23 23:07:14
+ms.date: 2016-02-23 23 - 07 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
+ms.search.form: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 51592
-ms.assetid: b507a9e3-d1cb-46af-a62b-3bd991d94f5d
-ms.region: Global
-ms.industry: Retail
+ms.assetid: d9f13274-3268-444f-85c8-b686fd39286d
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: cb6d8ffa1e92a862a5d35369b891fe62370a835d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f3a743d12b316b2fb87ed7d3509e7c84bc0e8917
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -116,10 +118,5 @@ The new running average cost price reflects the average of the financially and p
 -   Inventory closings are represented by a red vertical dashed line and the label *Inventory Close*.
 -   Settlements that are performed by inventory close are represented by red diagonal dashed arrows that go from a receipt to an issue.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,22 +1,25 @@
 ---
-title: Task Double form pattern | Microsoft Docs
+title: Task Double form pattern
 description: This article provides information about the Task Double form pattern. This pattern was previously used to present a parent and child entity in the same form.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-12-02 23:42:59
+ms.date: 2015-12-02 23 - 42 - 59
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14651
-ms.assetid: 016863d8-0c4e-4ef5-a8c8-e72810eaf148
-ms.region: Global
+ms.assetid: 9f28e5f9-efec-48c5-aaa6-b68a505c4df3
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 57a84c5b8857c6ae8a5d28024ec75b373a9c066e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3094438cdbf34a900c0a7550513a2e97dde45bb5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -84,21 +87,21 @@ General (TabPage, repeats 0..N)
 
 ### <a name="related-patterns"></a>Related patterns
 
--   [Task Single](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-single-form-pattern)
+-   [Task Single](task-single-form-pattern.md)
 
 ### <a name="commonly-used-subpatterns"></a>Commonly used subpatterns
 
--   [Custom Filter Group](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/custom-filter-group-subpattern)
--   [Fields and Field Groups](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/fields-and-field-groups-subpattern)
--   [Toolbar and List](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/toolbar-and-list-subpattern)
--   [Toolbar and Fields](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/toolbar-and-fields-subpattern)
+-   [Custom Filter Group](custom-filter-group-subpattern.md)
+-   [Fields and Field Groups](fields-field-groups-subpattern.md)
+-   [Toolbar and List](toolbar-list-subpattern.md)
+-   [Toolbar and Fields](toolbar-fields-subpattern.md)
 
 ## <a name="ux-guidelines"></a>UX guidelines
 The verification checklist shows the steps for manually verifying that the form complies with UX guidelines. This checklist doesn't include any guidelines that will be enforced automatically through the development environment. Open the form in the browser, and walk through these steps.
 
 **Standard form guidelines:**
 
--   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/general-form-guidelines)document.
+-   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](general-form-guidelines.md)document.
 
 **Task Double guidelines:**
 
@@ -121,10 +124,5 @@ This section will have answers to frequently asked questions that are related to
 ### <a name="ax-2012-content"></a>AX 2012 content
 
 [![AX 2012 visual example](./media/taskdouble3.png)](./media/taskdouble3.png)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

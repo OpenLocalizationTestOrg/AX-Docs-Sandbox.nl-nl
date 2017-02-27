@@ -1,24 +1,27 @@
 ---
-title: Factor depreciation | Microsoft Docs
+title: Factor depreciation
 description: This article gives an overview of the factor depreciation method.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:57:58
+ms.date: 2015-12-02 22 - 57 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13831
-ms.assetid: 1ae7c356-339d-44fc-b747-2cfe66e51be5
-ms.region: Global
+ms.assetid: 2b6c4fe4-02ff-4191-bcad-32f1f34c15f2
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 61bfa2d17f2828d74a056a0db761283935f596c4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 854e287a7727fd9f0a3897b6802c6296ef8362c5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -69,10 +72,5 @@ The acquisition price is 100,000, the factor is 20, the service life is 10 years
 
 ## <a name="straight-line-depreciation"></a>Straight line depreciation
 The value in the **Factor** field is equal to **50**. In this case, the depreciation is the same in each period, and you should consider the implications of the values that you have specified in other fields, as described in [Straight line service life depreciation](http://authoring.help.dynamics.com/en/wiki/Straight-line-service-life-depreciation/).
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

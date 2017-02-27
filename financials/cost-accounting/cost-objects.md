@@ -1,25 +1,27 @@
 ---
-title: Cost object dimensions | Microsoft Docs
+title: Cost object dimensions
 description: When you analyze costs, you use cost element dimensions to determine where costs flow to. You use cost object dimensions to determine where you should assign costs. This topic provides information about cost object dimensions.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 13:17:57
+ms.date: 2016-11-01 13 - 17 - 57
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMDimensionMember
+ms.search.form: CAMDimensionMember
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223174
-ms.assetid: 275efd15-6be2-4305-9e64-91dd2373a601
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 2a1cdd35-30cb-41e7-9506-67fd04a537c5
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 07f410fcc7dee847e334faa15b4002b56f1820fd
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9646c8a133e3ac7420f6ef36acb320a319a14eeb
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,10 +37,5 @@ Cost objects are known as *cost object dimensions*. After you’ve decided which
 
 ## <a name="import-cost-object-dimension-members-through-data-connectors"></a>Import cost object dimension members through data connectors
 To make the import of cost object dimension members easier, you use data connectors to retrieve the values from the entities that you want to use as cost object dimensions. You can use either the pre-built data connectors or custom data connectors that you build.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

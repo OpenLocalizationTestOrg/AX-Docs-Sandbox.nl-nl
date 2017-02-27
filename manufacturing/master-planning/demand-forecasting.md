@@ -1,23 +1,25 @@
 ---
-title: Demand forecasting home page | Microsoft Docs
+title: Demand forecasting home page
 description: This topic provides a list of the Help topics and other resources that are available for Demand forecasting.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-10-11 20:19:44
+ms.date: 2016-10-11 20 - 19 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 204024
-ms.assetid: 79f4fd37-181d-4f76-9461-7f3b309ff912
-ms.region: Global
+ms.assetid: f6e1195a-af66-4306-a887-c31482ee58f3
+ms.search.region: Global
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bf4236a6b41b0a5c02fda6685206f7a118d02835
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8539224a67c4f6a33a43c406d0ec54dc03625d7a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -28,17 +30,18 @@ This topic provides a list of the Help topics and other resources that are avail
 
 The resources available for Demand forecasting include:
 
--   [Introduction to demand forecasting](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/introduction-to-dynamics-ax7-demand-forecasting)
--   [Demand forecasting setup](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/demand-forecasting-setup)
--   [Generating a statistical baseline forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/generating-a-statistical-baseline-forecast)
--   [Making manual adjustments to the baseline forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/making-manual-adjustments-to-the-baseline-forecast)
--   [Authorizing the adjusted forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/authorizing-the-adjusted-forecast)
--   [Monitoring forecast accuracy](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/monitoring-forecast-accuracy)
--   [Remove outliers from historical transaction data when calculating a demand forecast](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/remove-outliers-from-historical-transaction-data-when-calculating-a-demand-forecast)
--   [Demand forecasting with Azure Machine Learning ](https://mbs.microsoft.com/customersource/northamerica/AX/learning/presentations/DynamicsTechnicalConference16)(video requires a CustomerSource account)
--   [Reduction keys](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/reduction-keys)
+-   [Introduction to demand forecasting](introduction-demand-forecasting.md)
+-   [Demand forecasting setup](demand-forecasting-setup.md)
+-   [Generating a statistical baseline forecast](generate-statistical-baseline-forecast.md)
+-   [Making manual adjustments to the baseline forecast](manual-adjustments-baseline-forecast.md)
+-   [Authorizing the adjusted forecast](authorize-adjusted-forecast.md)
+-   [Monitoring forecast accuracy](monitor-forecast-accuracy.md)
+-   [Remove outliers from historical transaction data when calculating a demand forecast](remove-historical-outliers-calculating-demand-forecast.md)
+-   [Reduction keys](reduction-keys.md)
 -   [Create a baseline forecast](http://ax.help.dynamics.com/en/wiki/develop-baseline-forecast/) (Task guide)
 -   [Modify a demand forecast manually](http://ax.help.dynamics.com/en/wiki/modify-a-demand-forecast-manually/) (Task guide)
+-   [Demand forecasting with Azure Machine Learning ](http://msdynamicsworld.com/webcast/microsoft-azure-machine-learning-and-its-application-dynamics-ax-recorded-webcast)(video requires a CustomerSource account)
+-   [Learn about the redefined demand forecasting](https://mbspartner.microsoft.com/AX/Videos/930)(video requires a CustomerSource account)
 
 #### <a name="additional-resources"></a>Additional resources
 
@@ -46,10 +49,5 @@ The resources available for Demand forecasting include:
 -   For more information about demand forecasting, see [Dynamics AX Manufacturing R&D Team blog](https://blogs.msdn.microsoft.com/axmfg/).
 -   For information about Microsoft Dynamics 365 for Operations training, see [Microsoft eLearning](https://mbspartner.microsoft.com/AX/LearningPlans) (requires a CustomerSource account).
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

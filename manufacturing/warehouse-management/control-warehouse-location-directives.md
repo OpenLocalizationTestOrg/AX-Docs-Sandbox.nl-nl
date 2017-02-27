@@ -1,24 +1,26 @@
 ---
-title: Control warehouse work by using work templates and location directives | Microsoft Docs
+title: Control warehouse work by using work templates and location directives
 description: This article describes how to use work templates and location directives to determine how and where work is carried out in the warehouse.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-30 13:17:44
+ms.date: 2016-03-30 13 - 17 - 44
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: WHSLocDirFailure, WHSLocDirHint, WHSLocDirTable, WHSLocDirTableUOM, WHSRFMenuItem, WHSWork, WHSWorkClass, WHSWorkPool, WHSWorkTemplateTable
+ms.search.form: WHSLocDirFailure, WHSLocDirHint, WHSLocDirTable, WHSLocDirTableUOM, WHSRFMenuItem, WHSWork, WHSWorkClass, WHSWorkPool, WHSWorkTemplateTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 72921
-ms.assetid: d5014a16-7b28-41e9-911b-b2c61f7b045e
-ms.region: Global
+ms.assetid: 377ab8af-5b0c-4b5e-a387-06ac1e1820c0
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0234150b98a95dfe7a8e05a97a8fd6f9e5b47104
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9ffbd82e9dcc28223d86ec1e525f187023492bd8
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -38,10 +40,5 @@ Location directives are rules that help identify pick and put locations for inve
 ### <a name="example-of-the-use-of-location-directives"></a>Example of the use of location directives
 
 For this example, we will consider a purchase order process where the location directive must find free capacity within a warehouse for inventory items that have just been registered at the receiving dock. First, we want to try to find free capacity within the warehouse by consolidating with existing on-hand inventory. If consolidation isn't possible, we then want to find an empty location. For this scenario, we must define two location directive actions. The first action in the sequence must use the **Consolidate** strategy, and the second should use the **Empty location with no incoming work** strategy. Unless we define a third action to handle an overflow scenario, two outcomes are possible when there is no more capacity in the warehouse: work can be created even though no locations are defined, or the work creation process can fail. The outcome is determined by the setup on the **Location directive failures** page, where you can decide whether to select the **Stop work on location directive failure** option for each work order type.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

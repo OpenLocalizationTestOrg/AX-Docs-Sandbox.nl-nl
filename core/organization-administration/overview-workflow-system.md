@@ -1,23 +1,25 @@
 ---
-title: Workflow system overview | Microsoft Docs
+title: Workflow system overview
 description: This article describes the workflow system in Microsoft Dynamics 365 for Operations.
 author: sericks007
 manager: AnnBe
-ms.date: 2016-02-29 15:10:28
+ms.date: 2016-02-29 15 - 10 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 56381
-ms.assetid: 2cf54a5a-9c18-48db-acdb-b79b8850ae2a
-ms.region: Global
+ms.assetid: 20b78595-e1d9-439a-ae1c-a776a3438919
+ms.search.region: Global
 ms.author: tjvass
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c35a47625f588004027c027a86cdd58837ab2719
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e5c392449d878366e082ad5b160cc20e4f112465
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +48,5 @@ There are several benefits of using the workflow system in your organization:
 -   **Centralized work list** – Users can view a centralized work list that displays the workflow tasks and approvals that are assigned to them.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Purchase requisition workflow | Microsoft Docs
+title: Purchase requisition workflow
 description: The workflow process moves purchase requisitions through the review process, from an initial status of Draft to a final status of Approved. When a purchase requisition is submitted for review, the workflow process is started. After a purchase requisition is approved, a purchase order can be generated for the purchase requisition lines and submitted to the vendor for order fulfillment.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:13:35
+ms.date: 2015-09-10 08 - 13 - 35
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchReqAuthorization, WorkflowParticipantExpenToken
+ms.search.form: PurchReqAuthorization, WorkflowParticipantExpenToken
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2234
-ms.assetid: faf6da79-516b-4cb0-bfce-130cbbad5d93
-ms.region: Global
+ms.assetid: dad3ba5a-2892-45d2-874a-300896f59b34
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ad72e6fa4c4467fd62272d7a740cbbd7d9852fdc
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 31552aa9f34dcb64451f111e74246d9c5fc8a520
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -86,13 +88,8 @@ Expenditure reviewer configurations let you dynamically route expenditures for r
 
 [Defining business process workflows for purchase requisitions](https://mbs.microsoft.com/customersource/Global/AX/learning/documentation/white-papers/Defining_business_process_workflows_for_purchase_requisitions)
 
-[Procurement and sourcing workflows](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/procurement-and-sourcing-workflows)
+[Procurement and sourcing workflows](procurement-sourcing-workflows.md)
 
-[Purchase requisition overview](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-requisitions-overview)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Purchase requisition overview](purchase-requisitions-overview.md)
 
 

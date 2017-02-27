@@ -1,24 +1,27 @@
 ---
-title: Consolidation and elimination overview | Microsoft Docs
+title: Consolidation and elimination overview
 description: This article provides general information about the consolidation and elimination process. It includes answers to some frequently asked questions.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-01 17:03:56
+ms.date: 2015-12-01 17 - 03 - 56
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerConsolidate
+ms.search.form: LedgerConsolidate
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13151
-ms.assetid: 4373c540-f7dd-4912-b140-4bbfb18492ac
-ms.region: Global
+ms.assetid: 9d8f55cb-b2cf-4e01-89cf-0e21f5c8ae1f
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d6a7630d5abbc18f1ed854b2ebaa61eb9fdb670c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5c04d0b211b7107d36839b2f6bf9e9980e91b6a9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -78,11 +81,6 @@ There are many consolidation scenarios, and each method can handle the scenarios
 <a name="see-also"></a>See also
 --------
 
-[Currency revalution in a consolidation company](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/currency-revaluation-in-a-consolidation-company)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Currency revalution in a consolidation company](currency-revaluation-consolidation-company.md)
 
 

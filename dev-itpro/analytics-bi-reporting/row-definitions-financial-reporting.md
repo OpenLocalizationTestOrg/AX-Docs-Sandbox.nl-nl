@@ -1,24 +1,27 @@
 ---
-title: Row definitions in financial report designer | Microsoft Docs
+title: Row definitions in financial report designer
 description: A row definition is a report component, or building block, that specifies the contents of each row on a financial report. A row definition can be combined with column definitions, reporting tree definitions, and report definitions to create a building block group that can be used by multiple companies.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-03-18 15:42:39
+ms.date: 2016-03-18 15 - 42 - 39
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FinancialReports
+ms.search.form: FinancialReports
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Management Reporter
+ms.search.scope: Management Reporter, Core
 ms.custom: 68873
-ms.assetid: 20cbcd60-03cc-4b91-ba4b-824c18ebd1be
-ms.region: Global
+ms.assetid: 2fd7b5da-700f-48cb-9003-90c0d82f818f
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 
+ms.dyn365.ops.version: 
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bd87f5f0536a373c3db78b7dbf8f46db6b358672
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3370fe51a742eacd079094805396746d37eb360a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -31,7 +34,7 @@ A row definition is a report component, or building block, that specifies the co
 -----------------------
 
 1.  In Report Designer, in the navigation pane, click **Row Definitions**.
-2.  On the **File** menu, click **New**, and then click **Row Definition**. For more information about the content of each cell, see [Modify row definition cells](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/modify-row-definition-cells).
+2.  On the **File** menu, click **New**, and then click **Row Definition**. For more information about the content of each cell, see [Modify row definition cells](modify-row-definition-cells-financial-reporting.md).
 
 ## <a name="open-a-row-definition"></a>Open a row definition
 1.  In Report Designer, in the navigation pane, click **Row Definitions**.
@@ -53,8 +56,8 @@ Usually, each row in a row definition contains one of the following types of inf
 
 There are two methods for entering information in a row definition:
 
--   Manually enter row information in a new row definition. For more information, see [Modify row definition cells](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/modify-row-definition-cells).
--   Use report designer to pull row information directly from the financial dimensions. For more information, see the "Related formulas/rows/units" section in [Modify row definition cells](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/modify-row-definition-cells).
+-   Manually enter row information in a new row definition. For more information, see [Modify row definition cells](modify-row-definition-cells-financial-reporting.md).
+-   Use report designer to pull row information directly from the financial dimensions. For more information, see the "Related formulas/rows/units" section in [Modify row definition cells](modify-row-definition-cells-financial-reporting.md).
 
 ## <a name="add-dimensions-in-a-row-definition"></a>Add dimensions in a row definition
 A dimension is an intersection of data and values. You can group data and values in report designer. You can then classify and analyze transactions in more detail. You can use the **Insert Rows from Dimensions** dialog box to add multiple rows to a row definition at the same time. The dialog box displays one column for each dimension. The following table describes the information that you can specify for each dimension.
@@ -170,11 +173,6 @@ To make it easier to view the columns that you're working on in the row definiti
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting for Microsoft Dynamics AX](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Financial reporting for Microsoft Dynamics AX](financial-reporting-intro.md)
 
 

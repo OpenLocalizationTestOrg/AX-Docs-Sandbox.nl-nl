@@ -1,25 +1,27 @@
 ---
-title: Production order cost analysis | Microsoft Docs
+title: Production order cost analysis
 description: This article provides information about the cost analysis that you can do for completed and current production orders. You can analyze the estimated costs and actual costs by using the Price calculation page or the Cost estimates and costings report. You can view information about the estimated and actual costs (and quantity) for each component item, the routing operation, and the indirect cost.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:25:42
+ms.date: 2016-04-11 13 - 25 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
+ms.search.form: InventCostTrans, ProdCalcTrans, ProdTableJour, ProdTableListPage
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79634
-ms.assetid: 941b736f-d07e-4157-bc37-2dd82f179db8
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: ded5da04-f787-49f7-b5e5-75c2a2b92930
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: bf320857f4bb617c98d9fbb4bb44b48429baa10b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a014fe65f7038bee942b5707d5b9ed571ca65947
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -53,11 +55,6 @@ Separate reports provide information about each type of transaction. Use these r
 <a name="see-also"></a>See also
 --------
 
-[Common sources of production variances](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/common-sources-of-production-variances)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Common sources of production variances](common-sources-of-production-variances.md)
 
 

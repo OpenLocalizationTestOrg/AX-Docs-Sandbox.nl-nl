@@ -1,25 +1,27 @@
 ---
-title: Include physical value | Microsoft Docs
+title: Include physical value
 description: You use the Include physical value check box on the Inventory model FastTab of the Item model groups page to specify whether physically updated transactions are considered when the running average cost price is calculated for an item.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-07 15:11:58
+ms.date: 2016-04-07 15 - 11 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventModelGroup
+ms.search.form: InventModelGroup
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79033
-ms.assetid: d4f27aa6-0d5d-49eb-bcf4-259a0f770349
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 1928c145-bf82-436d-87ca-e7a173e31923
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3df709d296fde5efd8bbccb6ff3688f7203b7923
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c8619fb0144d78b3cbbe5597a40780855955d77b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ The check box has slightly different effects, depending on the inventory model t
 -   A purchase order for a quantity of 3 and a cost price of USD 12.00 that has been invoice-updated
 
 In this case, the running average cost price will be USD 11.20, because both physically updated transactions and financially updated transactions are used to calculate the cost price. **Example 2** You haven't selected the **Include physical value** check box, and the cost price on the item setup is USD 10.00. You receive a purchase order for a quantity of 20 and a cost price of USD 12.00 that has been packing slip–updated. When a sales order is posted, the posted cost amount is USD 10.00, because the running average cost price won't include physically posted transactions. **Note:** For comparison, if you select the **Include physical value** check box for this item, when a sales order is posted, the posted cost amount will be USD 12.00.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

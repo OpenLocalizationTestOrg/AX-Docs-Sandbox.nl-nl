@@ -1,25 +1,28 @@
 ---
-title: Cost entries | Microsoft Docs
+title: Cost entries
 description: This article provides information about cost entries and when they are created. A cost entry is a record that registers the quantity and cost of a given event.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:09:22
+ms.date: 2015-12-07 09 - 09 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventCostOnhandItem
+ms.search.form: InventCostOnhandItem
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19131
-ms.assetid: cd754512-b3f7-4b69-aa4b-e3072245d4d1
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: dd2663d8-bcc0-47b1-b36d-57433143487c
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c9b129ceb9f9721d1c900cb83f24e7678ac0417
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6f451867809d276a481e078ba085b7d4d88216bd
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -56,16 +59,11 @@ The new **Cost entries** page lets you view and control registrations of quantit
 | 00002   | 20-01-2015 | Purchase order | 100001 | 0000101 |               |               |          | 100.00  |
 | 00003   | 31-01-2015 | Adjustment     | 100001 | 0000101 |               |               |          | 15.00   |
 
-The **Cost entries** page enables filtering by document ID and document date. **Note:** Cost entries are available only for [cost objects](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/cost-object) or released products.
+The **Cost entries** page enables filtering by document ID and document date. **Note:** Cost entries are available only for [cost objects](cost-object.md) or released products.
 
 <a name="see-also"></a>See also
 --------
 
-[Cost objects](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/cost-management/cost-object)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Cost objects](cost-object.md)
 
 

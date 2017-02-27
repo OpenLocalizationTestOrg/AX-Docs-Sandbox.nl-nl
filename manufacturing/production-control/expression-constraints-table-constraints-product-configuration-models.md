@@ -1,25 +1,27 @@
 ---
-title: Expression constraints and table constraints in product configuration models | Microsoft Docs
+title: Expression constraints and table constraints in product configuration models
 description: This topic describes the use of expression constraints and table constraints. Constraints control the attribute values that you can select when you configure products for a sales order, sales quotation, purchase order, or production order. You can use expression constraints or table constraints, depending on how you prefer to build the constraints.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:08:06
+ms.date: 2016-02-24 15 - 08 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PCGlobalTableConstraintEdit, PCProductConfigurationModelDetails, PCTableConstraintAttachAttributeTree, PCTableConstraintDefinition
+ms.search.form: PCGlobalTableConstraintEdit, PCProductConfigurationModelDetails, PCTableConstraintAttachAttributeTree, PCTableConstraintDefinition
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53111
-ms.assetid: f4035157-5d45-4e22-bf19-984fb2ab1a8c
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 5c12b1f2-eb89-4648-a755-de412f2eadd6
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c2f0a2b093d25523c58970fd04f081e18135ae2e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f7880a8bd1c83c02ddfc575ba319b2117fbd6a4b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -79,7 +81,7 @@ Black
 
 Metal
 
-You can create system-defined and user-defined table constraints. For more information, see [System-defined and user-defined table constraints](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/product-information-management/system-defined-and-user-defined-table-constraints).
+You can create system-defined and user-defined table constraints. For more information, see [System-defined and user-defined table constraints](system-defined-user-defined-table-constraints.md).
 
 ## <a name="what-syntax-should-be-used-to-write-constraints"></a>What syntax should be used to write constraints?
 You must use Optimization Modeling Language (OML) syntax when you write constraints. The system uses Microsoft Solver Foundation constraint solver to solve the constraints.
@@ -267,10 +269,5 @@ You can't use reserved keywords as solver names for attributes, components, or s
 [Create an expression constraint](http://ax.help.dynamics.com/en/wiki/create-an-expression-constraint/)
 
 [Add a calculation to a product configuration model](http://ax.help.dynamics.com/en/wiki/add-a-calculation-to-a-product-configuration-model/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

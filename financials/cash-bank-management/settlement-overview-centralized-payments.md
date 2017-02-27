@@ -1,23 +1,25 @@
 ---
-title: Settlement overview for centralized payments | Microsoft Docs
+title: Settlement overview for centralized payments
 description: Organizations that include multiple legal entities can create and manage payments by using a legal entity that handles all payments. This eliminates the need to enter the same transaction in multiple legal entities and saves time by streamlining the payment proposal process, the settlement process, open transaction editing, and closed transaction editing for centralized payments.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-10-31 18:23:48
+ms.date: 2016-10-31 18 - 23 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 222414
-ms.assetid: 0aa46699-aac7-4df1-967c-472bb25f4bcc
-ms.region: Global
+ms.assetid: 610f6858-0f37-4d0f-8c68-bab5a971ef4a
+ms.search.region: Global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 29a49f494b20cb5fb1b3c525dc18d7858b2f10c9
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 89966a71a24d136acd75b21a662f6f962485aa5a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -93,10 +95,5 @@ For customer payments, the due-to and due-from transactions in the legal entity 
 The vendor account that is associated with the invoice is used to determine whether withholding tax should be calculated. If withholding tax applies, it is calculated in the legal entity that is associated with the invoice. If the legal entities use different currencies, the exchange rate from the legal entity that is associated with the invoice is used.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

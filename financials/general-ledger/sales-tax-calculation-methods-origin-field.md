@@ -1,24 +1,27 @@
 ---
-title: Sales tax calculation methods in the Origin field | Microsoft Docs
+title: Sales tax calculation methods in the Origin field
 description: This article explains the options in the Origin field on the sales tax codes page and how sales tax is calculated based on the selected option for a sales tax code.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-09-14 07:29:34
+ms.date: 2015-09-14 07 - 29 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: TaxTable
+ms.search.form: TaxTable
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 4464
-ms.assetid: f7d85888-4d61-41af-b89e-40bafb21abb3
-ms.region: Global
+ms.assetid: 5f89daf1-acc2-4959-b48d-91542fb6bacb
+ms.search.region: Global
 ms.author: vstehman
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5d496d5099a414e974159a17bbd1aa12030d3484
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 97ba2db5593e339139e674f5d671d25a80ed276e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -121,10 +124,5 @@ Document / journal is set to Amounts include sales tax = No Transaction line amo
 [Determining sale tax rates based on the Marginal base and Calculation method fields](https://ax.help.dynamics.com/en/wp-admin/post.php?post=1411&action=edit)
 
 [Whole amount and Interval calculation options for sales tax codes](https://ax.help.dynamics.com/en/wp-admin/post.php?post=76941&action=edit)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Work breakdown structures | Microsoft Docs
+title: Work breakdown structures
 description: 
 author: kfend
 manager: AnnBe
-ms.date: 2016-11-22 14:38:31
+ms.date: 2016-11-22 14 - 38 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjWorkBreakdownStructure
+ms.search.form: ProjWorkBreakdownStructure
 audience: Application User
-ms.reviewer: 51
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23861
-ms.assetid: f57abaf7-fa3a-43db-943d-e95114e44d5e
-ms.region: Global
+ms.assetid: 241a0464-0056-4a69-b468-0afbe2d5f3ae
+ms.search.region: Global
 ms.author: kfend
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: d54ca6789081e61074666bee31a79b6383696280
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 748ec9dbb7a3bc8d2f02a4b7c84e51fc1256b01c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -204,10 +206,5 @@ Expense and item costs can be created manually, just as they can on a project’
 -   Scheduling errors are displayed when there are deviations from the following formula:
 
 Effort = Number of resources × Duration × Number of hours in a standard working day You can correct all scheduling errors at the same time by clicking **Fix all scheduling errors**. Alternatively, you can correct scheduling errors individually by clicking the warning icon for each task.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

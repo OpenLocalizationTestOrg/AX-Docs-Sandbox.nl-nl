@@ -1,23 +1,26 @@
 ---
-title: Ledger journal types | Microsoft Docs
+title: Ledger journal types
 description: This article describes the journal types that you can set up for financial journals. Use the Journal names page to set up journals that you can use throughout Microsoft Dynamics AX.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:27:42
+ms.date: 2015-12-03 20 - 27 - 42
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15631
-ms.assetid: da2b59d6-b275-4a05-87bd-adaccd78d3cf
-ms.region: Global
+ms.assetid: 81613b31-bc3c-43a0-8474-e01c9a482c40
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ec590d19b6ce210a3fb04503492a8cba00d37182
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2b4ad40b59aac8cbdc627f6bc9f43550ddd261b4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -59,10 +62,5 @@ This article describes the journal types that you can set up for financial journ
 | Vendor settle promissory note     | Create vendor settle promissory note transactions.                                                                                                                                                                                                                                                                                                          | Settle promissory note journal                                 |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

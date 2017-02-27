@@ -1,25 +1,28 @@
 ---
-title: Material substitution in manufacturing | Microsoft Docs
+title: Material substitution in manufacturing
 description: This topic describes how to substitute materials during the production process.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-23 19:04:15
+ms.date: 2016-03-23 19 - 04 - 15
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdBOM
+ms.search.form: ProdBOM
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 70171
-ms.assetid: 3f9735eb-a755-4eab-87f8-12d68647a691
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: ce3b11ef-550e-49b7-8942-2607c2ec3c5c
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: dd96602e5b12424fd14f4e00cd8dd572c2af5e1e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5172b3c2871365a6e574958554820a1c022f16af
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -42,10 +45,5 @@ You can substitute materials during planning only when you're using formulas, no
 
 ## <a name="substituting-material-during-production"></a>Substituting material during production
 Consider the following scenario: A piece of metal plate is required for a welding operation. During the operation, a warehouse worker informs the machine operator that the plate is out of stock. However, it's decided that the plate can be substituted with a plate that is slightly thicker. That way, the operation can be finalized. Material can be added to the BOM for an open production order. If the production order has a status of **Started**, users are asked to re-estimate the order when they add a new item to the production BOM. After the material is added, a new picking list can be created for the new item. You don't have to add the new material to the production BOM. Instead, you can add it directly to the production picking list. Then, when the picking list is posted, the system adds the material to the production BOM.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Advanced formatting options in financial reporting | Microsoft Docs
+title: Advanced formatting options in financial reporting
 description: When you create a report in financial reporting, additional formatting functions are available, including filters for dimensions, restrictions for columns and reporting units, non-printing rows, and IF/THEN/ELSE statements in calculations.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-08-09 21:26:28
+ms.date: 2016-08-09 21 - 26 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FinancialReports
+ms.search.form: FinancialReports
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Management Reporter
+ms.search.scope: Management Reporter
 ms.custom: 106571
-ms.assetid: f0c8cd24-c850-40f8-b092-13c421cae648
-ms.region: Global
+ms.assetid: 895b5127-01d6-4495-b127-343387b743aa
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 
+ms.dyn365.ops.version: 
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 39d0f3d22c673f7036b06c660a2562e7d914d9a0
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: fc089b3d20cbd017a0eb6a42c73b70fb7247bd12
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -258,10 +261,5 @@ To restrict a calculation to a single reporting unit in a reporting tree, so tha
 ### <a name="ifthenelse-statements-in-a-column-definition"></a>IF/THEN/ELSE statements in a column definition
 
 An **IF/THEN/ELSE** statement enables any calculation to depend on the results from any other column. You can refer to other columns, but you can't refer to a report cell in the **IF** statement. Any calculation must be applied to the whole column. For example, the statement **IF B&gt;100 THEN B ELSE C\*1.25** means, "If the amount in column B is more than 100, put the value from column B into the **CALC** column. If the amount in column B isn't more than 100, multiply the value in column C by 1.25, and put the result into the **CALC** column." Always follow the **IF** statement with a logic statement that can be evaluated as true or false. The formulas that you use for both the **THEN** statement and the **ELSE** statement can contain references to any number of columns, and these formulas can be as complex as you want to make them. **Note:** You can't put the results of a calculation into any other column. The results must be in the column that contains the formula.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

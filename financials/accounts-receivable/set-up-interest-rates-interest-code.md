@@ -1,23 +1,25 @@
 ---
-title: Set up interest rates for an interest code | Microsoft Docs
+title: Set up interest rates for an interest code
 description: Interest codes contain settings that determine when interest is charged and how it is calculated on overdue accounts.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 20:15:38
+ms.date: 2016-03-07 20 - 15 - 38
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59402
-ms.assetid: cea90453-ce10-4b5d-bdb6-76b21b8971c9
-ms.region: Global
+ms.assetid: 3b945333-1eaf-4658-ab5a-1a7791a7eb40
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c476c909279f7b9654af170fcf1a90be678ce929
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f1075330cd19a1da10fd845097a24e9185897790
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -123,10 +125,5 @@ You set up the range information as follows.
 Interest codes are date effective. If you want to modify the interest rate, you can create a **new version** that is effective as of a future date.
 
 To view different versions, you can use the **As of Date** menu choice to select the cutoff date. You can also select the **Display all records** to view all interest codes in the page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

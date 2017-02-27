@@ -1,25 +1,27 @@
 ---
-title: Cost accounting terminology | Microsoft Docs
+title: Cost accounting terminology
 description: This topic defines the key terms that are used in Cost accounting.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 12:35:53
+ms.date: 2016-11-01 12 - 35 - 53
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CAMCostControlWorkspace, CAMCostControlWorkspaceConfiguration
+ms.search.form: CAMCostControlWorkspace, CAMCostControlWorkspaceConfiguration
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223114
-ms.assetid: f618536d-2fa9-4d3f-b651-7cc3dbedc3d4
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 1c798592-77d0-4a8f-beaa-9159c75957da
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 830168b384917516a861677ccff10d00a5bba447
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 32b5b33f9089ad3bdc21fb066c6ade48b4e26139
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -164,10 +166,5 @@ A statistical dimension is the expression of a count or sum of an object that ca
 Statistical entry
 
 Statistical entries hold the recorded sum or count value for a given statistical dimension. The recorded sum or count value is also referred to as the magnitude.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

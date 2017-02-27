@@ -1,23 +1,26 @@
 ---
-title: EU Sales list reporting | Microsoft Docs
+title: EU Sales list reporting
 description: This article provides information about European Union (EU) Sales list reporting.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-11-16 21:16:24
+ms.date: 2015-11-16 21 - 16 - 24
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12811
-ms.assetid: 98fc38b0-2639-4da2-8c95-96397c6d6e07
-ms.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
+ms.assetid: 89ffb659-b4a1-450a-9485-d56dd72829bb
+ms.search.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
 ms.author: epopov
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 00d05b38908f4c8ac22b84af90f793fd5c275e00
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: b886a0e3a8bfb73456db29e912f0bb24f2dd6fe9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -153,10 +156,5 @@ You can generate an **EU Sales list** report by using the **Reporting** function
 ### <a name="closing-the-eu-sales-list-reporting-period"></a>Closing the EU Sales list reporting period
 
 When you've completed the reporting process for a specific period (for example, when tax authorities have accepted the **EU Sales list** report), you can mark the ESL records that are included on the report for the period by setting the **Reporting status** value to **Closed**. To set this status, use the **Mark as closed** function on the **EU Sales list** page. If you revert the closing of the period, you can mark ESL records by setting the **Reporting status** value to **Included**. These records can then be included on an **EU Sales list** report again. To set this status, use the **Mark as** **included** function on the **EU Sales list** page.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

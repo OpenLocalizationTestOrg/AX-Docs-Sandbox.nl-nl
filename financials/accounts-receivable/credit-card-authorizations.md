@@ -1,24 +1,27 @@
 ---
-title: Credit card setup, authorization, and capture | Microsoft Docs
+title: Credit card setup, authorization, and capture
 description: This article provides an overview of credit card authorization in Microsoft Dynamics AX. It includes information about how to set up a payment service, add a credit card to a sales order, and void an authorization.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 20:19:25
+ms.date: 2015-09-10 20 - 19 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CreditCardProcessors, CustTable, SalesTable
+ms.search.form: CreditCardProcessors, CustTable, SalesTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3041
-ms.assetid: 94916cf8-e964-4733-ac72-b02961b451b8
-ms.region: Global
+ms.assetid: 678f6899-bfa5-439b-aaca-b4affcc338ba
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 22d997b1b93b63bd37268782a3a5b384a7d6d5b2
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f2c8282bd8ff7618dad70398720d75744c8a1cd2
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -71,10 +74,5 @@ If you ship part of an order, the amount of the partial order is captured, and t
 To void a credit card authorization, you can change the method of payment to another method that doesn't have a type of Credit card.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,28 @@
 ---
-title: Weighted average date | Microsoft Docs
+title: Weighted average date
 description: 
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-01-07 19:58:01
+ms.date: 2016-01-07 19 - 58 - 01
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
+ms.search.form: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 28991
-ms.assetid: 489121c1-811a-4867-a80a-bab8609a754f
-ms.region: Global
-ms.industry: Retail
+ms.assetid: 945d5088-a99d-4e54-bc42-d2bd61c61e22
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2d08905cd9f3d4da1ec91189ca6ca4803a2b42df
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8837e6ebc5deb07e84b6f368d4efb1dadf7ea911
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -147,10 +150,5 @@ The new running average cost price reflects the average of the financially and p
 -   Inventory closings are represented by a red vertical dashed line and the label *Inventory Close*.
 -   Settlements that are performed by inventory close are represented by dashed red arrows that go diagonally from a receipt to an issue.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

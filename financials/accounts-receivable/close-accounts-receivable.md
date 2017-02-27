@@ -1,23 +1,25 @@
 ---
-title: Close Accounts receivable | Microsoft Docs
+title: Close Accounts receivable
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-07 20:15:14
+ms.date: 2016-03-07 20 - 15 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 59372
-ms.assetid: 4bd170af-a16b-48a5-b4e0-4e745ef22c95
-ms.region: Global
+ms.assetid: c18d83e5-4adb-422a-91be-82a665d8288b
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 57e6c7f55e970212ebbcaef49b1c639491a78337
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2f097f9b2b03034d21c65359280535b7f1986c80
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -82,10 +84,5 @@ Create and submit the EU sales list
 EU sales list
 
 Report on European Union (EU) sales to the tax authority for value-added tax (VAT) declaration purposes.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,27 @@
 ---
-title: Search for products and product variants during order entry | Microsoft Docs
+title: Search for products and product variants during order entry
 description: Use the <strong>Item number </strong>field to search for products and product variants when you manually create a sales order line or a purchase order line.  This lets you quickly find product variants when you only have the configuration string or one of the product dimensions available.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-02 09:16:27
+ms.date: 2016-11-02 09 - 16 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: MCRFullTextIndexField, MCRFullTextParameters, PurchTable, SalesTable
+ms.search.form: MCRFullTextIndexField, MCRFullTextParameters, PurchTable, SalesTable
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 248534
-ms.assetid: 943cd738-851b-4e62-b9b7-537cc6cfce2b
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: 99dd5ce1-0029-4f06-90e7-865e6d46d86e
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8b0ecb9a39f7d0e1ef503307cb345ba829858a09
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d601a3e584d9569fd826a42fa34377222cdb92cc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -64,10 +66,5 @@ In the **Search criteria** page, click the **Update search data** button. In the
 ### <a name="step-3-enable-the-lookup-for-product-search-on-sales-and-purchase-order-lines"></a>Step 3: Enable the lookup for product search on sales and purchase order lines
 
 You can enable this functionality by going to **Sales and marketing &gt; Setup &gt; Search &gt; Search parameters** and setting **Enable lookup for search** to **Yes** on the **General** tab. For sales order line entry, the default behavior is to open the **Product search** page when you start typing in the **Item number** field, and then press the **Tab** key. The **Product search** page changes the context during order line creation and may be considered unnecessarily intrusive. If you prefer to get the search results in a lookup and not lose context during order line entry, you can use the search lookup instead. If you search for a product or product variant, but you don't select anything in the lookup and press the **Tab** key, the **Product search** page will display.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

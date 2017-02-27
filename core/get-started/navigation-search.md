@@ -1,23 +1,25 @@
 ---
-title: Navigation search | Microsoft Docs
+title: Navigation search
 description: This article explains how to use the search functionality to navigate to pages in Microsoft Dynamics 365 for Operations.
 author: aneesmsft
 manager: AnnBe
-ms.date: 2015-12-12 23:29:16
+ms.date: 2015-12-12 23 - 29 - 16
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User, Developer, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 25991
-ms.assetid: 3c766819-2859-4775-b7b9-d4535ace1770
-ms.region: Global
+ms.assetid: eef0676f-c4b1-490e-a032-e9c8580f3fea
+ms.search.region: Global
 ms.author: aneesa
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4c5c13feb926c5846dde53f4a219f3d13d628562
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 31e50a27618542f81aa12a6118a7eb9a63f819aa
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -32,10 +34,5 @@ Dynamics 365 for Operations provides functionality for a wide array of industrie
 -   Pages the user has access to based on the user's role
 
 The list of search results is limited to 10 items. If you do not find what you're looking for in the results, you should try refining or updating the input. From a development perspective, the navigation search functionality is very easy to leverage since there is virtually no delay between the deployment of menu items and their ability to show up in search results. As long as the menu items are linked to from either the navigation pane or the dashboard, they will automatically become searchable. The navigation search functionality also includes a much-requested feature for power users: the ability to quickly navigate to a page based on the technical form name. Many users are so familiar with the system that they know the exact form names they work with. If you are one of these users, you can enter **form:** followed by the name of the form you are looking for. For example, if you enter **form: vendinvoice**, the search results will show all pages where the form name starts with **vendinvoice**. [![search-for-form-vendinvoice](./media/search-for-form-vendinvoice.png)](./media/search-for-form-vendinvoice.png)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

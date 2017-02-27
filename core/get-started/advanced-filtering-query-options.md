@@ -1,24 +1,26 @@
 ---
-title: Advanced filtering and query syntax | Microsoft Docs
+title: Advanced filtering and query syntax
 description: This article describes the filtering and query options that are available when you use the &quot;matches&quot; operator in the Advanced filter/sort dialog.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-09-11 13:41:48
+ms.date: 2015-09-11 13 - 41 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SysQueryForm
+ms.search.form: SysQueryForm
 audience: Application User
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 3811
-ms.assetid: 8b7c5d3c-2962-4a9f-9cfe-cc16f616a34b
-ms.region: Global
+ms.assetid: b4969b30-2fe1-4a3c-bbea-725dc37c8b60
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5e146c7ae3eca14b98f51637ac1db23a8fa36465
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 025aba4588713cc9104651b7c83b951c3ed25281
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -228,10 +230,5 @@ See the table in the next section for additional details about <strong>SysQueryR
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

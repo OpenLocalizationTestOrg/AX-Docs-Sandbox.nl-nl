@@ -1,24 +1,27 @@
 ---
-title: Handling cash discounts for overpayments | Microsoft Docs
+title: Handling cash discounts for overpayments
 description: This article provides scenarios that show how a payment is handled when the customer takes a cash discount but also overpays.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:14:39
+ms.date: 2015-12-02 23 - 14 - 39
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustOpenTrans, CustParameters, LedgerJournalTransCustPaym, LedgerJournalTransVendPaym, VendOpenTrans, VendParameters
+ms.search.form: CustOpenTrans, CustParameters, LedgerJournalTransCustPaym, LedgerJournalTransVendPaym, VendOpenTrans, VendParameters
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14171
-ms.assetid: 0092d7a6-7386-4b80-b375-5b7f1c532449
-ms.region: Global
+ms.assetid: a94d0fd0-57ba-4054-93c8-519d01d50e19
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9727777b3084888d32a1e102ee9bc53d65dae59f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 426ea9968a7a2689e8d93eb6df45c92ca1500f25
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -132,10 +135,5 @@ The cash discount amount is reduced from 10.50 to 10.00. The payment and invoice
 | Accounts receivable                                                                              |              | 10.50         |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

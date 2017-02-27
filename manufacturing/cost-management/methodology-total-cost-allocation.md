@@ -1,25 +1,27 @@
 ---
-title: Total cost allocation method | Microsoft Docs
+title: Total cost allocation method
 description: This article provides guidelines for using total cost allocation (TCA). TCA is a method of calculating the cost between the main formula item for a batch order and the co-products that are defined for the formula.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-29 14:07:27
+ms.date: 2016-04-29 14 - 07 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BOMConsistOf, PmfFormulaCoBy
+ms.search.form: BOMConsistOf, PmfFormulaCoBy
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 83852
-ms.assetid: ee02c4d8-6ebc-42a0-a3d5-ab9c98aadefe
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 7c14c3e5-9476-4a79-a210-e77fc91cc7fc
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 9979e07cbbae15ba8bf10ff7c49f60aab42ec2e5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 72f86ae41a7d8deb1530aff40abf581ef2ea0d22
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -52,10 +54,5 @@ The **By-product cost allocation** field on the **Co-products** page is an enume
 -   **Per series** ─ The cost amount is calculated as an amount per standard batch size of the production order. This amount is independent of the reported quantity in the production. The amount that is used for the calculation is entered in the field.
 -   **Per quantity** ─ The cost amount is calculated as an amount per reported quantity of the formula item in the production. The amount that is used for the calculation is entered in the field.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

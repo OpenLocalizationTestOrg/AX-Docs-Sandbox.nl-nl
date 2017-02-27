@@ -1,25 +1,28 @@
 ---
-title: Calculations for product configuration models FAQ | Microsoft Docs
+title: Calculations for product configuration models FAQ
 description: This article describes calculations for product configuration models and explains how to use calculations together with constraints.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:11:25
+ms.date: 2015-12-07 09 - 11 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PCConstraintEditor, PCProductConfigurationModelDetails, PCRuntimeConfigurator
+ms.search.form: PCConstraintEditor, PCProductConfigurationModelDetails, PCRuntimeConfigurator
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19191
-ms.assetid: bb016f94-45cc-4a88-bdb5-3fcc59088d08
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 8993f9a1-d1c0-49f5-afd3-5e1077ded0fe
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 2764a3cd09c47fb0b99959bcc7f60d61aed2f9db
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 90c8a2f0d564fe93eecd584d78d963f6559cf878
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -84,10 +87,5 @@ Calculations aren't included in the validation. You must test the product config
 1.  Click **Product information management** &gt; **Common** &gt; **Product configuration models**.
 2.  Select a product configuration model, and then, on the Action Pane, in the **Run** group, click **Test**.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

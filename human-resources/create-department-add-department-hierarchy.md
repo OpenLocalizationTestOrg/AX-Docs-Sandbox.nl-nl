@@ -1,24 +1,27 @@
 ---
-title: Create a department and associate it with the department hierarchy | Microsoft Docs
+title: Create a department and associate it with the department hierarchy
 description: A department is an operating unit that represents a category or functional area of an organization. A department is responsible for a specific area of the organization, such as sales, accounting, or human resources. You can use departments to report on functional areas. Departments might have profit and loss responsibility.
 author: rschloma
 manager: AnnBe
-ms.date: 2016-03-08 22:24:49
+ms.date: 2016-03-08 22 - 24 - 49
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HierarchyDesigner, OMOperatingUnit
+ms.search.form: HierarchyDesigner, OMOperatingUnit
 audience: Application User
 ms.reviewer: rschloma
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 63213
-ms.assetid: 9bca66d8-0053-41fa-a7db-86a8a4868c66
-ms.region: Global
+ms.assetid: 5dbc62fc-0184-4c0e-9856-e735fc68799e
+ms.search.region: Global
 ms.author: shielas
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 65a34904935e0751bbabd16f066351c548f6ca84
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 78e3babb242497be843b4202b5ccbfcf3a18057f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,10 +53,5 @@ To add a department to the department hierarchy, follow these steps.
 5.  Save your changes. You receive a message that a draft version of the hierarchy has been created.
 6.  When you're ready, click **Publish** in the hierarchy designer. You can enter an effective date that indicates when the hierarchy should be published. For example, to add a new department at the beginning of the next calendar year, set the effective date to January 1 of the new calendar year. The changes to the hierarchy will take effect on that date.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

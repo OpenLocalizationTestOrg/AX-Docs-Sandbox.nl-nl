@@ -1,24 +1,27 @@
 ---
-title: Compensation plans | Microsoft Docs
+title: Compensation plans
 description: Compensation and Benefits Managers can use Compensation management to maintain and process fixed and variable compensation plans for the organization&quot;s employees.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-15 18:12:34
+ms.date: 2015-09-15 18 - 12 - 34
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmCompensationLevel, HRCCompGrid, HRMCompFixedAction, HRMCompFixedBudget, HRMCompFixedPlanTable
+ms.search.form: HcmCompensationLevel, HRCCompGrid, HRMCompFixedAction, HRMCompFixedBudget, HRMCompFixedPlanTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7521
-ms.assetid: 4e2c7601-8bb9-4465-bbeb-ece5423990a3
-ms.region: Global
+ms.assetid: 3b953d5f-6325-4c9e-8b9b-6ab0458a73f8
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 81898ada61c249ae7a9aafe8b1879efd5b4c290d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a1791b447da6e3a63070e8e223e1d1cfdc63b2a9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -128,10 +131,5 @@ Each time a process event is run, a compensation event is created.  Compensation
 
 ## <a name="recommendations"></a>Recommendations
 After you run a process event, you can recommend adjustments to an employee’s merit increase or award amount, based on the calculated guidelines of the process event. To make recommendations for employees, you must enable recommendations when you set up compensation plans or when you set up the process event.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

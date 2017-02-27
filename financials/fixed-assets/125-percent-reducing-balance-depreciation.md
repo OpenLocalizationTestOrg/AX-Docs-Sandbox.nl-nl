@@ -1,24 +1,26 @@
 ---
-title: 125 percent reducing balance depreciation | Microsoft Docs
+title: 125 percent reducing balance depreciation
 description: This article gives an overview of the 125 percent reducing balance method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 22:58:51
+ms.date: 2015-12-02 22 - 58 - 51
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13871
-ms.assetid: f1fd19bf-5043-4cae-8f81-985ea460a394
-ms.region: Global
+ms.assetid: 3abc263e-59d6-4f1a-986d-1be388948bd3
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: ae12f1e210218aa37fab2ffb7e9c1715202d8d55
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c7517f60469506190ab8038b22e5ec2879bad9c5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -67,10 +69,5 @@ The 125% reducing balance method divides 125 percent by the service life years. 
 | Year 3 | 5,625 × 25% = 1,406.25                        | (6,625 – 1,406.25) = 5,218.75 | (5,625 – 1,406.25) = 4,218.75         |
 
 **Note:** Typically, when the amount that is calculated by using the 125% reducing balance depreciation method becomes less than the amount that would be calculated by using the straight line method, there is a conversion to the straight line method for the remaining life.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

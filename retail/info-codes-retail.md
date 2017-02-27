@@ -1,24 +1,27 @@
 ---
-title: Info codes | Microsoft Docs
+title: Info codes
 description: This article provides an overview about info codes, info code groups, and how to use them.
 author: RobinARH
 manager: AnnBe
-ms.date: 2015-12-11 22:44:20
+ms.date: 2015-12-11 22 - 44 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 22761
-ms.assetid: 2cef5c8d-69cd-4d38-bf2d-8c5bb5a34bfe
-ms.region: global
-ms.industry: Retail
+ms.assetid: 99877dba-a6e3-4d88-ba0a-ee5913aea17e
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: sijoshi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 77411d24a5d2599f821d7e8dbbf36e051a37891e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9c69359e69b7f22dc7644db89072774b1a542796
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +49,5 @@ In Dynamics 365 for Operations - Retail, you can create groups of info codes. In
 -
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

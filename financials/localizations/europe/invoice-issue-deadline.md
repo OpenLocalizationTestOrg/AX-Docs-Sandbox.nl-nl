@@ -1,24 +1,26 @@
 ---
-title: Invoice issue deadline | Microsoft Docs
+title: Invoice issue deadline
 description: This article explains how to set up parameters to calculate the due dates for issuing customer invoices and vendor invoices in the European Union (EU).
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-10-27 18:58:17
+ms.date: 2015-10-27 18 - 58 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CustParameters, LedgerInvoiceIssueDueDateSetup_W
+ms.search.form: CustParameters, LedgerInvoiceIssueDueDateSetup_W
 audience: Application User
-ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 10923
-ms.assetid: ba164a21-bc41-4199-8dae-08c651fca66e
-ms.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
+ms.assetid: 64ea3343-df94-4a52-b839-6328c8a282bd
+ms.search.region: Austria, Belgium, Czech Republic, Denmark, Estonia, Finland, France, Germany, Hungary, Iceland, Italy, Latvia, Lithuania, Netherlands, Poland, Spain, Sweden, United Kingdom
 ms.author: mrolecki
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 371a27a1e73cc772f2f53cc115d3a14e0db4cc15
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: aac000bbd088f665d7ec02184fd3aca18cc06d4f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -49,7 +51,7 @@ Use the **Set up calculation for invoice issue due date** page to set up an invo
 You can set up date control parameters to help guarantee that customer invoices and credit notes for customer transactions are generated within the specified period after the delivery is made. You can find these parameters in the **Invoice dates control** area of the **Accounts receivable parameters** page.
 
 ## <a name="example"></a>Example
-To set up Microsoft Dynamics AX to calculate invoice issue due dates for intra-EU shipments on the fifteenth day of the month after the supply is delivered, create a date interval code and calculation rule that have the following settings.
+To set up Microsoft Dynamics 365 for Operations to calculate invoice issue due dates for intra-EU shipments on the fifteenth day of the month after the supply is delivered, create a date interval code and calculation rule that have the following settings.
 
 ### <a name="date-interval-code"></a>Date interval code
 
@@ -116,10 +118,5 @@ If you don't have access to the pages that are used to complete the tasks that a
 </table>
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

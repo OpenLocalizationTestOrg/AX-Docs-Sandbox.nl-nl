@@ -1,23 +1,25 @@
 ---
-title: Run the Test Data Transfer Tool (beta) for Dynamics AX (AX 2012) | Microsoft Docs
+title: Run the Test Data Transfer Tool (beta) for Dynamics AX (AX 2012)
 description: The purpose of Quick import export is to let you import and export with fewer steps.
 author: margoc
 manager: AnnBe
-ms.date: 2016-06-06 19:34:36
+ms.date: 2016-06-06 19 - 34 - 36
 ms.topic: 
 ms.prod: 
 ms.service: 
 ms.technology: 
 audience: Application User
-ms.reviewer: 11
-ms.suite: AX 2012 R3 CU8
+ms.search.scope: AX 2012 R3 CU8
 ms.custom: 89041
-ms.assetid: 75765354-b14b-4d1b-bc7b-08096bfa24b8
-ms.region: Global
+ms.assetid: 990d64e6-d436-4c79-9bb5-bf8c5c5a048f
+ms.search.region: Global
 ms.author: margoc
+ms.dyn365.ops.intro: 
+ms.dyn365.ops.version: AX 2012 R3 CU8
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: adb60d3229cdd08dd8155e36ced39827bcd7db3d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 866a93478d9cf32609ab4ff6b6037a985d88c55e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -34,10 +36,5 @@ We added the Quick Import Export feature to let users import or export simple jo
 -   You do not need to create a processing group to use quick import/export, one will be automatically created by the system when executing the import or export job. You can also choose keep the history of the data imported by the quick import/export.
 
   Note that Quick import export assumes that you are familiar with the concepts of DIXF.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

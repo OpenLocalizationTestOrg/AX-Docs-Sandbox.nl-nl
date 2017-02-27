@@ -1,24 +1,26 @@
 ---
-title: Download Electronic reporting configurations from Lifecycle Services | Microsoft Docs
+title: Download Electronic reporting configurations from Lifecycle Services
 description: This topic explains how to download Electronic reporting (ER) configurations from Microsoft Dynamics Lifecycle Services (LCS).
 author: kfend
 manager: AnnBe
-ms.date: 2016-12-06 21:10:20
+ms.date: 2016-12-06 21 - 10 - 20
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ERSolutionImport, ERWorkspace
+ms.search.form: ERSolutionImport, ERWorkspace
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX application 7.0.1
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 105843
-ms.assetid: 67412c69-9aed-4f70-b834-55af71a40eb9
-ms.region: Global
+ms.assetid: dc44dea2-22ce-401e-98b9-d289e0e2825b
+ms.search.region: Global
 ms.author: nselin
+ms.dyn365.ops.intro: 01-05-2016
+ms.dyn365.ops.version: AX 7.0.1
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 787873acbe00bfe949a57e443eb927d4c6da209e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9798bf3a88a22130b6d2b141a1814dc06da14d5d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -55,11 +57,6 @@ This tutorial guides you through the process of downloading the newest version o
 <a name="see-also"></a>See also
 --------
 
-[Electronic reporting overview](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Electronic reporting overview](general-electronic-reporting.md)
 
 

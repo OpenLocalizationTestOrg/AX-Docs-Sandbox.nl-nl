@@ -1,24 +1,26 @@
 ---
-title: Manage the Electronic reporting configuration lifecycle | Microsoft Docs
+title: Manage the Electronic reporting configuration lifecycle
 description: This topic describes how to manage the lifecycle of Electronic reporting (ER) configurations for the Microsoft Dynamics 365 for Operations solution.
 author: kfend
 manager: AnnBe
-ms.date: 2016-03-07 15:28:33
+ms.date: 2016-03-07 15 - 28 - 33
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ERDataModelDesigner, ERMappedFormatDesigner, ERModelMappingDesigner, ERModelMappingTable, ERSolutionImport, ERSolutionTable, ERVendorTable, ERWorkspace
+ms.search.form: ERDataModelDesigner, ERMappedFormatDesigner, ERModelMappingDesigner, ERModelMappingTable, ERSolutionImport, ERSolutionTable, ERVendorTable, ERWorkspace
 audience: Application User, Developer, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 58801
-ms.assetid: 5541e329-1fcb-4e92-b867-2678c9fe9439
-ms.region: Global
+ms.assetid: 35ad19ea-185d-4fce-b9cb-f94584b14f75
+ms.search.region: Global
 ms.author: nselin
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6a1d5c841bba5a74a8712aaab698c94ca0593a5e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2241f35915f71fdc23a086b2e2e1c11fe81c8d49
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -30,7 +32,7 @@ This topic describes how to manage the lifecycle of Electronic reporting (ER) co
 <a name="overview"></a>Overview
 --------
 
-Electronic reporting (ER) is an engine that supports statutory required and country-specific electronic documents in Microsoft Dynamics 365 for Operations. In general, ER assumes an ability to perform the following tasks for a single electronic document. For more details, see [Electronic reporting overview](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger).
+Electronic reporting (ER) is an engine that supports statutory required and country-specific electronic documents in Microsoft Dynamics 365 for Operations. In general, ER assumes an ability to perform the following tasks for a single electronic document. For more details, see [Electronic reporting overview](general-electronic-reporting.md).
 
 -   Design a template for an electronic document:
     -   Identify the required sources of data that can be presented in the document:
@@ -72,11 +74,6 @@ ER configurations that are designed in the development environment can be upload
 <a name="see-also"></a>See also
 --------
 
-[Electronic reporting overview](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/general-electronic-reporting-ger)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Electronic reporting overview](general-electronic-reporting.md)
 
 

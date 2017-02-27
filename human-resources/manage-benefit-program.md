@@ -1,24 +1,27 @@
 ---
-title: Define and manage a benefits program | Microsoft Docs
+title: Define and manage a benefits program
 description: Human resources provides a set of tools that can be used to set up and maintain benefits, deductions, and workers&quot; compensation plans that an organization offers or processes for its workers. This article provides information about how to set up an manage benefits.
 author: rschloma
 manager: AnnBe
-ms.date: 2015-12-03 20:33:29
+ms.date: 2015-12-03 20 - 33 - 29
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmBenefitEligibilityDetail, HcmBenefitSelection, SysPolicyListPage, SysPolicySourceDocumentRuleType
+ms.search.form: HcmBenefitEligibilityDetail, HcmBenefitSelection, SysPolicyListPage, SysPolicySourceDocumentRuleType
 audience: Application User
 ms.reviewer: rschloma
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15681
-ms.assetid: be705601-4653-450d-a651-4896e3131ec5
-ms.region: Global
+ms.assetid: 6aee97ac-29f7-4b3c-8aa1-c65810de3090
+ms.search.region: Global
 ms.author: kherr
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f5d3d567a22160b96340659884c7b55e510936ab
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a2626c7e760f6eb0230516aa1eaa39f25fcc5f5d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,11 +53,6 @@ After you've created the benefits that your organization offers and determined e
 <a name="see-also"></a>See also
 --------
 
-[Benefit eligibility policies](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/benefit-eligibility-policies)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Benefit eligibility policies](benefit-eligibility-policies.md)
 
 

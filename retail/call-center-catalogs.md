@@ -1,24 +1,27 @@
 ---
-title: Call center catalogs | Microsoft Docs
+title: Call center catalogs
 description: "This article describes the call center–specific functionality for catalogs in Microsoft Dynamics 365 for Operations."
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 22:20:47
+ms.date: 2015-12-03 22 - 20 - 47
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16231
-ms.assetid: 46579e71-33fe-4b9b-89cb-bb3044ab3c08
-ms.region: global
-ms.industry: Retail
+ms.assetid: f28a827c-3a50-4d5e-83eb-e5a768db70a1
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: josaw
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 00a96a93186b438335fc2ab7431ec763267d4211
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: cbe1d17688097be18f73f92aefea6bec2a37fdbc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -34,10 +37,5 @@ In a call center, you can use product catalogs to identify the products that you
 -   **Scripts** – Scripts are texts that a call center worker reads to a customer when a sales order is being created. Scripts can include greetings or purchase suggestions.
 -   **Page layout** – A page layout captures the page position of products in the printed catalog. This information is used for the catalog area analysis report.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

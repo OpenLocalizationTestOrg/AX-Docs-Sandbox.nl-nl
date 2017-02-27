@@ -1,24 +1,26 @@
 ---
-title: Set up assortments | Microsoft Docs
+title: Set up assortments
 description: This article describes what an assortment is and explains how to set up assortments in Microsoft Dynamics 365 for Operations - Retail.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-03 20:52:27
+ms.date: 2015-12-03 20 - 52 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15811
-ms.assetid: 73503e09-67a2-417e-bbb5-d4652c04e3a9
-ms.region: global
-ms.industry: Retail
+ms.assetid: d2580048-e798-4b33-85f9-d1bad7d262fc
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: jeffbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 53b2423e8b1f92fe4361cfb203d560a5e0e60676
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 84ed3ddd0cd02d5c62394ecc8c8e7952bdfc8718
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -47,10 +49,5 @@ After you complete the prerequisites, you can create an assortment and assign it
 3.  Add product categories, individual products, or product variants to the assortment. You can include all products in a specific category, or you can exclude selected products from a category that is included in the assortment.
 4.  Publish the assortment. When you publish an assortment, the retail assortment scheduler is automatically run. This process generates the list of products. When this process is completed, the products become available to the retail channels that the product assortment is assigned to. If changes are made to an assortment that has been published, or to the retail channels that the assortment is assigned to, the assortment must be updated. To update the assortment when changes are made, you can run the retail assortment scheduler as a batch job.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

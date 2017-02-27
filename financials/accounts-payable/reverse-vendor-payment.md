@@ -1,24 +1,27 @@
 ---
-title: Reverse a vendor payment | Microsoft Docs
+title: Reverse a vendor payment
 description: This article describes the differences between reversing, deleting, voiding, and rejecting a payment. Additionally, it explains the two methods for reversing a vendor check.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:23:28
+ms.date: 2015-12-02 23 - 23 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankChequeTable, LedgerJournalTransBankChequeReversal, LedgerJournalTransVendPaym
+ms.search.form: BankChequeTable, LedgerJournalTransBankChequeReversal, LedgerJournalTransVendPaym
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14361
-ms.assetid: f6b758c2-7933-4531-ac84-8880029ad301
-ms.region: Global
+ms.assetid: 9f0a1883-cbe0-4cc7-b9f3-dd12fb85ebe8
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: fc28b2c4eee23dcb29e33f74a43fef6e9694a4a4
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a67b470df7725307ec2db43b98900b03655725d4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -70,10 +73,5 @@ If the check that was reversed was issued for a customer refund, the following e
 -   A transaction is posted against the customer account for the payment reversal, and the settlement between the original payment and the document that the payment was originally settled against is reversed (a negative payment is created).
 -   A payment reversal is applied to the original payment. The **Last settlement voucher** field on the **Customer transactions** page for the original customer payment is updated to reflect the voucher number of the reversed transaction.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

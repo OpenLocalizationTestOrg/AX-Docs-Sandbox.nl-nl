@@ -1,22 +1,25 @@
 ---
-title: FactBox form patterns | Microsoft Docs
+title: FactBox form patterns
 description: This article provides information about the FactBox form patterns. FactBoxes are used to provide related information for a record.
 author: jasongre
 manager: AnnBe
-ms.date: 2015-12-03 00:25:56
+ms.date: 2015-12-03 00 - 25 - 56
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 14721
-ms.assetid: f3afdc51-aeb2-4be5-9699-39cbb7c5101a
-ms.region: Global
+ms.assetid: b3d527bf-6b56-42fb-a135-493a62eb1435
+ms.search.region: Global
 ms.author: jasongre
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f8197a906019e9ca849f32b5e3252ec37a4917e7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a9da96f97978dd483cdcd4dcc6a79766d34f4cbf
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -87,7 +90,7 @@ Button
 ## <a name="ux-guidelines"></a>UX guidelines
 The verification checklist shows the steps for manually verifying that the form complies with UX guidelines. This checklist doesn't include any guidelines that will be enforced automatically through the development environment. Open the form in the browser, and walk through these steps. **Standard form guidelines:**
 
--   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/general-form-guidelines)document.
+-   Standard form guidelines have been consolidated into the Microsoft Dynamics AX [General Form Guidelines](general-form-guidelines.md)document.
 
 **FactBox** **general guidelines:**
 
@@ -149,10 +152,5 @@ This section will have answers to frequently asked questions that are related to
 #### <a name="ax-2012-example"></a>AX 2012 example
 
 **CustTable** &gt; **ContactsInfoPart** [![FactBox(5)](./media/factbox5.png)](./media/factbox5.png)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

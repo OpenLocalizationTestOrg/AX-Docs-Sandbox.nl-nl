@@ -1,31 +1,32 @@
 ---
-title: Reconcile bank statements by using advanced bank reconciliation | Microsoft Docs
+title: Reconcile bank statements by using advanced bank reconciliation
 description: The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations. This topic explains the reconciliation process.
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-07-11 15:58:04
+ms.date: 2016-07-11 15 - 58 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 98243
-ms.assetid: d89f1e29-f087-4e69-853b-14923a888940
-ms.region: global
+ms.assetid: 9df13adf-aa9d-4f6b-bde6-25a214611692
+ms.search.region: global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5dd1003815986ea7dba781b71e5c526a0966ac60
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f073208aff21ca07cc2bc7f2f9795b1deef63a70
+ms.lasthandoff: 02/22/2017
 
 
 ---
 
 # <a name="reconcile-bank-statements-by-using-advanced-bank-reconciliation"></a>Reconcile bank statements by using advanced bank reconciliation
 
-The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations. This topic explains the reconciliation process. 
-
+The Advanced bank reconciliation feature lets you import electronic bank statements and automatically reconcile them with bank transactions in Microsoft Dynamics 365 for Operations. This topic explains the reconciliation process.  
 
 <a name="import-an-electronic-bank-statement"></a>Import an electronic bank statement
 -----------------------------------
@@ -61,10 +62,5 @@ To manually match transactions, select the transactions in the **Bank statement 
 
 ## <a name="post-new-transactions-that-are-associated-with-the-reconciliation"></a>Post new transactions that are associated with the reconciliation
 Bank statement transactions that you marked as **New** on the reconciliation worksheet are posted on the **Bank statement** page. On the **Bank statement** page, select the statement ID to view the statement details. On the **Accounting** menu, you can use the **View distributions** and **View accounting** options to view details behind the new transactions and the associated ledger entries. Select the **Post** option to post the bank statement lines that are marked as **New** to the general ledger. Note that posting can be completed only one time per bank statement.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,27 @@
 ---
-title: Manage a recruiting process | Microsoft Docs
+title: Manage a recruiting process
 description: This article describes a concept that recruiters can use to track the steps in a recruiting process, including efforts to advertise open positions and recruit applicants, tracking applicant and application information, interviewing applicants, and selecting one or more candidates to fill the open positions in your organization.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-15 18:12:04
+ms.date: 2015-09-15 18 - 12 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HRMApplication, HRMRecruitingTable
+ms.search.form: HRMApplication, HRMRecruitingTable
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7501
-ms.assetid: ca55155c-0c9c-4c5d-a80a-8e6b48694f6d
-ms.region: Global
+ms.assetid: 1ad725bf-20e2-42a1-8068-111f7ddddad9
+ms.search.region: Global
 ms.author: twheeloc
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eca0701ac5e82312015e2f03bd89ce77d692b8e8
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f741f5f26f860089b412f5b4f056cda4e005e78e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -95,10 +98,5 @@ Hiring applicants
 Use the **Applications** page to hire an applicant. When you hire an applicant, the application record will have a status of **Employed** and the applicant’s global address book person record is associated with the new worker record. Modifications to the global address book information for the new worker record are also displayed in the applicant record. This can help reduce data entry if the new worker ever applies for a different job within your enterprise.  To hire an existing worker into a new position, click **Change position** in the **Application status** drop down to initiate the transfer process.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

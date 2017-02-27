@@ -1,23 +1,26 @@
 ---
-title: Recently added editing features in task recorder | Microsoft Docs
+title: Recently added editing features in task recorder
 description: If you use task recorder to create task guides, you can edit your files more efficiently using the functionality described in this wiki.
 author: josaw1
 manager: AnnBe
-ms.date: 2017-01-09 19:16:36
+ms.date: 2017-01-09 19 - 16 - 36
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX platform update 2
+ms.search.scope: Core
 ms.custom: 266464
-ms.assetid: 0306195d-6f09-42d5-b932-ad0501289c0f
-ms.region: global
+ms.assetid: b4640e67-4b92-4855-8041-1bfc71aadc47
+ms.search.region: global
 ms.author: josaw
+ms.dyn365.ops.intro: 01-08-2016
+ms.dyn365.ops.version: Platform update 2
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 8ccae22b1a9e3c8a4063a869d766f14eda5e669f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2b954c8271afc1b323609d6e7b142e657ba879db
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -73,15 +76,10 @@ You can expand and collapse the **Recording name** and **Recording description**
 <a name="see-also"></a>See also
 --------
 
-[Task Recorder in Microsoft Dynamics 365 for Operations](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-in-ax7)
+[Task Recorder in Microsoft Dynamics 365 for Operations](task-recorder.md)
 
-[Create documentation or training using Task recordings](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder)
+[Create documentation or training using Task recordings](task-recorder.md)
 
-[Task recorder quick reference](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/user-interface/task-recorder-quick-reference)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Task recorder quick reference](task-recorder-quick-reference.md)
 
 

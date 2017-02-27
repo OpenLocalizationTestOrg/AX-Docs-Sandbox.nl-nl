@@ -1,24 +1,27 @@
 ---
-title: Accounts payable invoice matching | Microsoft Docs
+title: Accounts payable invoice matching
 description: Accounts payable invoice matching is the process of matching vendor invoice, purchase order, and product receipt information.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-13 05:32:09
+ms.date: 2015-12-13 05 - 32 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: VendInvoicePostingHistory
+ms.search.form: VendInvoicePostingHistory
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 27361
-ms.assetid: 4bd332a9-81f3-43cd-84a1-ba970f73bd9c
-ms.region: Global
+ms.assetid: 9f3dace7-05d8-4974-8f85-aca2e224876c
+ms.search.region: Global
 ms.author: abruer
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 689bddcdd5984fe550b5615a4b780ae1c23b32e5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e15eab9c6932ebb3d1a765d7ef7199d869bc2074
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -173,13 +176,8 @@ Vendor invoices are often based on product receipts that represent actual shipme
 
 [Set up Accounts payable invoice matching validation](https://ax.help.dynamics.com/en/wiki/set-up-accounts-payable-invoice-matching-validation/)
 
-[Three-way matching policies](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/three-way-matching-policies)
+[Three-way matching policies](three-way-matching-policies.md)
 
-[Invoice matching and intercompany purchase orders](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/invoice-matching-and-intercompany-purchase-orders)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Invoice matching and intercompany purchase orders](invoice-matching-intercompany-purchase-orders.md)
 
 

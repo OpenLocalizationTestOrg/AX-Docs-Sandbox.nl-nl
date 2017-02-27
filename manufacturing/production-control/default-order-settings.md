@@ -1,25 +1,27 @@
 ---
-title: Default order settings for dimensions and product variants | Microsoft Docs
+title: Default order settings for dimensions and product variants
 description: Default order settings define the site and warehouse where items will be sourced from or stored, the minimum, maximum, multiple and standard quantities that will be used for trading or inventory management, the lead times, the stop flag, and the order promising method. Default order settings are used when creating purchase orders, sales orders, transfer orders, inventory journals, and by master planning for generating planned orders. Default order settings can be item specific, site specific, product variant specific, or product dimension specific.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-11-01 12:13:21
+ms.date: 2016-11-01 12 - 13 - 21
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventItemOrderSetup
+ms.search.form: InventItemOrderSetup
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 223084
-ms.assetid: d37f9c92-6760-4f6c-b88b-6bdc28c22a91
-ms.region: global
-ms.industry: Manufacturing
+ms.assetid: fbfbcd7b-dc75-44ab-bffc-8bad576804a4
+ms.search.region: global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 983dc1a619354cb52f87de3988fef506d7034159
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 86e1d5d7f93e136455c07d3e71eb319fc51c2be0
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -68,7 +70,7 @@ The  default inventory order settings also apply when creating:
 -   Planned production orders
 
 ## <a name="full-definition-of-a-released-product"></a>Full definition of a released product
-When creating a transaction, you need to specify the full definition of a released product on the line before Dynamics 365 for Operations attempts to identify the default order settings. The full definition of released product means that the item number and all the active product dimensions, such as configuration, size, style, and color, are specified on the transaction. For example, if you manually create a purchase order line for a released product variant, you need to specify all of the required product dimensions before the site, warehouse, quantities, and lead time will display by default on the order line. Not all of the default order settings parameters are applied when creating order or journal lines. Quantities and lead times will only display by default when appropriate. For example, when counting a journal line, only the site and warehouse will display by default when the line is created. Obviously no quantity defaulting or checks on multiple and minimums are performed when creating the line or posting the journal. The system always attempts to find a default site and warehouse when a order or journal line is created. The site is not always displayed by default from the order settings. For example, when creating a sales order or a purchase order, the site from the order header is automatically used on the order lines. When creating a BOM line, the site from the BOM header is used. After the site is determined, it will be used to find any site specific order settings that can then be used as the default for the warehouse. The default order type, the purchase, and the inventory lead times can be overriden by the item's coverage rules on the **Item coverage** page. Although the default order settings don't allow for the distinction between the production and transfer lead time, the item coverage rules allow for it. However, the item coverage setup will only be used by MRP when creating planned production and planned transfer orders and will not apply when manually creating production and transfer orders. For more information about how fields are used on default order settings, you can either hover over each field name to see the Help text or follow the steps in the [View and export field descriptions](https://docs.microsoft.com/en-us/dynamics365/operations/core/get-started/how-to-view-and-export-field-descriptions) topic to export all field descriptions in Microsoft Excel.
+When creating a transaction, you need to specify the full definition of a released product on the line before Dynamics 365 for Operations attempts to identify the default order settings. The full definition of released product means that the item number and all the active product dimensions, such as configuration, size, style, and color, are specified on the transaction. For example, if you manually create a purchase order line for a released product variant, you need to specify all of the required product dimensions before the site, warehouse, quantities, and lead time will display by default on the order line. Not all of the default order settings parameters are applied when creating order or journal lines. Quantities and lead times will only display by default when appropriate. For example, when counting a journal line, only the site and warehouse will display by default when the line is created. Obviously no quantity defaulting or checks on multiple and minimums are performed when creating the line or posting the journal. The system always attempts to find a default site and warehouse when a order or journal line is created. The site is not always displayed by default from the order settings. For example, when creating a sales order or a purchase order, the site from the order header is automatically used on the order lines. When creating a BOM line, the site from the BOM header is used. After the site is determined, it will be used to find any site specific order settings that can then be used as the default for the warehouse. The default order type, the purchase, and the inventory lead times can be overriden by the item's coverage rules on the **Item coverage** page. Although the default order settings don't allow for the distinction between the production and transfer lead time, the item coverage rules allow for it. However, the item coverage setup will only be used by MRP when creating planned production and planned transfer orders and will not apply when manually creating production and transfer orders. For more information about how fields are used on default order settings, you can either hover over each field name to see the Help text or follow the steps in the [View and export field descriptions](view-export-field-descriptions.md) topic to export all field descriptions in Microsoft Excel.
 
 ## <a name="default-order-settings-rules"></a>Default order settings rules
 You can define general default order settings and any number of default order setting rules that apply only in certain conditions, such as site or a specific product dimension or product dimensions combination. You can't define warehouse specific order settings.
@@ -137,10 +139,5 @@ If the rule system for default order settings is too cumbersome, then there is t
 | 0    |      |               |       |                                      | 5                  |                    |                                   |                 |
 
 The rank in this case doesn't really matter, so you can choose to hide it. This solution potentially introduces a maintenance issue. However, you may want to consider using this setup if you are consider integrating with Product Lifecycle Management (PLM) systems.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

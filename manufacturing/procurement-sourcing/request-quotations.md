@@ -1,24 +1,26 @@
 ---
-title: Request for quotations (RFQs) | Microsoft Docs
+title: Request for quotations (RFQs)
 description: This article provides an overview of requests for quotation (RFQs), which organizations issue when they must purchase items or services, and want to receive competitive offers from several vendors. In an RFQ, you ask vendors to provide the prices and delivery times for the item quantities that you specify. You can also ask vendors to specify whether there are any incidental charges, such as shipping costs, or any discounts for large orders or early payment of the vendor invoice.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-10 08:08:48
+ms.date: 2015-09-10 08 - 08 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchRFQCaseTable, PurchRFQCaseTableListPage, PurchRFQCompare, PurchRFQReplyTable, PurchRFQVendReplyTableListPage
+ms.search.form: PurchRFQCaseTable, PurchRFQCaseTableListPage, PurchRFQCompare, PurchRFQReplyTable, PurchRFQVendReplyTableListPage
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 2154
-ms.assetid: ac3cc55a-dcae-4416-9fa7-deca104d736d
-ms.region: Global
+ms.assetid: 3936996e-d943-46ca-8385-84c042990f1d
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b5a62bf7a06f63bc26e0d3dabec1ae88e6629d3c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: d2a10d06a934014664609134fd008cc4ff8e986c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -124,10 +126,5 @@ On the reply, you can add a reason code to explain why you accepted or rejected 
 | Reject the other bids.  | Rejected              | Accepted               | Rejected                     | Accepted                      | Rejected                   | Accepted                    |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

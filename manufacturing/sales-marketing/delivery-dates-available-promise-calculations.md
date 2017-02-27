@@ -1,24 +1,27 @@
 ---
-title: Order promising | Microsoft Docs
+title: Order promising
 description: This article provides information about order promising. Order promising helps you reliably promise delivery dates to your customers and gives you flexibility so that you can meet those dates.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-09-22 23:10:58
+ms.date: 2016-09-22 23 - 10 - 58
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SalesATP, SalesAvailableDlvDates
+ms.search.form: SalesATP, SalesAvailableDlvDates
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 193933
-ms.assetid: d5c73e2d-1e7c-4bc7-9f9a-32f04ee29182
-ms.region: Global
+ms.assetid: 676fc53a-fa25-4688-9f26-1005316763b8
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 0f3d1b8a5ac3b4de955c651874307585af35f799
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c7ccaa3d5bc70f664ea11f63611f06b22ba0e9b9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +43,5 @@ The ATP quantity is calculated by using the “cumulative ATP with look-ahead”
 ### <a name="example"></a>Example
 
 The **ATP backward demand time fence** field controls how far back in time to look for delayed demand orders or inventory issues. The **ATP backward supply time fence** field controls how far back in time to look for delayed supply orders or inventory receipts. For example, if orders that are delayed by only seven days should be considered in the ATP calculation, both fields should be set to **7**. The **ATP delayed demand offset time** and **ATP delayed supply offset time** fields control when the delayed demand or supply will be considered in the ATP calculation. For example, if the delayed supply and demand should be considered in the ATP calculation the day after tomorrow, both fields should be set to **2**. A value of **2** means that the quantity of an item on a delayed purchase order that should be considered in the ATP calculation will be seen as available two days after the current date. For the following example, **7** is entered in the **ATP backward demand time fence** and **ATP backward supply time fence** fields, and **1** is entered in the **ATP delayed demand offset time** and **ATP delayed supply offset time** fields. A purchase order for 200 pieces of a product that should have been received three days ago hasn't been received yet. Therefore, a sales order line for 75 pieces of the same product that should have been shipped yesterday hasn't been shipped. A customer calls and wants to order 150 pieces of the same product. When you verify the availability of the product, you find that another purchase order for 100 pieces of the product will be delivered 10 days later. You create a sales order line for the product and enter **150** as the quantity. Because the delivery date control is method is ATP, the ATP data is calculated to find the earliest possible ship date. Based on the settings, the delayed purchase order and sales order are considered, and the resulting ATP quantity for the current date is 0. Tomorrow, when the delayed purchase order is expected to be received, the ATP quantity is calculated as more than 0 (in this case, it's calculated as 125). However, 10 days from now, when the additional purchase order for 100 pieces is expected to be received, the ATP quantity becomes more than 150. Therefore, the ship date is set to 10 days from now, based on the ATP calculation. Therefore, you tell the customer that the requested quantity can be delivered 10 days from now.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

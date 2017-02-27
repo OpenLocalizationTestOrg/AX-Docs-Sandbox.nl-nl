@@ -1,24 +1,27 @@
 ---
-title: Benefit eligibility policies | Microsoft Docs
+title: Benefit eligibility policies
 description: This article provides information about benefit eligibility policies, which help you define who is eligible for specific benefits.
 author: rschloma
 manager: AnnBe
-ms.date: 2015-12-04 02:16:06
+ms.date: 2015-12-04 02 - 16 - 06
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: HcmBenefitEligibilityDetail, SysPolicyListPage, SysPolicySourceDocumentRuleType
+ms.search.form: HcmBenefitEligibilityDetail, SysPolicyListPage, SysPolicySourceDocumentRuleType
 audience: Application User
 ms.reviewer: rschloma
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16441
-ms.assetid: 9341c8e9-c37c-473f-b090-6c56d43b0a24
-ms.region: Global
+ms.assetid: 4ad0106f-5b07-4fd5-bc1a-5834fa9b198e
+ms.search.region: Global
 ms.author: kherr
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: a65c82f8877ae458df15d32ce4a44f5a5533524e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: e6c65ccb25924388dc7f2a9c3e2845515dfc02cc
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,11 +48,6 @@ Policy rule types define the query parameters that are used when you develop spe
 <a name="see-also"></a>See also
 --------
 
-[Defining and managing a benefit program](https://docs.microsoft.com/en-us/dynamics365/operations/human-resources/managing-benefit-program)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Defining and managing a benefit program](manage-benefit-program.md)
 
 

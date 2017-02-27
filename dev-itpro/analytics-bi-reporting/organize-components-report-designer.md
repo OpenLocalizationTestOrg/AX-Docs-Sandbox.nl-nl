@@ -1,24 +1,27 @@
 ---
-title: Organize report components in report designer | Microsoft Docs
+title: Organize report components in report designer
 description: After you&quot;ve designed building blocks and generated reports, it&quot;s helpful to organize these objects so that they are easier for users to locate. This article explains how to organize existing reports, building blocks, and objects in report designer.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-03-07 19:06:25
+ms.date: 2016-03-07 19 - 06 - 25
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: FinancialReports
+ms.search.form: FinancialReports
 audience: Application User
 ms.reviewer: RobinARH
-ms.suite: Management Reporter
+ms.search.scope: Management Reporter, Core
 ms.custom: 59161
-ms.assetid: a0c917b4-1fa8-48bf-a4ab-0d16d8efefd5
-ms.region: Global
+ms.assetid: 32e728c5-3b06-4049-8070-ade01e951d49
+ms.search.region: Global
 ms.author: aolson
+ms.dyn365.ops.intro: 
+ms.dyn365.ops.version: 
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b96d466c8c387b93ee6432aaccfff6230995d567
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 00526e197d768f5492f103aa3ffb226c10386186
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -151,11 +154,6 @@ Only default base period settings are saved with the report definition.</td>
 <a name="see-also"></a>See also
 --------
 
-[Financial reporting for Microsoft Dynamics AX](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/management-reporter-for-microsoft-dynamics-erp)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Financial reporting for Microsoft Dynamics AX](financial-reporting-intro.md)
 
 

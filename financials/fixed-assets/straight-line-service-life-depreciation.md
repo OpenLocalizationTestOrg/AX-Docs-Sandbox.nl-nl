@@ -1,24 +1,26 @@
 ---
-title: Straight line service life depreciation | Microsoft Docs
+title: Straight line service life depreciation
 description: This article gives an overview of the Straight line service life method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-09-10 20:48:40
+ms.date: 2015-09-10 20 - 48 - 40
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 3341
-ms.assetid: a061b7cf-49a5-476d-b2e6-a2edb01247a9
-ms.region: Global
+ms.assetid: ae5ceaeb-aeb7-45cd-b835-23cf9c5cf95a
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: feb3b534633df27255180b3b63615b1c9a4e2f4d
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 9e7e8fc9213fedfb62a7653eb7ea27e2f53b65b4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -85,10 +87,5 @@ Suppose that you add an acquisition adjustment of 4,000 in year 2 to the same fi
 \*Because the remaining amount is less than the depreciation amount, only the remaining amount minus the salvage value is taken.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

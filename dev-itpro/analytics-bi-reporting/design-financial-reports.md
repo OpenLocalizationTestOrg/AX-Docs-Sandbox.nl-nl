@@ -1,23 +1,26 @@
 ---
-title: View and design financial reports | Microsoft Docs
+title: View and design financial reports
 description: This article provides exercises that walk you through viewing and creating financial reports for Microsoft Dynamics AX. Financial reporting consists of a viewing experience within Dynamics AX and a click-once report designer that lets you create and edit financial reports.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-10-26 19:05:28
+ms.date: 2015-10-26 19 - 05 - 28
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 10814
-ms.assetid: 2bf0c132-0e4b-4bb7-9e5a-ccc0b4b2f34c
-ms.region: Global
+ms.assetid: cd5f6483-c09b-4c2d-9336-d22eb6ab6e4f
+ms.search.region: Global
 ms.author: jcart
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 562495fa9d13b93baa54f24f9dcf3ba1a3555645
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 50b50d9e4890518ed6bf08d5c59411a440d818f1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -178,11 +181,6 @@ In this exercise, you’ll be creating a new report. The report is a side-by-sid
  
 
 ## <a name="additional-resources"></a>Additional resources
-[Financial reporting](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/financial-reporting) [View financial reports](https://docs.microsoft.com/en-us/dynamics365/operations/financials/general-ledger/view-financial-reports) [Dynamics Financial Reporting Blog](http://blogs.msdn.com/b/dynamics_financial_reporting/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Financial reporting](financial-reporting-getting-started.md) [View financial reports](view-financial-reports.md) [Dynamics Financial Reporting Blog](http://blogs.msdn.com/b/dynamics_financial_reporting/)
 
 

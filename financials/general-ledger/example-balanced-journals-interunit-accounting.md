@@ -1,24 +1,27 @@
 ---
-title: Balanced journals for interunit accounting | Microsoft Docs
+title: Balanced journals for interunit accounting
 description: This article shows how a journal is automatically balanced when a balancing financial dimension is selected on the Ledger page.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-03 20:52:10
+ms.date: 2015-12-03 20 - 52 - 10
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerParameters
+ms.search.form: LedgerParameters
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 15791
-ms.assetid: 48cc8971-833c-4760-bc8d-5310f76b1140
-ms.region: Global
+ms.assetid: 301bd80e-f8b1-4f12-8194-e6d7de736084
+ms.search.region: Global
 ms.author: peakerbl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: f325f03d07b943b788b4fe3042d6497d882e6319
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 2d152b536e0001acd6b26e962039f86deecb7aea
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -48,10 +51,5 @@ Therefore, the following accounting entries are created automatically to balance
 | (Interunit Credit) – NY – OU\_249 | 100.00 CR |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

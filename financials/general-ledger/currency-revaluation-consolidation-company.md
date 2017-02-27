@@ -1,23 +1,25 @@
 ---
-title: Currency revaluation in a consolidation company | Microsoft Docs
+title: Currency revaluation in a consolidation company
 description: 
 author: rschloma
 manager: AnnBe
-ms.date: 2016-03-08 17:49:53
+ms.date: 2016-03-08 17 - 49 - 53
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 62183
-ms.assetid: 4a8ea63d-d323-4b48-89b6-605c49f8b39a
-ms.region: Global
+ms.assetid: 2762baaf-0c10-4ff7-8713-c506d6c29b98
+ms.search.region: Global
 ms.author: hminzner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 161291cdeb18a11dfecb4d2b72354ed256060dff
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c8db360ea2b7ab3ba35ef0fb9e0d380645202316
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -82,10 +84,5 @@ You will see additional transactions for the reporting currency amounts.
 | 801600         | EUR      | -250    | -500 – (-333.33) = -166.67 -166.67 + (-83.33) = -250 |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,25 +1,28 @@
 ---
-title: Batch attributes | Microsoft Docs
+title: Batch attributes
 description: This article provides information about batch attributes. Batch attributes are characteristics of raw materials and finished products that make up inventory batches. The article also explains how to assign batch attributes, and how you can search on them when you reserve batches.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:17:04
+ms.date: 2015-12-07 09 - 17 - 04
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PdsBatchAttrib, PdsBatchAttribAssociate, PdsBatchAttribByAttribGroup, PdsBatchAttribByItem, PdsBatchAttribByitemCustomer, PdsBatchAttribGroup
+ms.search.form: PdsBatchAttrib, PdsBatchAttribAssociate, PdsBatchAttribByAttribGroup, PdsBatchAttribByItem, PdsBatchAttribByitemCustomer, PdsBatchAttribGroup
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19271
-ms.assetid: 199c0eed-5b57-4e19-8d32-a3cfdd991f77
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 41de0250-4a96-412e-a412-aa06615b6b1d
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eb381410f82d11a0c1cd71649d53db10f6f07e76
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 81dc32b22e41cb450c7b3e61e56b6250114b0b75
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +49,5 @@ You can access the pages for products that you select on the **Released products
 
 ## <a name="reserve-batches"></a>Reserve batches
 You can search on batch attributes when you do batch reservations for a sales order to fullfill a customer's order, or when you pick and reserve batches for a production order. The search helps locate an inventory batch that contains the product that has the batch attribute that you want. After you locate the batch or batches, you can reserve the product to the originating inventory transaction line.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

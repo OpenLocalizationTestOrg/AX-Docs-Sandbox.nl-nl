@@ -1,25 +1,27 @@
 ---
-title: Adjust on-hand inventory cost values | Microsoft Docs
+title: Adjust on-hand inventory cost values
 description: Use the Adjustment of on-hand inventory page to adjust the cost value of the on-hand inventory quantities after an inventory close process is run.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:12:09
+ms.date: 2016-02-24 15 - 12 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventAdjInventOnHand
+ms.search.form: InventAdjInventOnHand
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53231
-ms.assetid: 213e6e6d-50f4-4815-983d-43f717c13cba
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: bc1fde9f-5ad9-4339-8ae8-e2839b792eb2
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 309ead4610b107e743f7dead0d27b4b1cb5d74b6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 44112036dc16183605d2b0616bd69bf533d333e7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -40,10 +42,5 @@ This item was set up with the first in, first out (FIFO) inventory model, and in
 -   February 5: A quantity of 1 at a cost of USD 13.00
 
 To set the cost of these two items to USD 15.00, use the on-hand adjustment option to adjust the open on-hand quantities as of the last inventory close period. **Note:** The posting date of the on-hand adjustment transaction will be the date of the last inventory close. This date can't be modified.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

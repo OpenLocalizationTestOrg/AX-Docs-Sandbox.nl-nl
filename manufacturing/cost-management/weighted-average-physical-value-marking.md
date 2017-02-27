@@ -1,25 +1,28 @@
 ---
-title: Weighted average with physical value and marking | Microsoft Docs
+title: Weighted average with physical value and marking
 description: 
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-03-17 15:15:52
+ms.date: 2016-03-17 15 - 15 - 52
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
+ms.search.form: InventJournalLossProfit, InventMarking, InventModelGroup, SalesTable
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 65501
-ms.assetid: ee72cc62-336b-4c08-87e5-32d35292e6b3
-ms.region: Global
-ms.industry: Retail
+ms.assetid: 25041ff0-bafe-484d-a94a-e1772ad43204
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: yuyus
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3b3cad7bbed59f6ae30c2e1c67d9f786542eda83
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: f4c26014e84c2fbfdb1aa9f0284f70189d5ce3c5
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -172,10 +175,5 @@ The new running average cost price reflects the average of the financially and p
 -   Settlements that are performed by inventory close are represented by dotted red arrows going diagonally from a receipt to an issue.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

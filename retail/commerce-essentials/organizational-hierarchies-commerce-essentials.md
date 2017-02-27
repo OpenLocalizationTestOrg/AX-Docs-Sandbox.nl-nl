@@ -1,24 +1,26 @@
 ---
-title: Organizations and organizational hierarchies (Commerce essentials) | Microsoft Docs
+title: Organizations and organizational hierarchies (Commerce essentials)
 description: Commerce essentials has three types of internal organizations that you can define to help an organization carry out a business process or achieve a goal.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-09 14:53:48
+ms.date: 2015-12-09 14 - 53 - 48
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: josaw1
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21251
-ms.assetid: b3db4bbf-d0c1-484e-bf71-cfdbb985b27c
-ms.region: global
-ms.industry: Retail
+ms.assetid: 2bfc6bfe-784b-42e8-8bf0-116e9f0a558e
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 412be1495141403f19397b3be44026bd21ed1316
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 07906192bc5eb2425139c7578c9a45e8b23c5eb1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -68,10 +70,5 @@ The following table describes the Commerce essentials scenarios where organizati
 | Post inventory, calculate statements, or post statements for a group of stores | Create a group of stores that can be assigned to a batch job. When you define a batch job to post inventory, calculate statements, or post statements, you can specify which hierarchy the job applies to. When stores are added to or removed from the hierarchy, you don’t have to modify the batch job. | Retail POS posting   |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

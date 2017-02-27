@@ -1,24 +1,27 @@
 ---
-title: Sales agreements | Microsoft Docs
+title: Sales agreements
 description: This article provides information about sales agreements. A sales agreement is a contract that commits the customer to buy products in a specific quantity or for a specific amount over time, in exchange for special prices and discounts.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-18 07:17:11
+ms.date: 2015-09-18 07 - 17 - 11
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SalesAgreement, SalesAgreementGenerateReleaseOrder, SalesAgreementListPage
+ms.search.form: SalesAgreement, SalesAgreementGenerateReleaseOrder, SalesAgreementListPage
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 9554
-ms.assetid: d029a1d0-e26c-4f29-930e-82dc12ecee56
-ms.region: Global
+ms.assetid: c5d55c8d-99f2-44f9-a897-5b0dee85fc81
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3b9618909a47ece0f8c30ed06c34cb8a0cbe9b2e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: c950b7e6ee76ca6215e581806ccdeef61b79894d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -88,10 +91,5 @@ In some situations where sales orders are created indirectly, such as when you c
 
 ## <a name="financial-dimensions-on-sales-agreements"></a>Financial dimensions on sales agreements
 You can copy financial dimensions to either document headers or individual lines of a sales agreement. You can change the dimensions on an agreement header or agreement line at any time. In this case, the dimensions are automatically copied to the release header or release line of release orders.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

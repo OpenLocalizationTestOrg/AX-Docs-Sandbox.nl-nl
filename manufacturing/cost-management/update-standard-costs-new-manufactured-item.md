@@ -1,25 +1,27 @@
 ---
-title: Update standard costs for a new manufactured item | Microsoft Docs
+title: Update standard costs for a new manufactured item
 description: This article provides guidance for updating standard costs for a new manufactured item.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-11 13:26:17
+ms.date: 2016-04-11 13 - 26 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: CostingVersion, InventStdCostConv
+ms.search.form: CostingVersion, InventStdCostConv
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 79693
-ms.assetid: c0de064e-174c-43d4-a965-c422b28e627e
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: ba64b70f-3f4c-4373-9a7d-8fd07c45a8cf
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: eaac75b0f24264c323b5ca8056e318ed50b9ef97
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 8fbb2965b7543542e7004c0f99600d4a1fd84e85
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -46,10 +48,5 @@ To add new manufacturing items throughout the frozen period, follow these steps.
 6.  Use the **Activate prices** page (which you open from the **Costing version maintenance** page) to enable all pending cost records in the second costing version. You can also enable the pending cost records for individual items by clicking the **Activate** button on the **Item price** page.
 7.  Use the **Costing version setup** page to change the blocking flags in the second costing version to prevent additional data maintenance. The blocking policies prevent the entry of new pending costs and the activation of pending costs.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

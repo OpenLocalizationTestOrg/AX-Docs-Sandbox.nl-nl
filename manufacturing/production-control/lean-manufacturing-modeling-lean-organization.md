@@ -1,25 +1,27 @@
 ---
-title: Modeling a lean organization | Microsoft Docs
+title: Modeling a lean organization
 description: The article provides information about the key concepts in modeling a lean organization.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-24 15:08:43
+ms.date: 2016-02-24 15 - 08 - 43
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LeanProductionFlow, PlanActivity
+ms.search.form: LeanProductionFlow, PlanActivity
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 53141
-ms.assetid: 72acf662-e9c0-4592-9934-119aea106f7d
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 4f272f2f-ec2c-4b0d-a652-00a63b719b9e
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: conradv
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5fc692385273f3d264d35db67f61538f58a7ada7
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 48ea256d992f2590cdd92299e618716d1be607fb
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -50,10 +52,5 @@ To better support continuous improvement, the production flows are implemented i
 
 ## <a name="simplicity"></a>Simplicity
 For the implementation of Lean manufacturing for Dynamics AX, we choose a production flow and activity approach that enables simple and complex production scenarios to be modeled in a single scalable architecture. A closer look at the activity concept reveals a new simplicity for those users who require it: the shop floor and logistics workers. By reporting against activity-based jobs instead of inventory transactions, a unified user interface for all lean manufacturing variants transfers the business complexity from the user interface to where it belongs: the production flow as the backbone of lean manufacturing.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

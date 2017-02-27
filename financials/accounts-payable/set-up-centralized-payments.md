@@ -1,24 +1,26 @@
 ---
-title: Set up centralized payments | Microsoft Docs
+title: Set up centralized payments
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-08 17:50:17
+ms.date: 2016-03-08 17 - 50 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: LedgerInterCompany
+ms.search.form: LedgerInterCompany
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 62243
-ms.assetid: 067909a0-adf4-4855-8b9b-c03a2e2f5a41
-ms.region: Global
+ms.assetid: ffd17b5f-9aea-40e0-be49-d8702f615256
+ms.search.region: Global
 ms.author: kweekley
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: c9e256bdc938eca26fe61e5394f20fcaf5fc1866
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 20ea9faa6671a119e663669e62b99d0175ec754c
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -51,10 +53,5 @@ When you create a payment in one legal entity that settles invoices in other leg
 
 ## <a name="set-up-default-descriptions"></a>Set up default descriptions
 You can define default descriptions for intercompany settlement vouchers. The default description is included on the due-to and due-from transactions during the cross-company settlement process. On the **Default descriptions** page, you can create new descriptions for both **Intercompany customer settlement** and **Intercompany vendor settlement** by selecting a language and then entering text.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,23 +1,25 @@
 ---
-title: Sales and profitability performance content pack for Power BI | Microsoft Docs
+title: Sales and profitability performance content pack for Power BI
 description: This topic describes what&quot;s included in the Dynamics 365 for Operations - Sales and profitability performance content pack for Microsoft Power BI. It explains how to access the reports included in the content pack and provides information about the data model and entities that are used to build the content pack.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-12-01 12:21:14
+ms.date: 2016-12-01 12 - 21 - 14
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 121
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations, Core
 ms.custom: 260674
-ms.assetid: 5636eb9d-f5b2-483e-b3e6-2cd9980a01ea
-ms.region: Global
+ms.assetid: ab457f02-929e-4d34-b813-335be3092287
+ms.search.region: Global
 ms.author: omulvad
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 89c0273059791683efdb75587ce1dde683c93715
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 528e6b813a3ac4713967a3223335c4ef304cbfae
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,7 +43,7 @@ Profitability can be analyzed by:
 -   Customer profitability (by revenue versus gross margin)
 
 ## <a name="accessing-the-content-pack"></a>Accessing the content pack
-The Sales and profitability performance Power BI content pack is published as an implementation asset in Lifecycle Services (LCS) and can be accessed from Dynamics 365 for Operations. For more information about how to access and launch Power BI reports, see the blog [Authoring and distributing Power BI reports with Dynamics](https://blogs.msdn.microsoft.com/dynamicsaxbi/2016/06/23/authoring-and-distributing-power-bi-reports-with-dynamics-ax7/).
+The Sales and profitability performance Power BI content pack is published as an implementation asset in Lifecycle Services (LCS) and can be accessed from Dynamics 365 for Operations. For more information about how to access and launch Power BI reports, see [Power BI content in LCS from Microsoft and your partners](power-bi-content-microsoft-partners.md).
 
 ## <a name="metrics-included-in-the-content-pack"></a>Metrics included in the content pack
 The content pack includes a report that consists of a set of metrics visualized as charts, tiles, and tables. The following table provides an overview of the visualisations in the content pack.
@@ -104,15 +106,10 @@ By default, the content pack displays data for the current calendar year, but yo
 ## <a name="additional-resources"></a>Additional resources
 Here are some helpful links that are related to entities and building Power BI content:
 
--   [Data entities](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/data-entities/data-entities)
+-   [Data entities](data-entities.md)
 -   [Creating organizational content packs](https://powerbi.microsoft.com/en-us/documentation/powerbi-service-organizational-content-packs-introduction/)
 -   [Data modeling using Power BI](https://powerbi.microsoft.com/en-us/guided-learning/powerbi-learning-2-1-intro-modeling-data)
--   [Adding Power BI tiles to workspaces](https://docs.microsoft.com/en-us/dynamics365/operations/dev-itpro/analytics-bi-reporting/configuring-powerbi-integration)
+-   [Adding Power BI tiles to workspaces](configure-power-bi-integration.md)
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Purchase agreements | Microsoft Docs
+title: Purchase agreements
 description: This article provides information about purchase agreements. A purchase agreement is a contract that commits an organization to buy a specified quantity or amount by using multiple purchase orders over time. In exchange for this commitment, the buyer receives special prices and discounts.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:58:22
+ms.date: 2015-10-30 12 - 58 - 22
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AgreementClassification, AgreementLine, AgreementLinePrompt, PurchAgreement, PurchAgreementCreate, PurchAgreementGenerateReleaseOrder, PurchAgreementHistory, PurchAgreementInvoiceJournal
+ms.search.form: AgreementClassification, AgreementLine, AgreementLinePrompt, PurchAgreement, PurchAgreementCreate, PurchAgreementGenerateReleaseOrder, PurchAgreementHistory, PurchAgreementInvoiceJournal
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11634
-ms.assetid: 173ffbcb-1bd7-4144-bc7b-f58df96fcef6
-ms.region: Global
+ms.assetid: 8ac20adf-7412-4929-be8c-aaedf23a76ad
+ms.search.region: Global
 ms.author: mkirknel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b4cba9bbcb692782bc8770d75868ebf8dfb0d80b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 554c4be426cbd2829745fd0813b2ee1cb1466c7f
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -75,10 +77,5 @@ You can copy financial dimensions to document headers or to individual lines of 
 [Create a purchase agreement](https://ax.help.dynamics.com/en/wiki/create-a-purchase-agreement/)
 
 [Create a purchase release order from a purchase agreement](https://ax.help.dynamics.com/en/wiki/create-a-purchase-release-order-from-a-purchase-agreement/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

@@ -1,24 +1,26 @@
 ---
-title: Import currency exchange rates | Microsoft Docs
+title: Import currency exchange rates
 description: "If a legal entity has received invoices in foreign currencies, it’s necessary to convert the foreign currency into the local currency. This means that up-to-date exchange rates for different currencies are required. This topic provides an overview of the required settings and processing for importing foreign exchange reference rates published over the Internet by the exchange rate providers, such as the European Central Bank and the Central Bank of Russia."
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2016-12-02 21:05:37
+ms.date: 2016-12-02 21 - 05 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ExchangeRateProviderConfiguration
+ms.search.form: ExchangeRateProviderConfiguration
 audience: Application User
-ms.reviewer: 81
-ms.suite: Released- Dynamics 365 for Operations version 1611
+ms.search.scope: Operations
 ms.custom: 261374
-ms.assetid: 0bcc76f8-3e6b-4ccd-a661-ef5a70488ad8
-ms.region: Global
+ms.assetid: b2b22868-de68-439f-914c-78c6930b7340
+ms.search.region: Global
 ms.author: epopov
+ms.dyn365.ops.intro: 01-11-2016
+ms.dyn365.ops.version: Version 1611
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 68cf4dd15544a1c2fe15ec11aaf659a1f5e02298
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 92cdf8c684c98dfb33828f2ae0f42010e638290d
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -53,10 +55,5 @@ You can import exchange rates from the exchange rate providers source, and set t
 | **Prevent import on national holiday** | This check box manages the import of the exchange rate for a date that is a public holiday. For example, if you select this check box and use the European Central Bank as the exchange rate provider, the system will not update the exchange rate on a public holiday that is related to the current legal entity. This option might not be available for some providers. |
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

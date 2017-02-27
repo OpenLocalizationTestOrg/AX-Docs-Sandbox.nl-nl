@@ -1,25 +1,27 @@
 ---
-title: Cost categories used in Production control and Project management accounting | Microsoft Docs
+title: Cost categories used in Production control and Project management accounting
 description: Some types of production work can apply to project time estimates and reporting. This article provides information about the cost categories that you must define for these types of production work for production and project purposes.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-04-05 14:45:18
+ms.date: 2016-04-05 14 - 45 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProjCategory
+ms.search.form: ProjCategory
 audience: Application User
-ms.reviewer: 2094
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 78253
-ms.assetid: 6f05e817-36df-4faa-8b05-ca44b49d83d0
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: cfdd58a0-8afa-4a6f-a208-a76e2c162429
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: mguada
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 4aaa3b5c89044f8bd0e1b63a1843bf442284931c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 0dbfd8685beeb780a8991cb8632a9c89ffc1c821
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,10 +37,5 @@ Some types of production work can apply to project time estimates and reporting.
 -   Typically, the ledger accounts that are related to costs and sales are defined for the category group that is assigned to the cost category. However, specific accounts can be defined for an individual cost category.
 
 Additional buttons on the **Cost categories** page let you access project-related information about a selected cost category. For example, you can view project-related transactions, define employees or projects, define hourly costs and sales prices, and view reports.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

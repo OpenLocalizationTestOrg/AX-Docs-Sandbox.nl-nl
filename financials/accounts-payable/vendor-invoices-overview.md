@@ -1,23 +1,26 @@
 ---
-title: Vendor invoices overview | Microsoft Docs
+title: Vendor invoices overview
 description: This article provides general information about vendor invoices. Vendor invoices are requests for payment for products and services that were received. Vendor invoices can represent a bill for ongoing services, or they can be based on purchase orders for specific items and services.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:02:27
+ms.date: 2015-12-02 23 - 02 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13971
-ms.assetid: 4ca9cfca-deee-45ca-b3e6-eafa571b733c
-ms.region: Global
+ms.assetid: 0ec4dbc0-2eeb-423b-8592-4b5d37e559d3
+ms.search.region: Global
 ms.author: mfalkner
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7e468a754130a03e7e56b2683ced336ca0d48d8e
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 042ec2f8f76cc5bcbb9a3095fb3ed97f45b192ef
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -69,10 +72,5 @@ You can work with multiple invoices at the same time and post them all at the sa
 [Enter and post invoices in the Invoice register form and invoice pool](http://ax.help.dynamics.com/en/wiki/key-invoice-data-in-ap-system-using-invoice-pool/)
 
 [Enter and post invoice in the Invoice register using the approval journal](http://ax.help.dynamics.com/en/wiki/key-invoice-data-in-ap-system-using-invoice-register/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

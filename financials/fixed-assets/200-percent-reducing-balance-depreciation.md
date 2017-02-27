@@ -1,24 +1,26 @@
 ---
-title: 200 percent reducing balance depreciation | Microsoft Docs
+title: 200 percent reducing balance depreciation
 description: This article gives an overview of the 200 percent reducing balance method of depreciation.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-02 23:02:09
+ms.date: 2015-12-02 23 - 02 - 09
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetDepreciationProfile
+ms.search.form: AssetDepreciationProfile
 audience: Application User
-ms.reviewer: 101
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 13951
-ms.assetid: b5c2cca5-6ff6-401c-ba4d-fcb815ea5433
-ms.region: Global
+ms.assetid: 69b4e010-7683-4dc2-8a06-6d572f37e903
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b163bdaa9ea2dc99c215580dbae00282652199c5
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: fcdad9a1398420ced3ca1ed8b74fc320a6a7397e
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -67,10 +69,5 @@ The 200% reducing balance method divides 200 percent by the service life years. 
 | Year 3 | 3,600 × 40% = 1,440                           | 4,600 – 1,440 = 3,160  | 3,600 – 1,440 = 2,160                 |
 
 **Note:** Typically, when the amount that is calculated by using the 200% reducing balance depreciation method becomes less than the amount that would be calculated by using the straight line method, there is a conversion to the straight line method for the remaining life.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

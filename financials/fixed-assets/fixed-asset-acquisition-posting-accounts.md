@@ -1,24 +1,27 @@
 ---
-title: Fixed asset acquisition posting accounts | Microsoft Docs
+title: Fixed asset acquisition posting accounts
 description: This article explains how to set up general ledger posting accounts for acquiring assets.
 author: twheeloc
 manager: AnnBe
-ms.date: 2015-12-11 22:58:02
+ms.date: 2015-12-11 22 - 58 - 02
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: AssetPosting
+ms.search.form: AssetPosting
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 23021
-ms.assetid: 3d093e84-1789-4e33-9a2d-7fe89874d4b3
-ms.region: Global
+ms.assetid: d7e86f72-95db-4423-9b04-761e9536a959
+ms.search.region: Global
 ms.author: saraschi
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 44613c932e5aa3f5d1a03b0d22c7908e6bdf80eb
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 1d9a9aac87b61ece7860d2b7a8f9771e2ab30f1a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -35,10 +38,5 @@ Accounts used for posting fixed asset acquisitions may vary depending upon the m
 --------
 
 [Acquire assets through procurement](https://ax.help.dynamics.com/en/wiki/Acquire-assets-through-procurement/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

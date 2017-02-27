@@ -1,24 +1,26 @@
 ---
-title: Quality management processes | Microsoft Docs
+title: Quality management processes
 description: This article provides information about the quality management process for nonconforming products. It describes how you can use quality control functionality, how to define and maintain nonconformances, and how to handle corrections.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-10-30 12:53:17
+ms.date: 2015-10-30 12 - 53 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventItemSampling, InventNonConformanceHistory, InventNonConformanceTable, InventQualityOrderLineResults, InventQualityOrderTable, InventTestCorrection, InventTestDiagnosticType, InventTestInstrument, InventTestReportSetup, InventTestTable
+ms.search.form: InventItemSampling, InventNonConformanceHistory, InventNonConformanceTable, InventQualityOrderLineResults, InventQualityOrderTable, InventTestCorrection, InventTestDiagnosticType, InventTestInstrument, InventTestReportSetup, InventTestTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 11574
-ms.assetid: c2778d66-78eb-40a7-9205-d4f3f2464d5d
-ms.region: Global
+ms.assetid: 5ac8a059-5cb4-4cb5-ba14-b944bd08dae9
+ms.search.region: Global
 ms.author: perlynne
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 45da170dd7b4b08f326102597ae10584d397dff3
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 51581dffad628354d13111a7a4caf97570e01207
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -72,21 +74,16 @@ The **Corrections** page lets you create a list of nonconformances that must be 
 <a name="see-also"></a>See also
 --------
 
-[Enabling quality management](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/enabling-quality-management)
+[Enabling quality management](enable-quality-management.md)
 
-[Enabling nonconformance management](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/enabling-nonconformance-management)
+[Enabling nonconformance management](enable-nonconformance-management.md)
 
-[Inventory blocking](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/warehouse-management/inventory-blocking)
+[Inventory blocking](inventory-blocking.md)
 
-[Quarantine orders](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/inventory-management/quarantine-orders)
+[Quarantine orders](quarantine-orders.md)
 
 [Set up quality orders](http://ax.help.dynamics.com/en/wiki/set-up-quality-orders/)
 
 [Inspect the quality of goods](https://ax.help.dynamics.com/en/wiki/inspect-the-quality-of-goods/)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

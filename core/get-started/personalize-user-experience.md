@@ -1,24 +1,26 @@
 ---
-title: Personalize the user experience | Microsoft Docs
+title: Personalize the user experience
 description: This article explains how you can personalize Microsoft Dynamics 365 for Operations.
 author: RobinARH
 manager: AnnBe
-ms.date: 2016-03-08 19:56:24
+ms.date: 2016-03-08 19 - 56 - 24
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: SysUserSetup
+ms.search.form: SysUserSetup
 audience: Application User, IT Pro
-ms.reviewer: 71
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations, Core
 ms.custom: 62363
-ms.assetid: 9fd936cf-8293-4e39-8132-3ee3fcfe3f17
-ms.region: Global
+ms.assetid: 57b445d7-3e9e-4228-8728-f63b9dbd77a3
+ms.search.region: Global
 ms.author: tlefor
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 493224eb2c555245ae59c89ea5198aae3fd596ff
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 5c26f6283c6d37bed080a1063ebbc3d778fe9bdd
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -54,10 +56,5 @@ The dashboard is often the first page you'll see when you open Dynamics 365 for 
 
 ## <a name="administration-of-personalization"></a>Administration of personalization
 It is possible to personalize a page and share it with other users by simply exporting the personalized page and asking the other users to navigate to the personalized page and import the personalization file that you've created. If a user has admin privileges, they can also manage personalizations for other users in the **Personalization Setup** page. Navigate to the b page. In the **Personalization** page, you'll find two tabs, one labeled **System** and one labeled **Users**. **System:** This is where you can temporarily disable or "turn off" all personalizations in the system. This doesn't delete personalizations, instead it resets all forms to their default state. You can later re-enable personalization to have all personalizations re-applyed to each users forms. You can also delete all personalizations for all users. Note that when you delete personalizations, there is no way to automatically re-enable personalizations from the system. Make sure you have exported personalizations that you may want to later import before performing this step. **Users:** This is where you can decide for each user if they can perform either implicit or explicit personalization. You can also decide if each user can perform implicit or explicit personalization on a specific form. Lastly, you can import or export or delete a personalization for each user. **Note:** In its initial release, personalization administration allows only management on a user by user basis.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

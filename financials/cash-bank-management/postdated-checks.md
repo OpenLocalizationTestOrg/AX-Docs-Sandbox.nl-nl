@@ -1,23 +1,26 @@
 ---
-title: Postdated checks | Microsoft Docs
+title: Postdated checks
 description: This article provides information about support for postdated checks in Microsoft Dynamics 365 for Operations. Postdated checks are checks that are issued to make and receive payments on a future date. Therefore, the check can&quot;t be cashed until the specified date.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-11 15:16:27
+ms.date: 2015-12-11 15 - 16 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 21741
-ms.assetid: 1bbf1338-1e92-4ed9-929d-8010bfb898b3
-ms.region: Global
+ms.assetid: 4eb7c7da-1e6b-4d35-9f41-373b66103229
+ms.search.region: Global
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 825b39db2ca8317a0fed2e4802787738bd65692b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 242a59673ad0cf80f35ffe0100a00b2ee0e559f1
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -75,10 +78,5 @@ You can cancel a posted postdated check in these situations:
 -   A cash payment is made against the check.
 
 Stop payment for a postdated check.You can stop payment on a postdated check that was issued to a vendor, for reasons such as not sufficient funds, changes in the terms of the agreement with the vendor, supply of defective goods by the vendor, or return of goods to the vendor. You can stop payment only on checks that haven't cleared.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

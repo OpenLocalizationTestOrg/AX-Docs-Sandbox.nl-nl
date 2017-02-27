@@ -1,24 +1,27 @@
 ---
-title: Set up bank reconciliation matching rules | Microsoft Docs
+title: Set up bank reconciliation matching rules
 description: This article explains how to set up reconciliation matching rules and reconciliation matching rule sets to help with the bank reconciliation process. Reconciliation matching rules are a set of criteria that are used to filter bank statement lines and bank document lines during the reconciliation process.
 author: ShylaThompson
 manager: AnnBe
-ms.date: 2015-12-01 16:05:17
+ms.date: 2015-12-01 16 - 05 - 17
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: BankReconciliationMatchRule, BankReconciliationMatchRuleSet
+ms.search.form: BankReconciliationMatchRule, BankReconciliationMatchRuleSet
 audience: Application User
 ms.reviewer: ShylaThompson
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 12971
-ms.assetid: ec46bb71-e22b-4543-8938-a3b317567014
-ms.region: Global
+ms.assetid: b5073f83-31dc-404f-af42-3fd84a02a7c6
+ms.search.region: Global
 ms.author: leguo
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: b60ec744604846ab80044ef8e96c1694a7074ad1
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 6a9fa4e110c73cbf4397adc943f74606f144c642
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -44,10 +47,5 @@ You can set up reconciliation matching rules and reconciliation matching rule se
 --------
 
 [Advanced bank reconciliation overview](https://ax.help.dynamics.com/en/wp-admin/post.php?post=256174&action=edit)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

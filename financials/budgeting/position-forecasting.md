@@ -1,23 +1,26 @@
 ---
-title: Position forecasting | Microsoft Docs
+title: Position forecasting
 description: 
 author: twheeloc
 manager: AnnBe
-ms.date: 2016-03-10 10:04:27
+ms.date: 2016-03-10 10 - 04 - 27
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
 ms.reviewer: twheeloc
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 64413
-ms.assetid: 204c1c27-705a-48a1-ad25-dc7443492a4b
-ms.region: Global
+ms.assetid: 35e791d2-1905-4808-a579-7f181ddddd91
+ms.search.region: Global
 ms.author: sigitac
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: aa3824fcf3fb3cfb0f660f063e740283c3fce6a2
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a47678a2232574cf5f03c0bb327df363adec4851
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -112,10 +115,5 @@ For both the generation process and the selection process, the start date on the
 #### <a name="changing-budget-plan-lines-that-have-forecast-positions"></a>Changing budget plan lines that have forecast positions
 
 Budget plan lines show the source of the budget amounts (the forecast position number) but aren't linked. Therefore, changes to the forecast position aren't shown on the budget plan line, and changes to the budget plan line are shown in the forecast position. If you change a forecast position and want the updates to be included in a budget plan, you must bring the forecast position into the plan again. However, remember that this process removes all lines where that forecast position is assigned. Therefore, any changes that you've made to those lines are removed. To see which budget plans a forecast position has been included in, you can generate the **Forecast positions by budget plan** report. Alternatively, on the forecast position, you can open the **Associated budget plans** FactBox to view the plans.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

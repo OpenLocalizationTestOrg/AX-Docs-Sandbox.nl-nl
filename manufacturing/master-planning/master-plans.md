@@ -1,25 +1,28 @@
 ---
-title: Master plans | Microsoft Docs
+title: Master plans
 description: Use various master plans to support your company&quot;s daily working operations, simulate different planning strategies that you want to monitor, and implement a company policy, such as a policy about internal performance or customer satisfaction.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-09-15 21:27:18
+ms.date: 2015-09-15 21 - 27 - 18
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ReqParameters, ReqPlanSched
+ms.search.form: ReqParameters, ReqPlanSched
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 7911
-ms.assetid: a58994c0-7230-4ae8-8d8e-71d926bfb417
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: a116b7de-3d6d-4321-87ba-5a5d99c2f64e
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: roxanad
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6728dc5c6ea4e00485c82c5bb7149c5bf0d26e1b
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: a2b34aa7df9e8cfdfa614c43fa35e749b7262c6a
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -45,15 +48,10 @@ You can also set up the starting dynamic plan so that it is updated with the new
 <a name="see-also"></a>See also
 --------
 
-[Coverage settings](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/master-planning/coverage-settings)
+[Coverage settings](coverage-settings.md)
 
 [Separating tactical and operative planning for master scheduling](http://blogs.msdn.com/b/axmfg/archive/2012/10/12/separating-tactical-and-operative-planning-for-master-scheduling.aspx)
 
 [Master Planning: Use a static and dynamic Master Plan or use one plan?](https://community.dynamics.com/ax/b/msdynaxlessonslearned/archive/2014/01/16/master-planning-use-a-static-and-dynamic-master-plan-or-use-one-plan)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

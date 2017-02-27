@@ -1,25 +1,27 @@
 ---
-title: Define and maintain retail channels | Microsoft Docs
+title: Define and maintain retail channels
 description: This article provides an overview of the process for setting up brick-and-mortar stores, which are referred to as retail stores in Microsoft Dynamics 365 for Operations. It includes information about the tasks that you must complete both before and after you set up a retail store.
 author: josaw1
 manager: AnnBe
-ms.date: 2015-12-04 02:16:32
+ms.date: 2015-12-04 02 - 16 - 32
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: RetailStoreTable, RetailStoreTableListPagePreviewPane
+ms.search.form: RetailStoreTable, RetailStoreTableListPagePreviewPane
 audience: Application User
-ms.reviewer: josaw1
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 16481
-ms.assetid: 25afa45d-d784-4ef1-98f1-8a470ca9ae50
-ms.region: Global
-ms.industry: Retail
+ms.assetid: 14496d96-1c72-43ce-a2e7-8467bab4ae46
+ms.search.region: Global
+ms.search.industry: Retail
 ms.author: mumani
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 41eb325231490ef3e2e54e886be35fe8be6c058c
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 470ac9dfeb323c3c2068ca544c598435d22c77ec
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -75,10 +77,5 @@ After you enter the details for the retail store, complete these tasks to send t
 
 ## <a name="organization-hierarchies"></a>Organization hierarchies
 Retail uses organization hierarchies in Microsoft Dynamics AX to structure retail channels. Organization hierarchies represent the relationships between the organizations that make up your business. When you set up stores, you can add them to an organization hierarchy. The stores then share data that is used for assortments, replenishment, and reporting.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

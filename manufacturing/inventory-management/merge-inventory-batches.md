@@ -1,24 +1,26 @@
 ---
-title: Merge inventory batches | Microsoft Docs
+title: Merge inventory batches
 description: This article provides information about how to consolidate two or more inventory batches into a merged batch.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-02-11 15:04:37
+ms.date: 2016-02-11 15 - 04 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: InventBatchJournalListPage, InventBatchJournalMerge
+ms.search.form: InventBatchJournalListPage, InventBatchJournalMerge
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 39782
-ms.assetid: d0300c3c-96e9-4c97-be32-8efd242bddce
-ms.region: Global
+ms.assetid: 07c5e98b-10fd-4f5c-b471-41d2150f47b0
+ms.search.region: Global
 ms.author: pjacobse
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 5b22bcbecf2aafcffa04d39c72ebbb68da5e4416
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 86d2f84b3b912bfece389328941bda7ab606d808
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -136,10 +138,5 @@ You can approve the inventory journal for the batch merge from the **All batch m
 
 ## <a name="after-i-merged-a-catchweight-item-why-cant-i-see-the-catchweight-information-in-the-inventory-journal"></a>After I merged a catchweight item, why can’t I see the catchweight information in the inventory journal?
 You can merge batches of catch-weight items just like all other items. However, the catch-weight information doesn't appear in the inventory journal. We recommend that you verify the catch-weight information before you transfer the batch merge to the inventory journal.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

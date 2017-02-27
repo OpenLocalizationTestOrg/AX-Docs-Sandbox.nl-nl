@@ -1,25 +1,28 @@
 ---
-title: Lean manufacturing overview | Microsoft Docs
+title: Lean manufacturing overview
 description: This article provides an overview and description of the lean manufacturing features in Microsoft Dynamics AX.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 09:20:37
+ms.date: 2015-12-07 09 - 20 - 37
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: KanbanBoardTransferJob, KanbanBoardWorkCell, KanbanJobSchedulingListPage, LeanProductionFlow
+ms.search.form: KanbanBoardTransferJob, KanbanBoardWorkCell, KanbanJobSchedulingListPage, LeanProductionFlow
 audience: Application User
 ms.reviewer: YuyuScheller
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19371
-ms.assetid: 001d4883-d0ad-48a3-a7f4-b511f5dc4af6
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: 026c5605-6be7-4fdb-a6f2-8e37a806796c
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: crytt
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 7b23b37d0be4e9b2037bdd0b747c8dbb0cd43faf
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 3d63aae7d32336a6712f3c702260279300f3755b
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -75,10 +78,5 @@ In addition, lean manufacturing supports the purchasing and invoicing processes 
 -   You can create periodic purchase orders and receipt advices to support the purchase and invoicing of the services.
 
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

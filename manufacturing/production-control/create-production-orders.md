@@ -1,25 +1,28 @@
 ---
-title: Create production orders | Microsoft Docs
+title: Create production orders
 description: When a production order is created, a request is initiated to start producing an item. The production order contains information about what will be produced, the quantity to produce, and the planned finish date. It also contains information about which materials to consume and which process to follow to produce the item.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2015-12-07 17:51:31
+ms.date: 2015-12-07 17 - 51 - 31
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: ProdTable, ProdTableCreate
+ms.search.form: ProdTable, ProdTableCreate
 audience: Application User
 ms.reviewer: annbe
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 19741
-ms.assetid: f9e8f686-c59a-4d97-9448-056f0fc4392f
-ms.region: Global
-ms.industry: Manufacturing
+ms.assetid: bbb6e69d-479c-45fc-a0a8-66da5df16c7f
+ms.search.region: Global
+ms.search.industry: Manufacturing
 ms.author: johanho
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 3312290334ce5493e4e5df37da4623439311afa8
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 330897407e53bf56f71afecece032fb99fa66bb7
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -38,10 +41,5 @@ A production order can be created in the following scenarios:
 -   Created directly from a sales order line or when a higher-level production order is created and estimated (pegged supply).
 -   Created manually.
 
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

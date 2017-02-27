@@ -1,24 +1,26 @@
 ---
-title: Receipt templates and printing | Microsoft Docs
+title: Receipt templates and printing
 description: This article describes how to modify form layouts to control how receipts, invoices, and other documents are printed. Microsoft Dynamics 365 for Operations - Retail includes a form layout designer that you can use to easily create and modify various kinds of form layouts.
 author: josaw1
 manager: AnnBe
-ms.date: 2016-03-01 21:00:50
+ms.date: 2016-03-01 21 - 00 - 50
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
 audience: Application User
-ms.reviewer: 41
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 57841
-ms.assetid: f74bfb0b-fcec-4fe4-a163-c0cc99ec087f
-ms.region: global
-ms.industry: Retail
+ms.assetid: e530dd8e-95e2-4021-90bd-ce1235f9e250
+ms.search.region: global
+ms.search.industry: Retail
 ms.author: rubendel
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 45d60dfc20fe4c3943c81d71370330d6def1bd1f
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 75e15989ee49e617cec0f5a481136761b94154d9
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -65,10 +67,5 @@ Receipt profiles are assigned directly to printers through the hardware profile.
 2.  Select the printer, and then, in the **Receipt profile** field, assign the receipt profile to use on the register.
 
 **Note:** If two printers are used, one printer can be used to print standard 40-column thermal receipts. The second printer is typically used to print full-page receipt types that require more information. These receipt types include customer order receipts and customer invoices.
-
-
-
-
-<!--HONumber=Feb17_HO3-->
 
 

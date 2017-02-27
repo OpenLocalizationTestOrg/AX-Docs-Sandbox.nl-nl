@@ -1,24 +1,26 @@
 ---
-title: Product receipt against purchase orders | Microsoft Docs
+title: Product receipt against purchase orders
 description: This article describes the various options for registering products as received.
 author: YuyuScheller
 manager: AnnBe
-ms.date: 2016-06-16 14:19:13
+ms.date: 2016-06-16 14 - 19 - 13
 ms.topic: article
 ms.prod: 
 ms.service: Dynamics365Operations
 ms.technology: 
-keywords: PurchTable
+ms.search.form: PurchTable
 audience: Application User
-ms.reviewer: 2084
-ms.suite: Released- Dynamics AX 7.0.0
+ms.search.scope: AX 7.0.0, Operations
 ms.custom: 93113
-ms.assetid: f2f64fd7-a672-4bcc-bb9e-ce00cb96034a
-ms.region: Global
+ms.assetid: d4ec3e86-fce2-4546-911b-e0acf64c8887
+ms.search.region: Global
 ms.author: fdahl
+ms.dyn365.ops.intro: 01-02-2016
+ms.dyn365.ops.version: AX 7.0.0
 translationtype: Human Translation
-ms.sourcegitcommit: 744ac447b01dee241043ba27e3b1ffdcb0022a1b
-ms.openlocfilehash: 6739ff99bf4e400556d63b674367103fcabaa5a6
+ms.sourcegitcommit: b97d17ceabfd25c52c5f0c1e96a123bae6941c5a
+ms.openlocfilehash: 1e2ee55bc8e9499f6d1c2857fe42922b825315a4
+ms.lasthandoff: 02/22/2017
 
 
 ---
@@ -41,17 +43,12 @@ Most often, the **Product receipt** action on the **Purchase orders** page is us
 <a name="see-also"></a>See also
 --------
 
-[Purchase order overview](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-order-overview)
+[Purchase order overview](purchase-order-overview.md)
 
-[Purchase order creation](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-order-creation)
+[Purchase order creation](purchase-order-creation.md)
 
-[Purchase order approval and confirmation](https://docs.microsoft.com/en-us/dynamics365/operations/manufacturing/procurement-sourcing/purchase-order-approval-and-confirmation)
+[Purchase order approval and confirmation](purchase-order-approval-confirmation.md)
 
-[Overview of vendor invoices](https://docs.microsoft.com/en-us/dynamics365/operations/financials/accounts-payable/vendor-invoices-overview)
-
-
-
-
-<!--HONumber=Feb17_HO3-->
+[Overview of vendor invoices](vendor-invoices-overview.md)
 
 
